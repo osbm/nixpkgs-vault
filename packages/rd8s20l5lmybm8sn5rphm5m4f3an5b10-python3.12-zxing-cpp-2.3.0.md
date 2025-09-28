@@ -1,0 +1,78 @@
+---
+aliases:
+  - python312Packages.zxing-cpp
+tags:
+  - license/unknown
+  - maintainers/lukegb
+  - outputs/dist
+  - outputs/out
+---
+
+# python312Packages.zxing-cpp
+
+## 📝 Description
+
+ZXing-C++ ("zebra crossing") is an open-source, multi-format 1D/2D barcode
+image processing library implemented in C++.
+
+It was originally ported from the Java ZXing Library but has been
+developed further and now includes many improvements in terms of quality
+and performance. It can both read and write barcodes in a number of
+formats.
+
+
+## 📋 Package Information
+
+- **Name**: `python312Packages.zxing-cpp`
+- **Version**: `2.3.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: C++ port of zxing (a Java barcode image processing library)
+- **Homepage**: [https://github.com/zxing-cpp/zxing-cpp](https://github.com/zxing-cpp/zxing-cpp)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `x86_64-solaris`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`
+## 👥 Maintainers
+
+- @lukegb
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/rd8s20l5lmybm8sn5rphm5m4f3an5b10-python3.12-zxing-cpp-2.3.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/by-name/zx/zxing-cpp/package.nix:49`
+- **Outputs**:
+  - `dist`:  `/nix/store/rd8s20l5lmybm8sn5rphm5m4f3an5b10-python3.12-zxing-cpp-2.3.0`
+  - `out`:  `/nix/store/rd8s20l5lmybm8sn5rphm5m4f3an5b10-python3.12-zxing-cpp-2.3.0`
+
+## 🔗 Dependencies
+
+- [[2lyh7dr62ijjinmnspr6vnwqd2jiilyp-python3.12-pybind11-2.13.6]]
+- [[5vsffdi0kgla24ca4l9bv0fxzc7s2qyk-pypa-build-hook.sh]]
+- [[7w2n8mrznrcfisvbq5wrql2w69bir74w-python3.12-cmake-3.31.7]]
+- [[96p9l0mp0cy12s10705rpz96x6bgz371-python-output-dist-hook]]
+- [[b2gcqyf6wr8k19l1h57cgybfm7plixkq-python-remove-bin-bytecode-hook]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[bki4kxsbvd13sz5a2bqr2b9y7vvgpmiy-python-runtime-deps-check-hook.sh]]
+- [[d1hdhr4prqz14h407pjm7xm9kxxj8019-source]]
+- [[di2np59yg9yf560yms5ff9188a5gnlbb-python-imports-check-hook.sh]]
+- [[dkqa3dj2k1vqrmlyd6hrdf8dww0f5dr9-python-remove-tests-dir-hook]]
+- [[fhrpbbzpqw4bvsy4ixq1fb9k2aaslnw0-python-catch-conflicts-hook]]
+- [[fz0k8m7chhichwdj1h1g54hjfh80g3nm-python3-3.12.11]]
+- [[g9bcdx47nd5qfi29d66nbxbwckd5g99m-python-namespaces-hook.sh]]
+- [[j45jmjf6mwz46p7f0f8hjpnzi9pz2pzv-wrap-python-hook]]
+- [[jzdl0i3di0kb5v41nvfwgc4j9dc2km9x-pytest-check-hook]]
+- [[kh0627w4wff8syd1iis567224170xw3l-pypa-install-hook]]
+- [[m40kr9grz9q6wv1551p9725mgha7m86l-python3.12-setuptools-scm-9.0.1]]
+- [[ngizskj89rjm27f7cvzmv4wj1xzrrby0-python3.12-numpy-2.3.2]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[q2wblirg740bczx6814r17vv1hdd38ly-python3.12-pillow-11.3.0]]
+- [[xw3k145ar72xgbzb2plmvcf0szqc3izs-zint-2.15.0]]
+- [[z99vzf35iinh3dnh2g994wbcbjrv4siq-ensure-newer-sources-hook]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:21:53 UTC*

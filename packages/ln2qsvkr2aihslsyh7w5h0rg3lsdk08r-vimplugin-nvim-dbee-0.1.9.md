@@ -1,0 +1,55 @@
+---
+aliases:
+  - vimPlugins.nvim-dbee
+tags:
+  - license/unknown
+  - maintainers/PerchunPak
+  - outputs/out
+---
+
+# vimPlugins.nvim-dbee
+
+## 📝 Description
+
+Interactive database client for neovim
+
+## 📋 Package Information
+
+- **Name**: `vimPlugins.nvim-dbee`
+- **Version**: `0.1.9`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Interactive database client for neovim
+- **Homepage**: [https://github.com/kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+## 👥 Maintainers
+
+- @PerchunPak
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/ln2qsvkr2aihslsyh7w5h0rg3lsdk08r-vimplugin-nvim-dbee-0.1.9.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/applications/editors/vim/plugins/non-generated/nvim-dbee/default.nix:65`
+- **Outputs**:
+  - `out`:  `/nix/store/ln2qsvkr2aihslsyh7w5h0rg3lsdk08r-vimplugin-nvim-dbee-0.1.9`
+
+## 🔗 Dependencies
+
+- [[4q716wwrhpsg0wlci6ps36bfn9rdjyl2-vim-command-check-hook]]
+- [[5dgx9j0n69c5jzbd8l4ifpjvhzwb0vkh-source]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[d0bpkxi97s30gjs8zdpim11y41nscchl-neovim-require-check-hook]]
+- [[dnw9kj5wwxm46yc94bwhxr6r9achcv6l-dbee-bin-0.1.9]]
+- [[hsqj98g1hzp8a0vks9wdkzvhyiprr2d5-vim-gen-doc-hook]]
+- [[nx0ih6bcwyj23f2mp7fkrcjzry829jal-vimplugin-luajit2.1-nui.nvim-0.4.0-1-unstable-0.4.0-1]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:10:44 UTC*

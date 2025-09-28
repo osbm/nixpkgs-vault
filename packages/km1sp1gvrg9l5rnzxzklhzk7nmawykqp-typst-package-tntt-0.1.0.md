@@ -1,0 +1,52 @@
+---
+aliases:
+  - typstPackages.tntt_0_1_0
+tags:
+  - license/unknown
+  - maintainers/cherrypiejam
+  - outputs/out
+---
+
+# typstPackages.tntt_0_1_0
+
+## 📝 Description
+
+Tntt is Not a Tex Thesis Template for Tsinghua university
+
+## 📋 Package Information
+
+- **Name**: `typstPackages.tntt_0_1_0`
+- **Version**: `0.1.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Tntt is Not a Tex Thesis Template for Tsinghua university
+- **Homepage**: [https://github.com/chillcicada/tntt](https://github.com/chillcicada/tntt)
+- **License**: `unknown`
+## 👥 Maintainers
+
+- @cherrypiejam
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/km1sp1gvrg9l5rnzxzklhzk7nmawykqp-typst-package-tntt-0.1.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/by-name/ty/typst/typst-packages.nix:39`
+- **Outputs**:
+  - `out`:  `/nix/store/km1sp1gvrg9l5rnzxzklhzk7nmawykqp-typst-package-tntt-0.1.0`
+
+## 🔗 Dependencies
+
+- [[6dg1vi55ynf4dmkmmcn945pwdz010s34-stdenv-linux]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[j7gvragjx17n3xqkzbc0lmixdpd8d6b0-typst-package-i-figured-0.2.4]]
+- [[sjqbrnqnp46srcbakd6166zk2w06qz6p-typst-package-cuti-0.3.0]]
+- [[xvb5smg95yyygsqhlncvlhwy98gp9y36-typst-package-tablex-0.0.9]]
+- [[y7a312qgqaqqvdz4is8nnr87p3sd9xx4-source]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:12:09 UTC*

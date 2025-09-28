@@ -1,0 +1,56 @@
+---
+aliases:
+  - axel
+tags:
+  - license/unknown
+  - maintainers/pSub
+  - outputs/out
+---
+
+# axel
+
+## 📝 Description
+
+Console downloading program with some features for parallel connections for faster downloading
+
+## 📋 Package Information
+
+- **Name**: `axel`
+- **Version**: `2.17.14`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Console downloading program with some features for parallel connections for faster downloading
+- **Homepage**: [https://github.com/axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `x86_64-solaris`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`
+## 👥 Maintainers
+
+- @pSub
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/lv50afyvr7l31ywmcsqagpmzgh1vwcj4-axel-2.17.14.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/tools/networking/axel/default.nix:49`
+- **Outputs**:
+  - `out`:  `/nix/store/lv50afyvr7l31ywmcsqagpmzgh1vwcj4-axel-2.17.14`
+
+## 🔗 Dependencies
+
+- [[1fzxi5zfzvgbj9j19wl9ihk41nhmjyw3-autoconf-archive-2024.10.16]]
+- [[6zrcwvg1pr29ix0bz2hvgg7c17jzr0jl-txt2man-1.7.1]]
+- [[7d5p0ip9nd3aj3r1a2pmhsxxizqqnis8-openssl-3.5.1]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[fdsiavmafjqslhcim9zz4xlnqpkzqjz8-autoreconf-hook]]
+- [[jvjv4819xa093nvkc2vjcx3dr797bz3c-source]]
+- [[lvdvlk7cwad5mna0wfpz8jllb30jdj1n-pkg-config-wrapper-0.29.2]]
+- [[m0h8vm7wnxqmzy77yph902p607lx7np5-gettext-0.25.1]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 11:45:05 UTC*

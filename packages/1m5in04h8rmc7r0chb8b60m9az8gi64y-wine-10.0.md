@@ -1,0 +1,97 @@
+---
+aliases:
+  - winePackages.wayland
+tags:
+  - license/unknown
+  - maintainers/avnik
+  - maintainers/bendlas
+  - maintainers/jmc-figueira
+  - maintainers/kira-bruneau
+  - maintainers/7c6f434c
+  - maintainers/reckenrode
+  - outputs/out
+---
+
+# winePackages.wayland
+
+## 📝 Description
+
+Open Source implementation of the Windows API on top of X, OpenGL, and Unix
+
+## 📋 Package Information
+
+- **Name**: `winePackages.wayland`
+- **Version**: `10.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
+- **Homepage**: [https://www.winehq.org/](https://www.winehq.org/)
+- **License**: `unknown`
+- **Platforms**: `i686-linux`, `x86_64-linux`
+## 👥 Maintainers
+
+- @avnik
+- @bendlas
+- @jmc-figueira
+- @kira-bruneau
+- @7c6f434c
+- @reckenrode
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/1m5in04h8rmc7r0chb8b60m9az8gi64y-wine-10.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/applications/emulators/wine/base.nix:301`
+- **Outputs**:
+  - `out`:  `/nix/store/1m5in04h8rmc7r0chb8b60m9az8gi64y-wine-10.0`
+
+## 🔗 Dependencies
+
+- [[03nn1na9yn4cslyynmn9md5k3mrcviik-wine-10.0.tar.xz]]
+- [[06h3wjffiw52hl26ihri5jga4jsq8ihp-bash-5.3p3]]
+- [[19dyiaw989kpmkj5wysv1pr2c3cm00j5-libxkbcommon-1.11.0]]
+- [[2bwfzfmd8bq3ch07224pa9p4r8y34a5a-pkg-config-wrapper-0.29.2]]
+- [[307fd3qgjsigab9vh9a9fm8i7gzcfpsd-sdl2-compat-2.32.56]]
+- [[3mwimx7ahxyb4kpabxngcqbqa4791si6-libpulseaudio-17.0]]
+- [[3rlpb1vqf6jbbx1mfs5vxah6463bvkqv-freetype-2.13.3]]
+- [[6r6l0bisp1lg3chxsg8185gfm7rgyjz4-libglvnd-1.7.0]]
+- [[790cf80w4bhqv9cimfp5xrp08ndm41lf-perl-5.40.0]]
+- [[abswijws7p0ap6pijaa5n12g6ii10802-sane-backends-1.4.0]]
+- [[axyaisvniywmrs03bi7w7c8x53aprrlg-winebuild-avoid-using-idata-section]]
+- [[bnxpl8mg55ra92j4556hxlf79y0lzzay-gettext-0.25.1]]
+- [[ck4skxxvarxk2glaz4lh8gm94bp3i063-ntdll-use-signed-type]]
+- [[cyhh6c0kk7pm7vn3sca1m840k0fg05f8-systemd-minimal-libs-257.8]]
+- [[d2k7h9a2vi1c23brar3cn98n3k1fddsf-bison-3.8.2]]
+- [[dzkhsy9f5gpwgsvwx0z29m2kvikv1gdw-openssl-3.5.1]]
+- [[f1dz2r4v1q829abcwab7j2fqcmpjza43-fontforge-20230101]]
+- [[fnrysp8ickpv3qzfrg3pj28h9nml2s4h-flex-2.6.4]]
+- [[hbwsv0fwsysvm9z8af1v1n5247jp4l3m-wayland-protocols-1.45]]
+- [[i0mpymcknij9mn2yc8pr52yf2cz1ih8l-i686-w64-mingw32-gcc-wrapper-14.3.0]]
+- [[jgf93rbwrmp4n85i38ai3bicp41zwgxr-wayland-scanner-1.24.0]]
+- [[jhhn330f4zrlaksj34k96s8h49lyxy68-alsa-lib-1.2.14]]
+- [[jv742kzjwl2fs19v1xw6cxijzhw8pzvl-libunwind-1.8.2]]
+- [[kr8glv7ihz05lpr1di6p8m880i3csyns-gcc-14.3.0]]
+- [[lmsbx1z2s0dspgihz4wigfg681vk1x03-cairo-1.18.4]]
+- [[mr47sz7c17dmrmk1bcgsxin34kdd3d39-wayland-1.24.0]]
+- [[n1l10y7hif4h81zqvxlb9hbmq6vwlwcp-fontconfig-2.16.2]]
+- [[piqzjz9g8x5b4ly2vibd3nqql9l5wvbd-libcap-2.76]]
+- [[qg38z5z71lla2cnndvr9js1ykxnwcw2w-stdenv-linux]]
+- [[r2d8wkqppr4xrqb7acb2h3w99jh9vx94-vulkan-loader-1.4.321.0]]
+- [[r763mpa8prsa4hxg804cm67mmj4xmpqi-mesa-libgbm-25.1.0]]
+- [[r83fmbfycmydkynf0yisxjbqq37kj3v3-make-shell-wrapper-hook]]
+- [[sidvv5j8715k80w633094p6lvb0s2g5f-gnutls-3.8.10]]
+- [[vl4nhfik7q8ddcd7m6ym38ia219835yp-ncurses-6.5]]
+- [[w636xqwcf34fl9fcpvszi2hvw9z8higg-dbus-1.14.10]]
+- [[w8lyvzq38pkx2bf3gh2w7z1is1gzbxgg-glu-9.0.3]]
+- [[wy3x1wv5f0jflw3z2p1lwlpr2ynsbqbb-libdrm-2.4.125]]
+- [[y8hj17qp0q4fqf95zywmqn4psj2liqf9-cups-2.4.12]]
+- [[zdchkvsxjzlcqrw4slf7rdnr1g6nd6d0-libusb-1.0.29]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/p2qhadv6sgc1dk60wqxnnnrpsh25ci1l-cert-path.patch`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:15:41 UTC*

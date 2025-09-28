@@ -1,0 +1,57 @@
+---
+aliases:
+  - muon
+tags:
+  - license/unknown
+  - outputs/man
+  - outputs/out
+---
+
+# muon
+
+## 📝 Description
+
+Implementation of the meson build system in C99
+
+## 📋 Package Information
+
+- **Name**: `muon`
+- **Version**: `0.5.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Implementation of the meson build system in C99
+- **Homepage**: [https://muon.build](https://muon.build)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `x86_64-solaris`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/a9lag66aczwq5pgkp4nzvp3vv3lwp034-muon-0.5.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/by-name/mu/muon/package.nix:196`
+- **Outputs**:
+  - `man`:  `/nix/store/a9lag66aczwq5pgkp4nzvp3vv3lwp034-muon-0.5.0`
+  - `out`:  `/nix/store/a9lag66aczwq5pgkp4nzvp3vv3lwp034-muon-0.5.0`
+
+## 🔗 Dependencies
+
+- [[0hw1djq9bcvxf0pf51mfjq6ar0nnys9k-pkgconf-wrapper-2.4.3]]
+- [[1cvfdigyqi1dyyswad4cnxwm2a9gdmjw-samurai-1.2]]
+- [[1j90z3lj3fn4fahaishwg9blnrjw181g-zlib-1.3.1]]
+- [[7d8mj7pkgflnlfcvq1iw1pmclpq3w9lx-meson-docs]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[d4lc3v8nn7r75392l4slk4cpqgzys8s8-pkgconf-2.4.3]]
+- [[g1smgp5dhq2ii8np7vm7n5znki3ak1b1-curl-8.14.1]]
+- [[n4d8z8j2k033pp4wcah53ir38yjqq021-scdoc-1.11.3]]
+- [[nbs4s89xwvhfw78i1k44qn1w084264dy-libarchive-3.8.1]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[vbnhw414akvj1wn6qv177r0qq3y5gl60-python3-3.13.7-env]]
+- [[wi1267pz58jspy56cjbs0mr11xwwvaw8-muon-src]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/ng9wcl2b1l66dlzk5k8y8hgqnfdba9pb-darwin-clang.patch`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:12:32 UTC*

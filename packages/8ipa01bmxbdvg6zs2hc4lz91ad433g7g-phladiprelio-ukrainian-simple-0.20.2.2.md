@@ -1,0 +1,71 @@
+---
+aliases:
+  - haskellPackages.phladiprelio-ukrainian-simple
+tags:
+  - license/unknown
+  - outputs/doc
+  - outputs/out
+---
+
+# haskellPackages.phladiprelio-ukrainian-simple
+
+## 📝 Description
+
+A PhLADiPreLiO implementation for Ukrainian that uses hashes and asynchronous concurrency
+
+## 📋 Package Information
+
+- **Name**: `haskellPackages.phladiprelio-ukrainian-simple`
+- **Version**: `0.20.2.2`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: A PhLADiPreLiO implementation for Ukrainian that uses hashes and asynchronous concurrency
+- **Homepage**: [https://hackage.haskell.org/package/phladiprelio-ukrainian-simple](https://hackage.haskell.org/package/phladiprelio-ukrainian-simple)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/8ipa01bmxbdvg6zs2hc4lz91ad433g7g-phladiprelio-ukrainian-simple-0.20.2.2.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/haskell-modules/hackage-packages.nix:516289`
+- **Outputs**:
+  - `doc`:  `/nix/store/8ipa01bmxbdvg6zs2hc4lz91ad433g7g-phladiprelio-ukrainian-simple-0.20.2.2`
+  - `out`:  `/nix/store/8ipa01bmxbdvg6zs2hc4lz91ad433g7g-phladiprelio-ukrainian-simple-0.20.2.2`
+
+## 🔗 Dependencies
+
+- [[28n92fcilljmff83fgqnc2v20q94633n-phladiprelio-ukrainian-shared-0.5.0.2]]
+- [[3f6sixlbp3rqynrskq23397w2fpnzrgb-phladiprelio-tests-0.1.0.0]]
+- [[4lykrm96bxajhbrv42nzm365n9yf9s1y-coreutils-9.7]]
+- [[55skdvm9nvfv299nmajgpznd8x6mns9s-glibc-locales-2.40-66]]
+- [[7m6nf7cqpbijy0bwbbv06kdc6i3sqkm3-ukrainian-phonetics-basic-array-0.10.0.0]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[cj2f5hgckqps5am25ymqarx82ijhliwk-rhythmic-sequences-0.8.0.0]]
+- [[cj60cv5hk77qybir7vfjvfg5yi2nfwwp-cli-arguments-0.7.0.0]]
+- [[g9x9h3qz19dplq3pi9094h3azysbdv1f-phonetic-languages-permutations-array-0.5.0.0]]
+- [[gy9bk0wfd8f2mzzwj5rqbp00adqbl7ph-remove-references-to]]
+- [[h3y63zg8n5zllfxxz8njvdy43a0dwg1s-hscolour-1.25]]
+- [[hy3yc7m2vpadqrzvjjmyn9hshhaax6vw-phonetic-languages-basis-0.3.0.0]]
+- [[i1xgs6cdax445491kdkrl9dwkjrk3qjb-haskell-generic-builder-test-wrapper.sh]]
+- [[jg5914kbszh7qbf9xjcyplwgzw219ivk-phonetic-languages-constraints-array-0.8.0.0]]
+- [[kr6zp1zwmy96bk8675sa6asw9s0jz9cp-halfsplit-0.4.3.0]]
+- [[l06snxq6dqnrp2y33kv08l0xjnbqs2gm-minmax-0.1.1.0]]
+- [[l1ya8rcgk405jscx6136q18v70r0lamx-ghc-9.8.4]]
+- [[lpiahp06wr84g9wrr87yrw3nqs8j1agy-phladiprelio-general-datatype-0.10.1.0]]
+- [[p3vg6gfwlv6q8vsy9szmmsvyg6wkadqq-phladiprelio-ukrainian-simple-0.20.2.2.tar.gz]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[pqyf6khzwr12gs28w3m8hs3xc0pssz0x-async-2.2.5]]
+- [[qsgd49rgy49qin7k139mnikgysps7rdy-mmsyn2-array-0.3.1.1]]
+- [[vwg4ad9508kr5g1rbf6ragqncsxl7llz-phonetic-languages-simplified-base-0.9.0.0]]
+- [[z8j659bc4xpizfmz70gh8lzh4hzgr9yq-rev-scientific-0.2.1.0]]
+- [[znpifi9blvmpfcr4rm0mp7wq7rhcbjmm-phonetic-languages-ukrainian-array-0.12.2.0]]
+
+## 📁 Input Sources
+
+- `/nix/store/4mdp8nhyfddh7bllbi7xszz7k9955n79-Setup.hs`
+- `/nix/store/907d7wf2d113vlv8dlhi1i3d683gc1rs-unpretty-cabal-conf.awk`
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:26:59 UTC*

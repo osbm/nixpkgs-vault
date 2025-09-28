@@ -1,0 +1,74 @@
+---
+aliases:
+  - python313Packages.stanza
+tags:
+  - license/unknown
+  - maintainers/riotbib
+  - outputs/dist
+  - outputs/out
+---
+
+# python313Packages.stanza
+
+## 📝 Description
+
+Official Stanford NLP Python Library for Many Human Languages
+
+## 📋 Package Information
+
+- **Name**: `python313Packages.stanza`
+- **Version**: `1.10.1`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Official Stanford NLP Python Library for Many Human Languages
+- **Homepage**: [https://github.com/stanfordnlp/stanza/](https://github.com/stanfordnlp/stanza/)
+- **License**: `unknown`
+- **Platforms**: `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `x86_64-darwin`, `aarch64-darwin`, `i686-cygwin`, `x86_64-cygwin`, `aarch64-windows`, `x86_64-windows`, `i686-windows`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`
+## 👥 Maintainers
+
+- @riotbib
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/ph9gz2fb4rp99kyyc7i9bhzxrqb3qpyi-python3.13-stanza-1.10.1.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/python-modules/stanza/default.nix:53`
+- **Outputs**:
+  - `dist`:  `/nix/store/ph9gz2fb4rp99kyyc7i9bhzxrqb3qpyi-python3.13-stanza-1.10.1`
+  - `out`:  `/nix/store/ph9gz2fb4rp99kyyc7i9bhzxrqb3qpyi-python3.13-stanza-1.10.1`
+
+## 🔗 Dependencies
+
+- [[06a2j9jv7f40ihnra63q0xx99ry62h35-python-imports-check-hook.sh]]
+- [[0r5vk0k5fpi7mkca4hfbn0kkjm12cabk-python3.13-networkx-3.5]]
+- [[11s3f8n098h0gwwb1y63lp0sbjbqf9mj-python3.13-peft-0.17.0]]
+- [[257k0vnqp1xjgyrpc5as1r0nl7s4yv71-python3-3.13.7]]
+- [[3cnavfzmy3b7k16dvn5k0lpp5jyxb6hb-python3.13-tqdm-4.67.1]]
+- [[3fcbcd8wwqbxhvdgh5i6pcqvgyfkafb1-python3.13-emoji-2.14.1]]
+- [[7s7g039id3fdxw1f6dhnxg6qpqap64x8-wrap-python-hook]]
+- [[8bc11zl7ffsq5rbllc1n9347gb4hnlsq-source]]
+- [[96p9l0mp0cy12s10705rpz96x6bgz371-python-output-dist-hook]]
+- [[b2gcqyf6wr8k19l1h57cgybfm7plixkq-python-remove-bin-bytecode-hook]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[bz3qwvlhw8g6s55lcfql1ii9mmfc8rha-python3.13-torch-2.8.0]]
+- [[dadz4lh1m644qsy5fqhw6w0n23c0ccy1-python-namespaces-hook.sh]]
+- [[g7k5bzddpyyhs490yw7x2j6wj63dlf24-python-catch-conflicts-hook]]
+- [[gbhhsw609s2xr7w26gnvz615cb7x3g3d-python3.13-numpy-2.3.2]]
+- [[h05wqxmismxpyizn01bvkmwgqzy4z6ij-python3.13-protobuf-6.32.0]]
+- [[idb7z4yb8kc4w80j3kb2yjy3jnd19g4l-python3.13-transformers-4.56.2]]
+- [[jqq5x28kddwnjdq3wagwha8nda5ciqhk-python3.13-six-1.17.0]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[q31amkdlw945gfmqcci8n00brh5liiz2-pypa-install-hook]]
+- [[qgw51wgjbxm5ia6y7wsc8n8aasxl7iyx-python3.13-toml-0.10.2]]
+- [[rs3h8g5y8rznyb4k64hgvzvp3jgsr5b8-python3.13-requests-2.32.4]]
+- [[vm757gkx227mkr0maavvvba01mk1dyp1-python-remove-tests-dir-hook]]
+- [[wiymq0rb9pki1dcp8nvwj0gqd8x9ppw7-setuptools-build-hook]]
+- [[z99vzf35iinh3dnh2g994wbcbjrv4siq-ensure-newer-sources-hook]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:37:12 UTC*

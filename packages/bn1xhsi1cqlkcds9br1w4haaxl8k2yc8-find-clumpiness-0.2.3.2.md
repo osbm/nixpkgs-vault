@@ -1,0 +1,65 @@
+---
+aliases:
+  - haskellPackages.find-clumpiness
+tags:
+  - license/unknown
+  - outputs/doc
+  - outputs/out
+---
+
+# haskellPackages.find-clumpiness
+
+## 📝 Description
+
+Find the clumpiness of labels in a tree
+
+## 📋 Package Information
+
+- **Name**: `haskellPackages.find-clumpiness`
+- **Version**: `0.2.3.2`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Find the clumpiness of labels in a tree
+- **Homepage**: [https://hackage.haskell.org/package/find-clumpiness](https://hackage.haskell.org/package/find-clumpiness)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/bn1xhsi1cqlkcds9br1w4haaxl8k2yc8-find-clumpiness-0.2.3.2.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/haskell-modules/hackage-packages.nix:233889`
+- **Outputs**:
+  - `doc`:  `/nix/store/bn1xhsi1cqlkcds9br1w4haaxl8k2yc8-find-clumpiness-0.2.3.2`
+  - `out`:  `/nix/store/bn1xhsi1cqlkcds9br1w4haaxl8k2yc8-find-clumpiness-0.2.3.2`
+
+## 🔗 Dependencies
+
+- [[3mjq32n2l81bfwmn4mmbvdlzvgbjvrjz-BiobaseNewick-0.0.0.2]]
+- [[4lykrm96bxajhbrv42nzm365n9yf9s1y-coreutils-9.7]]
+- [[55skdvm9nvfv299nmajgpznd8x6mns9s-glibc-locales-2.40-66]]
+- [[8hmdccc8v4fvkdzsq8lqz8wq936m4nki-optparse-applicative-0.18.1.0]]
+- [[9gw5p6md7r4gnkpqrdgap7r41264hc65-find-clumpiness-0.2.3.2.tar.gz]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[gy9bk0wfd8f2mzzwj5rqbp00adqbl7ph-remove-references-to]]
+- [[h3y63zg8n5zllfxxz8njvdy43a0dwg1s-hscolour-1.25]]
+- [[ha6nvfy0z5c68jw6af46br6crcnrfz5g-unordered-containers-0.2.20]]
+- [[hh7vnqszpw6jls46yskljngxwl2995c6-aeson-2.2.3.0]]
+- [[i1xgs6cdax445491kdkrl9dwkjrk3qjb-haskell-generic-builder-test-wrapper.sh]]
+- [[l1ya8rcgk405jscx6136q18v70r0lamx-ghc-9.8.4]]
+- [[n7s2madsxc6g7ikqqsdjqxmqp7idiksd-hierarchical-clustering-0.4.7]]
+- [[ng3imd0sx5mnm96xip4i1phix7snnq5z-text-show-3.11.2]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[qbvlivfgl6rrla7dg3c1bmi58glw5akf-tree-fun-0.8.1.0]]
+- [[v9a84jfph4k9x7yhhf2zmygw5k3q0732-vector-0.13.2.0]]
+- [[vq0n1ybcvvqdcp15n2080cmjpy4z5447-listsafe-0.1.0.1]]
+- [[xq6c1lzvsd472rv9mc5z11gnn1zz8lw5-clumpiness-0.17.0.2]]
+
+## 📁 Input Sources
+
+- `/nix/store/4mdp8nhyfddh7bllbi7xszz7k9955n79-Setup.hs`
+- `/nix/store/907d7wf2d113vlv8dlhi1i3d683gc1rs-unpretty-cabal-conf.awk`
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:44:09 UTC*

@@ -1,0 +1,49 @@
+---
+aliases:
+  - typstPackages.nutshell
+tags:
+  - license/unknown
+  - maintainers/cherrypiejam
+  - outputs/out
+---
+
+# typstPackages.nutshell
+
+## 📝 Description
+
+Template for promotional postcards
+
+## 📋 Package Information
+
+- **Name**: `typstPackages.nutshell`
+- **Version**: `0.1.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Template for promotional postcards
+- **Homepage**: [https://github.com/baptiste/nutshell](https://github.com/baptiste/nutshell)
+- **License**: `unknown`
+## 👥 Maintainers
+
+- @cherrypiejam
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/hdci9ndvnpbdns3hqmlsj7l21y97bbyw-typst-package-nutshell-0.1.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/by-name/ty/typst/typst-packages.nix:39`
+- **Outputs**:
+  - `out`:  `/nix/store/hdci9ndvnpbdns3hqmlsj7l21y97bbyw-typst-package-nutshell-0.1.0`
+
+## 🔗 Dependencies
+
+- [[6dg1vi55ynf4dmkmmcn945pwdz010s34-stdenv-linux]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[jlawvymg9m05qmr8734qk5sd7h4mn6pq-source]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:12:12 UTC*

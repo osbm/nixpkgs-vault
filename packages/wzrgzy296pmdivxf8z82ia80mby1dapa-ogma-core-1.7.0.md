@@ -1,0 +1,75 @@
+---
+aliases:
+  - haskellPackages.ogma-core
+tags:
+  - license/unknown
+  - outputs/data
+  - outputs/doc
+  - outputs/out
+---
+
+# haskellPackages.ogma-core
+
+## 📝 Description
+
+Ogma: Helper tool to interoperate between Copilot and other languages
+
+## 📋 Package Information
+
+- **Name**: `haskellPackages.ogma-core`
+- **Version**: `1.7.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Ogma: Helper tool to interoperate between Copilot and other languages
+- **Homepage**: [https://hackage.haskell.org/package/ogma-core](https://hackage.haskell.org/package/ogma-core)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/wzrgzy296pmdivxf8z82ia80mby1dapa-ogma-core-1.7.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/haskell-modules/hackage-packages.nix:487317`
+- **Outputs**:
+  - `data`:  `/nix/store/wzrgzy296pmdivxf8z82ia80mby1dapa-ogma-core-1.7.0`
+  - `doc`:  `/nix/store/wzrgzy296pmdivxf8z82ia80mby1dapa-ogma-core-1.7.0`
+  - `out`:  `/nix/store/wzrgzy296pmdivxf8z82ia80mby1dapa-ogma-core-1.7.0`
+
+## 🔗 Dependencies
+
+- [[0fvg5w1q1qmxiv3jiyvxjlw5zd40g87l-ogma-language-smv-1.7.0]]
+- [[37rckp3r88pnadm5a57y52i5khwjhrqi-megaparsec-9.7.0]]
+- [[4lykrm96bxajhbrv42nzm365n9yf9s1y-coreutils-9.7]]
+- [[55skdvm9nvfv299nmajgpznd8x6mns9s-glibc-locales-2.40-66]]
+- [[5s6yg39cb6kxy72lwq4dk94dmm99fgby-ogma-language-lustre-1.7.0]]
+- [[ash84ss5zqzr08zaar7i43gbdxbm06fw-ogma-extra-1.7.0]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[cfbf91vw6rbbmd97gmbaczwfj36x3bc3-ogma-core-1.7.0.tar.gz]]
+- [[cqc1fl2jg2dca2ndvdn4siy41qngr2rx-test-framework-hunit-0.3.0.2]]
+- [[fjgfr6dvmw9vjf6kgasz1r5q9fsxhliw-HUnit-1.6.2.0]]
+- [[garv0l144ccmi9i7vsmqvr87q6j36yia-graphviz-2999.20.2.1]]
+- [[gy9bk0wfd8f2mzzwj5rqbp00adqbl7ph-remove-references-to]]
+- [[h3y63zg8n5zllfxxz8njvdy43a0dwg1s-hscolour-1.25]]
+- [[hh7vnqszpw6jls46yskljngxwl2995c6-aeson-2.2.3.0]]
+- [[i1xgs6cdax445491kdkrl9dwkjrk3qjb-haskell-generic-builder-test-wrapper.sh]]
+- [[jscs4q8y57nrwgqjdgp8pb2b9dylchzj-test-framework-quickcheck2-0.3.0.6]]
+- [[jvz0iafvcb6qcg5bbb1aczpxaifb9x52-ogma-language-c-1.7.0]]
+- [[kf160skfwpf98c6iibz31l21j51kidf8-test-framework-0.8.2.2]]
+- [[l1ya8rcgk405jscx6136q18v70r0lamx-ghc-9.8.4]]
+- [[ngxr3adadavypbrlbs0sd8rh3w580r06-ogma-spec-1.7.0]]
+- [[p5arq7mpqmdbkg40ci8wri6y24l9yr7x-ogma-language-jsonspec-1.7.0]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[q3jv00r1j78p12m8c5k7awxw0kiyfjkk-ogma-language-copilot-1.7.0]]
+- [[ri449253r6pjwq7n74m1pd2n0h9p444w-ogma-language-xmlspec-1.7.0]]
+- [[sbdz6nzz9mf6lar6ccsl9f73wjgcbs23-ogma-language-csv-1.7.0]]
+- [[xxsw7vma55x1631n97y8pxdx8vs28zy4-ogma-language-xlsx-1.7.0]]
+- [[z6yjfa26dwnr1sg5c2jfb12f6rivjsmw-QuickCheck-2.14.3]]
+
+## 📁 Input Sources
+
+- `/nix/store/4mdp8nhyfddh7bllbi7xszz7k9955n79-Setup.hs`
+- `/nix/store/907d7wf2d113vlv8dlhi1i3d683gc1rs-unpretty-cabal-conf.awk`
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:09:07 UTC*

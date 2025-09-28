@@ -1,0 +1,54 @@
+---
+aliases:
+  - autoconf269
+tags:
+  - license/unknown
+  - outputs/out
+---
+
+# autoconf269
+
+## 📝 Description
+
+GNU Autoconf is an extensible package of M4 macros that produce
+shell scripts to automatically configure software source code
+packages.  These scripts can adapt the packages to many kinds of
+UNIX-like systems without manual user intervention.  Autoconf
+creates a configuration script for a package from a template
+file that lists the operating system features that the package
+can use, in the form of M4 macro calls.
+
+
+## 📋 Package Information
+
+- **Name**: `autoconf269`
+- **Version**: `2.69`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Part of the GNU Build System
+- **Homepage**: [https://www.gnu.org/software/autoconf/](https://www.gnu.org/software/autoconf/)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/9la9jbgqkqm3g8ys0wdb49klh7pb8j20-autoconf-2.69.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/tools/misc/autoconf/2.69.nix:46`
+- **Outputs**:
+  - `out`:  `/nix/store/9la9jbgqkqm3g8ys0wdb49klh7pb8j20-autoconf-2.69`
+
+## 🔗 Dependencies
+
+- [[7xxy9lh57b1yd3f9dq4hza6z4xyxh30f-autoconf-2.69.tar.xz]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[lhw9cl3zbzmb2zj7fpi8dhxf930h9253-perl-5.40.0]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[sp2vq01660i7gmsgddk4x9di14gwny4m-gnum4-1.4.20]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 11:43:00 UTC*

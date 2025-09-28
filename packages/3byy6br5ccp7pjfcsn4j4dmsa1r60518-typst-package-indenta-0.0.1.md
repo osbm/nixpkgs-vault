@@ -1,0 +1,49 @@
+---
+aliases:
+  - typstPackages.indenta_0_0_1
+tags:
+  - license/unknown
+  - maintainers/cherrypiejam
+  - outputs/out
+---
+
+# typstPackages.indenta_0_0_1
+
+## 📝 Description
+
+Fix indent of first paragraph
+
+## 📋 Package Information
+
+- **Name**: `typstPackages.indenta_0_0_1`
+- **Version**: `0.0.1`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Fix indent of first paragraph
+- **Homepage**: [https://github.com/flaribbit/indenta](https://github.com/flaribbit/indenta)
+- **License**: `unknown`
+## 👥 Maintainers
+
+- @cherrypiejam
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/3byy6br5ccp7pjfcsn4j4dmsa1r60518-typst-package-indenta-0.0.1.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/by-name/ty/typst/typst-packages.nix:39`
+- **Outputs**:
+  - `out`:  `/nix/store/3byy6br5ccp7pjfcsn4j4dmsa1r60518-typst-package-indenta-0.0.1`
+
+## 🔗 Dependencies
+
+- [[6dg1vi55ynf4dmkmmcn945pwdz010s34-stdenv-linux]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[fy72hc5s250wc5q2d4wbkp1dn7v30h7h-source]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:08:25 UTC*

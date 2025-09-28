@@ -1,0 +1,78 @@
+---
+aliases:
+  - haskellPackages.rest-gen
+tags:
+  - license/unknown
+  - outputs/data
+  - outputs/doc
+  - outputs/out
+---
+
+# haskellPackages.rest-gen
+
+## 📝 Description
+
+Documentation and client generation from rest definition
+
+## 📋 Package Information
+
+- **Name**: `haskellPackages.rest-gen`
+- **Version**: `0.20.0.3`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Documentation and client generation from rest definition
+- **Homepage**: [https://hackage.haskell.org/package/rest-gen](https://hackage.haskell.org/package/rest-gen)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/i4klfvz2a3w19jkn6v298gmy194s452p-rest-gen-0.20.0.3.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/haskell-modules/hackage-packages.nix:572550`
+- **Outputs**:
+  - `data`:  `/nix/store/i4klfvz2a3w19jkn6v298gmy194s452p-rest-gen-0.20.0.3`
+  - `doc`:  `/nix/store/i4klfvz2a3w19jkn6v298gmy194s452p-rest-gen-0.20.0.3`
+  - `out`:  `/nix/store/i4klfvz2a3w19jkn6v298gmy194s452p-rest-gen-0.20.0.3`
+
+## 🔗 Dependencies
+
+- [[16s38bv5bwp5kkwcq521hjksd5vsdixw-split-0.2.5]]
+- [[4gwgjqbzxcjjy89d7qb141f9wzfs39lg-rest-gen-0.20.0.3.tar.gz]]
+- [[4lykrm96bxajhbrv42nzm365n9yf9s1y-coreutils-9.7]]
+- [[55skdvm9nvfv299nmajgpznd8x6mns9s-glibc-locales-2.40-66]]
+- [[5bcc2dv2vlaypla3aydw4bdr9kx247f4-hxt-9.3.1.22]]
+- [[6w3nzdzdwmjjgfxvifdh5b16ysanmg3k-haskell-src-exts-1.23.1]]
+- [[a6bxf33wqxd9gbasfxq0icc3sdba1q9l-safe-0.3.21]]
+- [[bfy2x4vqlwrcw9vshq96ffwdvwwb6l70-json-schema-0.7.4.2]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[c6h2rrwbb6aa30hbbd887h09zwhjsyzk-scientific-0.3.8.0]]
+- [[cqc1fl2jg2dca2ndvdn4siy41qngr2rx-test-framework-hunit-0.3.0.2]]
+- [[dhrwy84r9w39af1sgw08phg4b9i5wzam-semigroups-0.20]]
+- [[fjgfr6dvmw9vjf6kgasz1r5q9fsxhliw-HUnit-1.6.2.0]]
+- [[g6cidqvqrcpf4pqqlrzqpxwm4gqnil04-base-compat-0.13.1]]
+- [[gy9bk0wfd8f2mzzwj5rqbp00adqbl7ph-remove-references-to]]
+- [[h3y63zg8n5zllfxxz8njvdy43a0dwg1s-hscolour-1.25]]
+- [[ha6nvfy0z5c68jw6af46br6crcnrfz5g-unordered-containers-0.2.20]]
+- [[hh7vnqszpw6jls46yskljngxwl2995c6-aeson-2.2.3.0]]
+- [[i1xgs6cdax445491kdkrl9dwkjrk3qjb-haskell-generic-builder-test-wrapper.sh]]
+- [[j88avq6yixkmz7l299k9pia5v0b2xyr0-HStringTemplate-0.8.8]]
+- [[kf160skfwpf98c6iibz31l21j51kidf8-test-framework-0.8.2.2]]
+- [[kf8r4w98mpxfb0h2cnjajlsznmaw30b6-hashable-1.4.7.0]]
+- [[l1ya8rcgk405jscx6136q18v70r0lamx-ghc-9.8.4]]
+- [[llx4xspd7fqr5wx61y8sgh92rsc7hm5x-blaze-html-0.9.2.0]]
+- [[ns1f1irn5pf1f3ill4adc2dzzb2qm1ix-code-builder-0.1.3]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[pbij17b64mgzdci1zyympryjglkkraqd-uniplate-1.6.13]]
+- [[v9a84jfph4k9x7yhhf2zmygw5k3q0732-vector-0.13.2.0]]
+- [[vismrlhfwsflcrywwzjiw19wvx43qn79-fclabels-2.0.5.1]]
+- [[zmqm95a279i63r0zaicry0x486r5gw9z-rest-core-0.39.0.2]]
+
+## 📁 Input Sources
+
+- `/nix/store/4mdp8nhyfddh7bllbi7xszz7k9955n79-Setup.hs`
+- `/nix/store/907d7wf2d113vlv8dlhi1i3d683gc1rs-unpretty-cabal-conf.awk`
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:15:55 UTC*

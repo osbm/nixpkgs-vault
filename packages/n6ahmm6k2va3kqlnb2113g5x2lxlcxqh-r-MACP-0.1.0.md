@@ -1,0 +1,58 @@
+---
+aliases:
+  - rPackages.MACP
+tags:
+  - broken
+  - not-available
+  - license/unknown
+  - outputs/out
+---
+
+# rPackages.MACP
+
+## 📋 Package Information
+
+- **Name**: `rPackages.MACP`
+- **Version**: `0.1.0`
+- **Available**: ❌ No
+- **Broken**: ⚠️ Yes
+- **Homepage**: [https://cran.r-project.org/web/packages/MACP/](https://cran.r-project.org/web/packages/MACP/)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/n6ahmm6k2va3kqlnb2113g5x2lxlcxqh-r-MACP-0.1.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/r-modules/generic-builder.nix:81`
+- **Outputs**:
+  - `out`:  `/nix/store/n6ahmm6k2va3kqlnb2113g5x2lxlcxqh-r-MACP-0.1.0`
+
+## 🔗 Dependencies
+
+- [[04w2xamiz84hb0pbigqlszvifr6qmlz8-r-caret-7.0-1]]
+- [[0q5jj9cx8w03fxnccjmfxm81ksjka5f8-r-PRROC-1.4]]
+- [[3sisfv8m6ziv41s3h6jnwq12ppp62xd4-r-stringr-1.5.1]]
+- [[41lpx5s2g6ynq135gpmfck7ai5y7r09v-r-igraph-2.1.4]]
+- [[9k9ja7yk27jmqdld2xrl97xipiv3a83p-r-ggplot2-3.5.2]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[c1hcxgn5ngbfqlanvwa29b2n3nqxjjnv-r-lsa-0.73.3]]
+- [[f0cxr25qb87n0z70z4kk40j6k4a38cy4-r-dplyr-1.1.4]]
+- [[fgq0kch1mfp59gmnlam4f92qwbpbqym7-r-tibble-3.3.0]]
+- [[i7hqqzfs8sn0z0hy4n4ccm64is9la5vh-MACP_0.1.0.tar.gz]]
+- [[jhwv123haf014jj8p4269lwvcbjqqa41-r-zoo-1.8-14]]
+- [[ki2yxy672017pym915i17fl4h53yja48-r-tidyr-1.3.1]]
+- [[kqv4s89mf6sf9z0505qndczyg827g9y1-R-4.5.1]]
+- [[lrzmg1a0yva40lnlhyaa2mnxvx4jffpj-r-WGCNA-1.73]]
+- [[m0h8vm7wnxqmzy77yph902p607lx7np5-gettext-0.25.1]]
+- [[mccrp27m6iny4pfwlbz7bh2d3xqwf6d9-r-Hmisc-5.2-3]]
+- [[mmxsaz2lfs3xm60rkwlmmhr0gglzc4h6-r-pROC-1.19.0.1]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[xgymm9f3iyszrv1afcf0wq2clawgn3bh-r-fmsb-0.7.6]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:00:51 UTC*

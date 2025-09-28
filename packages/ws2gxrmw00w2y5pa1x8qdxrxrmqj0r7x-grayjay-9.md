@@ -1,0 +1,273 @@
+---
+aliases:
+  - grayjay
+tags:
+  - not-available
+  - license/unknown
+  - maintainers/samfundev
+  - outputs/out
+---
+
+# grayjay
+
+## 📝 Description
+
+Grayjay is a cross-platform application that enables users to
+stream and download multimedia content from various online sources,
+most prominently YouTube.
+It also offers an extensible plugin API to create and import new
+integrations.
+
+
+## 📋 Package Information
+
+- **Name**: `grayjay`
+- **Version**: `9`
+- **Available**: ❌ No
+- **Broken**: ✅ No
+- **Description**: Cross-platform application to stream and download content from various sources
+- **Homepage**: [https://grayjay.app/desktop/](https://grayjay.app/desktop/)
+- **License**: `unknown`
+- **Platforms**: `x86_64-linux`
+## 👥 Maintainers
+
+- @samfundev
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/ws2gxrmw00w2y5pa1x8qdxrxrmqj0r7x-grayjay-9.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/by-name/gr/grayjay/package.nix:191`
+- **Outputs**:
+  - `out`:  `/nix/store/ws2gxrmw00w2y5pa1x8qdxrxrmqj0r7x-grayjay-9`
+
+## 🔗 Dependencies
+
+- [[00ak35yspw5xjxgpq8fr95gbaf52l5xy-System.Text.Encoding-4.0.11]]
+- [[091iyq892jihnch56id1jj1iyw5r0bl5-System.IO-4.1.0]]
+- [[0af5c509m7qmy02qhk6ni07mskd04293-System.ObjectModel-4.0.12]]
+- [[0g4srp3382z2lyy51876gd6s3130jcm0-Microsoft.AspNetCore.App.Ref-9.0.9]]
+- [[0ig29qgqrrwjp198q1ydj5avp7phlm42-grayjay-frontend]]
+- [[0jvayr4r5jc29jgg9a3bdxfyy5ahs10i-System.Threading-4.0.11]]
+- [[0k5zjaxchaxflphl3fx646xjykj6922r-Microsoft.NETCore.Platforms-1.1.0]]
+- [[0l6z31mdwzcvhqgjhxvbwlxwfn1zz0v4-Microsoft.NETCore.DotNetHost-8.0.20]]
+- [[0pp9kcngj2xahkd5ikaig2wc28894rs1-Microsoft.NETCore.App.Crossgen2.linux-x64-9.0.9]]
+- [[0qzvc0bgw0b1djbdvgr5019aj0rw0iaw-nspr-4.37]]
+- [[0sp2qva470cdx7n8762q2y8ksb2d2wwi-System.ComponentModel.TypeConverter-4.3.0]]
+- [[0w07zhqqs4ps002831snix9g7mhpy65h-Microsoft.NETCore.App.Host.linux-x64-8.0.20]]
+- [[0xfvxsniqd9l714mrg5g9yk0vrfay053-System.Reflection-4.1.0]]
+- [[0yza2w3lv1gsg89fgwaq096iw7jnkby5-System.Reflection.Extensions-4.3.0]]
+- [[13yariq5al0dq35i8vxlj8riqijqvbrq-SQLitePCLRaw.lib.e_sqlite3-2.1.6]]
+- [[19dkqq6j7z6ahjqgj3pa5wkkj6rl3wdg-auto-patchelf-hook]]
+- [[19iy4q24n20vxsnvvw6fkskpg307gxz1-MSTest.TestFramework-2.2.10]]
+- [[1ajcw7jqcwdi9apbfkxg0m5wmczmc36h-Microsoft.NET.ILLink.Tasks-9.0.9]]
+- [[1cc4qsl7260aqgw6gy9flwbyp6d62jav-runtime.linux-x64.Microsoft.NETCore.DotNetHostPolicy-8.0.20]]
+- [[1jgyc8pm0h5lnk0imm0bs3fhshis2hr2-cups-2.4.12]]
+- [[1madmn0h57an905w4na4z8x9s6f279mg-ZstdNet-1.4.5]]
+- [[1ssax255z03n6flk73rp52p491hfswbi-runtime.linux-x64.Microsoft.NETCore.DotNetAppHost-8.0.20]]
+- [[1yc009fk16k388z3slfq0lyf5yxx5inx-System.Text.RegularExpressions-4.1.0]]
+- [[1yr2vpfasbc6v0p2gamnp4grcvvqi92j-HtmlAgilityPack-1.11.58]]
+- [[24bd5q7q32914wnjxw2qq9pdpqasah75-Microsoft.NETCore.App.Crossgen2.linux-x64-8.0.20]]
+- [[281spn8cxlc1ldch7la3dnx2vk81kdk0-runtime.any.System.IO-4.3.0]]
+- [[28phnmnqgzmkqlby0znahvp3bgx6d6vv-dbus-1.14.10]]
+- [[2aymv7j5q714vj32h8wcrqmhascrm6z1-Microsoft.TestPlatform.TestHost-17.6.0]]
+- [[2fbx94cnniix1a6h9b265icc5syn829m-libxfixes-6.0.1]]
+- [[2jbjfm0s7c03a7mylffys7n228vs64rz-make-shell-wrapper-hook]]
+- [[30qxb18wp86hpiclv71zzbd87xm8pd4q-System.Diagnostics.TextWriterTraceListener-4.3.0]]
+- [[37by5dvsyd4r0r9b5pmnfnlwa5f3wp08-dotnet-aspnetcore-runtime-wrapped-9.0.9]]
+- [[3afpb17yz4c22aps8h86i0lcpmywc1w7-Microsoft.NETCore.Targets-1.1.0]]
+- [[3dynz5ijdv43954bhgzhd7dk8lx97az1-System.Runtime.Numerics-4.3.0]]
+- [[3gibfb68cpa7qma45spwz2vphfa22s62-dotnet-sdk-wrapped-9.0.305]]
+- [[3zc6j1j1qgis43ig9m9gl11iqf058s76-systemd-minimal-libs-257.8]]
+- [[474kivdzi525za8vzpgr0ils1k0qf8r3-wrap-gapps-hook]]
+- [[47ybnn46l0nn102bdj558qd5q634nk03-System.Globalization-4.0.11]]
+- [[4bb0i1k753wj34bhh5m0ff4nqw5v8hzh-System.Diagnostics.Debug-4.0.11]]
+- [[4bzxr4bksx69bgcc0ra0wlyi1ykskazn-System.IO.Pipelines-9.0.0]]
+- [[4dq8np7c2mimniwl3if93g7ncz1cjr4r-gtk+3-3.24.49]]
+- [[4hv7zap5q35x1834gf2nrssq6f1w39j1-Microsoft.ClearScript.V8.Native.linux-x64-7.4.5]]
+- [[4yjxh2wx58wrpn6sxaq1hlbg13z659dk-NETStandard.Library-1.6.1]]
+- [[4zdibn1znwp2gnr5bi773hq0srysdh4r-Newtonsoft.Json-9.0.1]]
+- [[50m21sm0rnbx9ia6zv3fi1qgc4qvn1sh-System.Xml.XmlDocument-4.3.0]]
+- [[598b3xkw0nck6dcjhy48y0309na65in5-Microsoft.NETCore.App.Host.linux-x64-9.0.9]]
+- [[5gmcmpjfrz7c4b5xz88n0ngrq18ggkf0-NuGet.Frameworks-5.11.0]]
+- [[5xy760hki54y59x0zqk4gx8p4gyhbmpn-System.Security.Cryptography.X509Certificates-4.3.0]]
+- [[5z41f1vhpz3qw6gzcc63y48bx8bl1fl4-HtmlAgilityPack-1.5.1]]
+- [[610k7amkjmq4sxmghhr7wsf4z8cxv4qk-runtime.any.System.Resources.ResourceManager-4.3.0]]
+- [[6dg1vi55ynf4dmkmmcn945pwdz010s34-stdenv-linux]]
+- [[6dhmbkphla9frf3nrqbl5xpdmd3w6xsk-System.Diagnostics.Tracing-4.3.0]]
+- [[6gpxab30zy6igfsn9vhpgjgqjhi6lxm7-System.Text.Encoding.Extensions-4.0.11]]
+- [[6lxpix8rc1n0dw0cja6k6jg0ixzah8pj-System.Private.Uri-4.3.0]]
+- [[6r5cldhv0mdkwwia0zdchk4aar0azvrd-gcc-14.3.0]]
+- [[6xjmd1gfgjw9q5i5w7jvzmzyavz4zf9c-System.Xml.ReaderWriter-4.3.0]]
+- [[70yqhjvshwfh6bgc039hyp73cd7lvhbd-Microsoft.DotNet.ILCompiler-8.0.20]]
+- [[70yw303zv6ccnfimmh823bijxz0bgnw9-runtime.linux-x64.Microsoft.DotNet.ILCompiler-8.0.20]]
+- [[761d6f8hhrvq2qrbqc6ygxr3x34img28-libglvnd-1.7.0]]
+- [[77kdjjzj2gbi0r5s2xrfhpa9xbpa035h-System.Linq.Expressions-4.1.0]]
+- [[78lyycb12h6g2v0l146lb1qa5733din2-Microsoft.ClearScript.Core-7.4.5]]
+- [[79nfp8vxjrh1f26ialazhb20x6vkp6pk-System.IO.Compression.ZipFile-4.3.0]]
+- [[7d5p0ip9nd3aj3r1a2pmhsxxizqqnis8-openssl-3.5.1]]
+- [[7jffqm4zjb71sdcxn9img2rs4b4sqdy2-System.Dynamic.Runtime-4.0.11]]
+- [[7jx6646w59894f41p9x3nvqh9gijcfzw-runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl-4.3.0]]
+- [[866wf3f5yd87wa7njnrz2gqyld2pcfvg-runtime.linux-x64.Microsoft.DotNet.ILCompiler-9.0.9]]
+- [[8sf09rqvc1sv24ba2j89b64s6744ia69-Microsoft.TestPlatform.TestHost-17.3.2]]
+- [[8xd0kw0d7k6dsagx8lv1sj7n1db7pxm8-System.Diagnostics.Tools-4.3.0]]
+- [[8zqwrci7i6mnsjzydxnc2dcapwdqgal1-System.Reflection.Extensions-4.0.1]]
+- [[9273kl3d4vy3py3q0gdp7pjzbvq69zyr-Microsoft.TestPlatform.ObjectModel-17.3.2]]
+- [[9gw9asv97x94vygwn7j4dj4w9fyf0lw0-Microsoft.NETCore.App.Ref-9.0.9]]
+- [[9ymmdlg4pac2pmk3fr1cfrrknhza6dx9-System.Runtime.InteropServices.RuntimeInformation-4.3.0]]
+- [[a5wqgmw56ayn1bziadi7hkvf18dp5vb8-System.Diagnostics.Debug-4.3.0]]
+- [[agnk4m5xfimkzhzvvq7fnz9wsfy6840n-Microsoft.AspNetCore.App.Ref-8.0.20]]
+- [[aywa0l9w6ah4zvfwm71k1qjx8mwvvvqm-Microsoft.NETCore.App.Runtime.linux-x64-9.0.9]]
+- [[b3sh2p4k874npg1kv4axvf8y8yn16qwm-Microsoft.NETCore.DotNetHostPolicy-8.0.20]]
+- [[b7mpfr535h13p9s9j26p2k1pm9pjbakf-nss-cacert-3.115]]
+- [[bf8dz4l8adaa4rpz8inx7kj4aayl0g2m-runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl-4.3.0]]
+- [[bilhsvxrm8f742q6wdl5k0hmdazs15mj-System.Threading.Timer-4.3.0]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[c5yn1pfi5ciq35w7x4z1mv6azdiy8akm-Microsoft.ClearScript.V8.ICUData-7.4.5]]
+- [[cdccrwa0rf0hkdr53yp1sbsi855l7wi9-System.Runtime.Serialization.Formatters-4.3.0]]
+- [[cipqyb7z500h77in0lsdizql0lh7wijl-runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl-4.3.0]]
+- [[cn0nylj4xsh06q926zsh73mqmb757gx3-System.IO.FileSystem-4.3.0]]
+- [[csg1wk6qa30a8vf3yd73wc58lm1dw4f5-Google.Protobuf-3.25.3]]
+- [[cz3yypazvkknb42wmz59m4im5jbfih87-System.Security.Cryptography.Encoding-4.3.0]]
+- [[d1yf7rm8ldw65zrd64z6gji5xb1r9c2z-System.Net.Http-4.3.0]]
+- [[d99f4z55b6p4hx1wfl4r6d6i0zi5bh7m-libxext-1.3.6]]
+- [[ddngbpl9q61d5ilvayqmh3hds6vaji6b-runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl-4.3.0]]
+- [[dj9sq1d6hhcinba99w0i6kxs5vjcn1w9-runtime.native.System.Security.Cryptography.OpenSsl-4.3.0]]
+- [[dkmz63jgrscrq1sazr7fk1zsmhhp3pf7-Microsoft.NET.Test.Sdk-17.3.2]]
+- [[dkssw3csslvbv7cb9mrmfccns92l65c5-pango-1.56.3]]
+- [[dmxjln36ffpfwnbcp7pzl863l6gssrvz-runtime.any.System.Text.Encoding-4.3.0]]
+- [[ffznijqibn1a61i9x9z7vqssfy2gxjng-Microsoft.CSharp-4.3.0]]
+- [[fmcl48pl1yd2dj0i667whqy578xlns7z-at-spi2-core-2.56.2]]
+- [[fq23lcwc1p6ww77gxriaa7n57wva6mag-copy-desktop-items-hook]]
+- [[g0b7kq7qc1jpy43chcdw5psxcsh6c37c-runtime.unix.System.Diagnostics.Debug-4.3.0]]
+- [[g7l5dc0njd4y8pnamafbzqqx97cv7blp-System.Runtime.Serialization.Primitives-4.3.0]]
+- [[g8vyml54hfrp2spf4kljjkwfr3gj9x0n-System.Net.Sockets-4.3.0]]
+- [[gann524sy2s04fflmsjg76603yy2cad3-System.Text.Encoding.Extensions-4.3.0]]
+- [[gfbl3c0yh12xrjlnn3w7xb17nzr7y59a-runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl-4.3.0]]
+- [[gj82xg3sb2nj7lpzfizls3kgr2vmdi7m-System.Runtime.Extensions-4.1.0]]
+- [[gkhjzzi7rasf5dznqvvwk4y5fw569nhf-System.Collections-4.3.0]]
+- [[glca1gx472ps9qlivbdf7z5jdcdnsp9l-glib-2.84.4]]
+- [[gxpigh1ci50qy1clm5a8mn3r6wj98vzp-Newtonsoft.Json-13.0.1]]
+- [[h8gi5l5hglr6j39h4ynpa9awswi6slbh-Fizzler.Systems.HtmlAgilityPack-1.2.1]]
+- [[hjipsgx1jbnyxqbhdm6wv78ys3d09kvx-System.IO.FileSystem.Primitives-4.3.0]]
+- [[hsyrh6x2y0df3iqx5a937lyy6hb7r5zw-System.Xml.XDocument-4.3.0]]
+- [[i3xx63h6aa9wy85apqs9gnc7j93v2a5b-Microsoft.NETCore.DotNetAppHost-8.0.20]]
+- [[if25gsldam2dv27hxbs7q082fk4dqax7-Microsoft.NET.Test.Sdk-17.6.0]]
+- [[if30dvb18877vhsf1yhq7bzsgw20xlby-alsa-lib-1.2.14]]
+- [[iig0hg67yq81xn3l53rkkjmmbdi4m0pw-System.Text.Json-9.0.0]]
+- [[ijn47h1r1b5qj2na9rnsh2cfv567flcz-runtime.native.System-4.3.0]]
+- [[iqwfvxwvc165k1chwpdbasahmkmdml58-runtime.any.System.Collections-4.3.0]]
+- [[ir3q6hb97arldg9qzhgnwxf5rc32g9mc-Newtonsoft.Json-10.0.3]]
+- [[ispmc5bzv6vgz0g9sfvvvwriv5hawh6z-libsecret-0.21.7]]
+- [[ivmfvlggyfsyb0i40g5zv6fr87wwzf7k-System.Collections.Specialized-4.3.0]]
+- [[iyc4q6y53fwkw7r7a4qrq174hzraa5cs-System.Console-4.3.0]]
+- [[j8ww8s202xnav40nm8rxqb05d1nsqlhl-System.Runtime.Handles-4.3.0]]
+- [[jbjnx4l2wl3b77wd1niyraiixmvwl7dh-SQLitePCLRaw.provider.e_sqlite3-2.1.6]]
+- [[jmnhzvn8cx8d7q3y7n93cl0n5zlkijyq-System.Dynamic.Runtime-4.3.0]]
+- [[jn8108h4fykndqpzf59y6vbkyc2rf7pq-System.Linq-4.1.0]]
+- [[jnsfhrrwl8x79545x7cnkh7zvm2in6cp-source]]
+- [[k3hkamhrlfyx78hns1v4ib2pcw2fgzk3-System.Collections-4.0.11]]
+- [[k9mipzcv4bfrw7q7xif01jnwa5bzj7ks-runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl-4.3.0]]
+- [[kbfb0m2nicmdcj12z2zf8i8capl40g88-runtime.any.System.Globalization-4.3.0]]
+- [[kf2jrpn1jdky9q01snxp8522bhi4sys6-Microsoft.NETCore.DotNetAppHost-9.0.9]]
+- [[kgdq9f42qlk24s461xvbqi12gcl3krry-libxcb-1.17.0]]
+- [[kkqcaama5nc83jgpzaga669ziwk0q8ji-SQLitePCLRaw.core-2.1.6]]
+- [[km4ddgxaby0llgrhxv98rnvvi8sdzvp9-mesa-25.2.3]]
+- [[kqcl0aysmnsm8ks45gjygladkil48prq-System.Threading.Tasks-4.0.11]]
+- [[l1j9kkwmn6ipaz2ic81h8p5iy510pip4-MSTest.TestAdapter-3.0.4]]
+- [[l5kgmq7xiapzjra2ki8cbcy3zrl6c2gc-System.Text.Encodings.Web-9.0.0]]
+- [[l8nazfwawwhbnn913gjx8i9fwkf4r5ap-Microsoft.ClearScript.V8-7.4.5]]
+- [[lhzih345cl9c1i7gywjpgxh1a4wf4ls9-runtime.any.System.Reflection.Primitives-4.3.0]]
+- [[lvnilbiampxb7xdmi6663w9dm351m4mj-System.Resources.ResourceManager-4.3.0]]
+- [[lxrbjxmxg1xj0942anv8q3qyl8n9b9h1-SQLitePCLRaw.bundle_e_sqlite3-2.1.6]]
+- [[lzbr62ph4aibpzypzphilf9b7iz2q4wd-runtime.linux-x64.Microsoft.NETCore.DotNetAppHost-9.0.9]]
+- [[m1acfn5nwz1z18bklm4iifr1y5gccpyx-System.Resources.ResourceManager-4.0.1]]
+- [[mpixxcaa4yc98vnyqfhfl0r6h251w11l-System.Xml.XDocument-4.0.11]]
+- [[mr8m7zng0pvhxc7ksigv5ap356zzzz0g-Microsoft.ClearScript.V8.Native.win-x64-7.4.5]]
+- [[n2l7a44k3vxvmm1nd93cmwh21qs82liz-System.Reflection.TypeExtensions-4.3.0]]
+- [[n3qd6436lfnl6787cxwci0g593fbfdrw-System.Threading-4.3.0]]
+- [[n5bkvilrzx09f2wfi9jl34qyf3s7m6hs-System.Security.Cryptography.Algorithms-4.3.0]]
+- [[n5ppmkxlyxqxibq491ybpm21jqycd8wd-System.IO-4.3.0]]
+- [[n7hrmvv17qkk62chjb5aj7kxg6v6w7lb-Fizzler-1.2.0]]
+- [[n9mbv0abkdvqqs1zzpjbdd7xzjr2mrg4-Microsoft.Data.Sqlite.Core-8.0.1]]
+- [[naayxldxkr1rv5500inavrav8h3y8ydq-Microsoft.ClearScript.V8.Native.osx-arm64-7.4.5]]
+- [[nbh1c28jcz1hzimqg5ik79cgay1w74vz-System.Collections.NonGeneric-4.3.0]]
+- [[ncwfwpdzk937skayjxm8fivvfaw0f0fl-libXcomposite-0.4.6]]
+- [[nkyvry9psg8k0v9hyzdgqkhcvi43zc86-Microsoft.Data.Sqlite-8.0.1]]
+- [[nncd4f9vl1alqwmiff6a138ppbsgbp5l-libx11-1.8.12]]
+- [[nrj6i3ar5f2zg4p6d0nj4npahzqa2mqa-System.Text.Encoding-4.3.0]]
+- [[p3yj5bw8q697x1bbnpwfjbavrrlkx3h8-System.Runtime.InteropServices-4.3.0]]
+- [[p4nmipp7wd3n86cx468zggnsmjjs1q1i-System.Reflection.Metadata-1.6.0]]
+- [[p5pw90piydrhlmhhvh98skfhwsgl9ss3-MSTest.TestFramework-3.0.4]]
+- [[pa2fh8v9kcqm1pqhw8dpgpg9q2jmx9cc-System.Globalization.Calendars-4.3.0]]
+- [[pb2jv6x42drl1qasnh0z7w3dvnd4g0q3-nss-3.112.1]]
+- [[pck5q3h30mfb2rhvq8dczb8b3c5avkq5-System.Reflection.Primitives-4.3.0]]
+- [[pi99g86jk3jh3fd1fm21z8b5492hdjdx-icu4c-76.1]]
+- [[pz4g66n8nw30f0p3ihipw06d9n1bfvj1-Microsoft.TestPlatform.ObjectModel-17.6.0]]
+- [[q0pxkvmi49csgda7my8kml7z1ccdwg7q-System.ObjectModel-4.3.0]]
+- [[q8j6mcdcb35mg886ipg9dc0snayjbnil-Grayjay.desktop]]
+- [[qf012wr6s7j7j9jmib2ymq73v07mfcyx-Microsoft.AspNetCore.App.Runtime.linux-x64-9.0.9]]
+- [[qsidpixs89pihd5qjm02q93yilshiz96-libxkbcommon-1.11.0]]
+- [[qzl8kni5a4xh81ampjh16cj72gkw4j4b-expat-2.7.1]]
+- [[r57gf6rbl16515s3cqwhvf4qjfhfy12k-Microsoft.NETCore.DotNetHostResolver-8.0.20]]
+- [[r8slbylk5sv31r43dwdbfihhfr5bwldy-Microsoft.Win32.Primitives-4.3.0]]
+- [[rans3ag23hly2f81730r012xh1b5gqbl-runtime.linux-x64.Microsoft.NETCore.DotNetHostResolver-8.0.20]]
+- [[rh74ifxmrykjh49ixcqcrbbd6l556cmr-coverlet.collector-6.0.0]]
+- [[rp0qiv2ybl7aa1r6rlpgx9jp3nhjn56c-System.Globalization-4.3.0]]
+- [[rvsgycjzldbgg1l9f6bxrdncx02va128-libxrandr-1.5.4]]
+- [[rxvmqdib72bmid3jh4cilw1gf0kldj5b-dotnet-hook]]
+- [[rzg2ydwnnrm8qck5270pkc8zks7p3103-System.Runtime.Serialization.Primitives-4.1.1]]
+- [[s26k6bg5hizcnp0lr42i7hbassy1xg49-System.IO.Compression-4.3.0]]
+- [[s2gavfmmzs1ymhjrd4wpqvhwwggjjc5s-Microsoft.DotNet.ILCompiler-9.0.9]]
+- [[s2ygn7jxkgvmlkfm7f0x6a2bm1slqwrc-runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl-4.3.0]]
+- [[s2yr49i6v0a50zz5y5qxyzzkdzc3y6hx-libXdamage-1.1.6]]
+- [[sk85fyv54zvi6cjjsahvyvnnx75hqwqv-MSTest.TestAdapter-2.2.10]]
+- [[sk98ycv8zyv1svcmf5lgqk1k5a48f5m5-runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl-4.3.0]]
+- [[snbfinsd48w01hi51bzzpdl7m5n1cwif-libdrm-2.4.125]]
+- [[spnxd7ryqiyjrnldkp1a45v4byi3xzh0-System.Net.Primitives-4.3.0]]
+- [[sv6qrmawi3piqb017ing81y0lcl5ifbm-System.Reflection-4.3.0]]
+- [[svqbj5qdc2ym1px618kpay0bnzc445y4-runtime.any.System.Runtime-4.3.0]]
+- [[swaqpa9xw3zfwgfp1wilpawq6r9fbfg0-libz-1.2.8.2025.03.07]]
+- [[sxinpzdmc1y4sxi22ndb3wp9lam813fk-Microsoft.CodeCoverage-17.6.0]]
+- [[sxqhsh4mzygi7nldnbkspsbl5sdhgs17-System.Threading.Tasks-4.3.0]]
+- [[sygnazqpk4yby3920628whx8bnlm201c-System.Security.Cryptography.Primitives-4.3.0]]
+- [[v1h17wvc5yfh4m00ly87gvi7fqnck6as-runtime.any.System.Reflection-4.3.0]]
+- [[v3l1pq0971slrkcwrr1g2gzz5m00n4p9-System.Memory-4.5.3]]
+- [[v3vqpbna5pr7m20w1mxdbhj3ym4gpd2f-runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl-4.3.0]]
+- [[v6m10z0wvpp8j8jvfnqygn5zpx45zx7x-libsodium-1.0.20]]
+- [[vww2w4bppjkr8spz5gcq5hkr98pf85zs-cairo-1.18.4]]
+- [[vzd2dacjyphv72lkvz05wf1xymqcd6mc-runtime.unix.System.Runtime.Extensions-4.3.0]]
+- [[w0758721x8h3gibfq8n2zf1nfzxy275b-Microsoft.CodeCoverage-17.3.2]]
+- [[w4fdavv8x9mw3qikwwwbgv59wkqdh64a-Dapper-2.1.28]]
+- [[w6bw0y6mkpp20kk9jw8gl72c448q48yy-System.Diagnostics.TraceSource-4.3.0]]
+- [[w7wvbyi0chrdp2n25mz3igwlmpb42h22-System.ComponentModel.Primitives-4.3.0]]
+- [[w8mzxakvm5rv8p9whf1r6vgkp9ifa5nr-Microsoft.NETCore.App.Runtime.linux-x64-8.0.20]]
+- [[wipcd2myf77psrxnyx1bcj3hw2xiiwy5-Microsoft.CSharp-4.0.1]]
+- [[wl38fzhnmkhc9g9bdjnml0b0llvnq1mv-runtime.linux-x64.Microsoft.NETCore.DotNetHost-8.0.20]]
+- [[wljqaxcydsjap2slbjim0pdkq22i9l6i-System.AppContext-4.3.0]]
+- [[wnzrwrpjmgimdq9m4galpniq3lsxcspz-krb5-1.22.1]]
+- [[wpnly1fiwh0jb8xaclimldxy1clm96x9-Microsoft.NET.ILLink.Tasks-8.0.20]]
+- [[wrdl97vvxh863r3qsfdg3wigmns61xms-System.Runtime-4.1.0]]
+- [[wzhn6kni9qcxvyzqz8nfsjg369b2f3gk-System.Linq.Expressions-4.3.0]]
+- [[x0lw4hij620f9vkbalskj11zsi443b7l-System.Text.RegularExpressions-4.3.0]]
+- [[x4lnj168a24zxy50bgya2glanbh4ckkb-System.Runtime-4.3.0]]
+- [[xn897x4d6qs7sq0n65wly4dm16hd5g9i-System.Linq-4.3.0]]
+- [[xw5idlbf4gwbajnq01qfqgi5x6inp9lj-Microsoft.ClearScript.V8.Native.osx-x64-7.4.5]]
+- [[xyw5hd2mi8la2bw59kmb3mm0ix9xjx3z-Microsoft.NETCore.App.Ref-8.0.20]]
+- [[ymr4lnjxh5psxb0fkmf2vd3wxl849dil-System.Xml.ReaderWriter-4.0.11]]
+- [[ys7ahfv3m333576lmm8hnbcrpk9prb95-runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl-4.3.0]]
+- [[ysnrqc2da9wwjkdd3z4hpdckm4xsi9xy-runtime.any.System.Threading.Tasks-4.3.0]]
+- [[z20qvm27xnaip2jqcxsg9s0yag67jvkl-System.Runtime.Extensions-4.3.0]]
+- [[z2xndaicb86dxh8rq6xlwyqbcj2c8v77-runtime.unix.System.Private.Uri-4.3.0]]
+- [[zb0d3y134lhfpd10a8h6prfgffyz0yb7-Microsoft.AspNetCore.App.Runtime.linux-x64-8.0.20]]
+- [[zidsmarjbpnd9k14nwia9zf2872ms4x2-System.Collections.Concurrent-4.3.0]]
+- [[znf8p2g1xfdf3rhjcd3jwviw5hrhzw64-coverlet.collector-3.1.2]]
+- [[zxgy7cq6avfm72arri97wncsh0y5byvw-System.ComponentModel-4.3.0]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 11:56:49 UTC*

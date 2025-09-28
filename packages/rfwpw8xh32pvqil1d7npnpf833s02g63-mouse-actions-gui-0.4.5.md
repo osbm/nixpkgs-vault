@@ -1,0 +1,71 @@
+---
+aliases:
+  - mouse-actions-gui
+tags:
+  - license/unknown
+  - maintainers/TomaSajt
+  - outputs/out
+---
+
+# mouse-actions-gui
+
+## 📝 Description
+
+Mouse event based command executor, a mix between Easystroke and Comiz edge commands
+
+## 📋 Package Information
+
+- **Name**: `mouse-actions-gui`
+- **Version**: `0.4.5`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Mouse event based command executor, a mix between Easystroke and Comiz edge commands
+- **Homepage**: [https://github.com/jersou/mouse-actions](https://github.com/jersou/mouse-actions)
+- **License**: `unknown`
+- **Platforms**: `aarch64-linux`, `armv6l-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv64-linux`, `s390x-linux`, `x86_64-linux`, `armv5tel-linux`, `armv7a-linux`, `m68k-linux`, `mips-linux`, `mips64-linux`, `mipsel-linux`, `mips64el-linux`, `riscv32-linux`
+## 👥 Maintainers
+
+- @TomaSajt
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/rfwpw8xh32pvqil1d7npnpf833s02g63-mouse-actions-gui-0.4.5.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/by-name/mo/mouse-actions-gui/package.nix:73`
+- **Outputs**:
+  - `out`:  `/nix/store/rfwpw8xh32pvqil1d7npnpf833s02g63-mouse-actions-gui-0.4.5`
+
+## 🔗 Dependencies
+
+- [[02nvbmkaqzxp5jbnl7i1rcsj85r5cl5p-udev-check-hook]]
+- [[0f5ann1sgwyp31vlfqqsnr95xzv3mzhf-cargo-1.89.0]]
+- [[2mqg4y2qz8kyk9xy96z1b80h3km40nch-nodejs-22.19.0]]
+- [[3bz4j2xzjl92yhiwfyhbz6gv4w1888bw-cargo-setup-hook.sh]]
+- [[3ndchkhlxxw50k7nd48i9zdkhsr57mwh-cargo-install-hook.sh]]
+- [[474kivdzi525za8vzpgr0ils1k0qf8r3-wrap-gapps-hook]]
+- [[4bycw2rdgf33gmn1z26knv8grxxh06w5-rustc-wrapper-1.89.0]]
+- [[4cc0y6syxyxvjx1lh8ix60vxkly149fh-auditable-cargo-1.89.0]]
+- [[4dq8np7c2mimniwl3if93g7ncz1cjr4r-gtk+3-3.24.49]]
+- [[4l4zzllprv8kv7srw217sq1z88ad4lj5-npm-config-hook]]
+- [[9w17cqvidk8dj7cyd8axxljxq36zyygq-webkitgtk-2.50.0+abi=4.0]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[brkwzkjp6bxbqn4qbs169gs2n9g3rzv0-libevdev-1.13.4]]
+- [[gaclpxymsah3id91a2a1njvf25fqlw3q-mouse-actions-gui-0.4.5-vendor]]
+- [[gwgcggrnwj7zbiyqvkqpdri6hxmkdjvh-tauri-hook]]
+- [[lvdvlk7cwad5mna0wfpz8jllb30jdj1n-pkg-config-wrapper-0.29.2]]
+- [[n6mi47bxj7qz72jlw0p5cgrjrad3ncwz-libXtst-1.2.5]]
+- [[p01w3x7yd62asgm9ip6zp7b7qcd8kavd-source]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[qi6337yh29r9ppqm262bf6vz0g13451b-cargo-build-hook.sh]]
+- [[rkrxnf8y5k7105gx6pl291i5nh6zzmsm-npm-deps]]
+- [[xqxbqs6qgnhvpkcai046s94jfrx8wb62-cargo-check-hook.sh]]
+- [[zgypf3dirdzfdiffzgzxs049i095a2b1-libsoup-2.74.3]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/p2lhxffs6v9kp3qy381lpbil5cs9k0f5-80-mouse-actions.rules`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:08:05 UTC*

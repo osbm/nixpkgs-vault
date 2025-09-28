@@ -1,0 +1,56 @@
+---
+aliases:
+  - rPackages.multistateQTL
+tags:
+  - license/unknown
+  - outputs/out
+---
+
+# rPackages.multistateQTL
+
+## 📋 Package Information
+
+- **Name**: `rPackages.multistateQTL`
+- **Version**: `2.0.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Homepage**: [https://bioconductor.org/packages/3.21/bioc/html/multistateQTL.html](https://bioconductor.org/packages/3.21/bioc/html/multistateQTL.html)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/1kmwl8a8s9gfjkqcc74c1rcmsxdf1srf-r-multistateQTL-2.0.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/r-modules/generic-builder.nix:81`
+- **Outputs**:
+  - `out`:  `/nix/store/1kmwl8a8s9gfjkqcc74c1rcmsxdf1srf-r-multistateQTL-2.0.0`
+
+## 🔗 Dependencies
+
+- [[62pls6y0qy24y99bbfw8d1a23fg741mw-r-collapse-2.1.2]]
+- [[9k9ja7yk27jmqdld2xrl97xipiv3a83p-r-ggplot2-3.5.2]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[cpfp507nxzdpc1f1y6q5r306bdgjrfwb-r-matrixStats-1.5.0]]
+- [[f0cxr25qb87n0z70z4kk40j6k4a38cy4-r-dplyr-1.1.4]]
+- [[fcjh4sa78hzqsa0nxlnlp2dsy15v4jx0-r-QTLExperiment-2.0.1]]
+- [[g8azr88z6z88i69vxqjm64hgbsd6rs5f-r-circlize-0.4.16]]
+- [[jl0n2fphg3bqigk1l3lx79g686h649rr-r-ComplexHeatmap-2.24.1]]
+- [[ki2yxy672017pym915i17fl4h53yja48-r-tidyr-1.3.1]]
+- [[kqv4s89mf6sf9z0505qndczyg827g9y1-R-4.5.1]]
+- [[l93kkbk95h5ivknv47cx8lw0cjl5q4mc-r-fitdistrplus-1.2-4]]
+- [[m0h8vm7wnxqmzy77yph902p607lx7np5-gettext-0.25.1]]
+- [[np1lzngpis3dzy54ha4nd9i6m8ixggxb-r-S4Vectors-0.46.0]]
+- [[p1zd0wh0nsn83khgxwrv80xaij0bfh9p-r-data.table-1.17.8]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[x8axx269pq36bjx6jhjgbxl3277ah2g3-r-viridis-0.6.5]]
+- [[y05qfwwi67lwrwyczwjj6rjhhp2bhizf-r-mashr-0.2.79]]
+- [[yvclb8nzc7mrcdyz86ax390r1wdhqmll-multistateQTL_2.0.0.tar.gz]]
+- [[zfnlvbv0f6zhci8v9kyb449y900j58fy-r-SummarizedExperiment-1.38.1]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:14:40 UTC*

@@ -1,0 +1,293 @@
+---
+aliases:
+  - chromedriver
+tags:
+  - license/unknown
+  - maintainers/networkException
+  - maintainers/emilylange
+  - outputs/out
+---
+
+# chromedriver
+
+## 📝 Description
+
+WebDriver is an open source tool for automated testing of webapps across
+many browsers. It provides capabilities for navigating to web pages, user
+input, JavaScript execution, and more. ChromeDriver is a standalone
+server that implements the W3C WebDriver standard.
+
+
+## 📋 Package Information
+
+- **Name**: `chromedriver`
+- **Version**: `140.0.7339.207`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: WebDriver server for running Selenium tests on Chrome
+- **Homepage**: [https://chromedriver.chromium.org/](https://chromedriver.chromium.org/)
+- **License**: `unknown`
+- **Platforms**: `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`
+## 👥 Maintainers
+
+- @networkException
+- @emilylange
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/yanclz3qgsz84fsxzbjrxqpiwxk37qgz-chromedriver-unwrapped-140.0.7339.207.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/tools/selenium/chromedriver/source.nix:25`
+- **Outputs**:
+  - `out`:  `/nix/store/yanclz3qgsz84fsxzbjrxqpiwxk37qgz-chromedriver-unwrapped-140.0.7339.207`
+
+## 🔗 Dependencies
+
+- [[005j105kx1cy302s140941pmcg6z81j6-source]]
+- [[01qsqaf5s3lcg5aphn5b1q2x9rgrrqbm-source]]
+- [[02l2mwk9x35ww8hq6m836yrcy0ma7js8-wayland-1.24.0]]
+- [[09pgfnl8wh3pb6rdxjx6k4haxbqazyj8-source]]
+- [[0g797ng94cvb8j4kyzy2dxh91iiwpig8-re2-2025-08-12]]
+- [[0lammgw8kvh8bzwcd678ifr3wsnvwi9x-source]]
+- [[0qzvc0bgw0b1djbdvgr5019aj0rw0iaw-nspr-4.37]]
+- [[0v3ymj6612hcr8xzps797y6152ih7z8i-source]]
+- [[0vabjpkba1jk3yyp4333wn8vsksw2n94-source]]
+- [[0y20y5glzrd67xskzh9vjindzjl1jiiv-bison-3.8.2]]
+- [[0ynn4y23ihq1ii92sgcfw62aljjgmi13-speex-1.2.1]]
+- [[0zhlldz3pvyv0fdnim07k0rbqzcnc7cf-source]]
+- [[175c06y1wqa8awkkmgjcgjybfzn3gs56-source]]
+- [[1bsyijb6bzzwbblx8mvin0zpp1lkkg3k-python3-3.13.7-env]]
+- [[1jgyc8pm0h5lnk0imm0bs3fhshis2hr2-cups-2.4.12]]
+- [[1sysribvrfqd38sja8ynrjnc141szdz6-source]]
+- [[1wpgpnjpw3rc6vash3p4ijbz3p3wyl0l-source]]
+- [[1xyws70dh3zx9d4cmgfhwp1fmal2fxyy-source]]
+- [[20121xqig99cghw2zzx6q6qxbkwch6zj-source]]
+- [[223l20nmjf8hibrd3hk4c4pkj2rcrrq0-source]]
+- [[257k0vnqp1xjgyrpc5as1r0nl7s4yv71-python3-3.13.7]]
+- [[2l0qr4x7fdbnhvmim4lw9zvnkqf8j1pd-source]]
+- [[2mqg4y2qz8kyk9xy96z1b80h3km40nch-nodejs-22.19.0]]
+- [[2nf9x9f81s47xi0g4pzqqhvwzqxz3k4r-mesa-libgbm-25.1.0]]
+- [[2rs5m7iizrw64k2bbbsc7rc7pf0qz6iw-source]]
+- [[2sgql247rkyqmnad6gl3pwmq6gsy13wz-libjpeg-turbo-3.1.1]]
+- [[2vnpqsmj4mni9dbmfxa9025syfcdq2zq-source]]
+- [[2zmmfd0772ari1a7jp7mpq94gh2lvqpw-source]]
+- [[33dwzbirzclk05adfjnah9qxa8gvi39x-source]]
+- [[39jlnb9vgammhav2skbf3dvkbciqsh14-libopus-1.5.2]]
+- [[3alcyn8pyj0qplmf8gcgw1pzlws575xa-libgcrypt-1.11.1]]
+- [[3h2pqwsp2izzlynp9gjar39hm70nnz89-libxml2-2.14.5]]
+- [[3hyh4rg4xyym9bckkcb83sfpjp618v3r-source]]
+- [[3n9bbp0xdlc2ixa46ifzqja6hjg460qd-source]]
+- [[3wl257xhgal4shqwng9p90jalhrc4bnc-glu-9.0.3]]
+- [[3wmarhfp01pj5k0d0asgasprkw6jkyis-source]]
+- [[3y71nd7594sg27vmimds0b3flbfyvgmk-source]]
+- [[3z6dcp2i69nn7h8kwl6snf651i7ds14v-util-linux-minimal-2.41.1]]
+- [[41s84g5y48afa0w1df9rjz6sny3k464r-protobuf-32.0]]
+- [[42br52iaiwdv7yk1l1s8n0cmfjdiwpxj-source]]
+- [[435n7vyqbwilivmb7f8ba25h9c16ycba-source]]
+- [[47083a3y7qilvmfa42xilsrbsvvfb6ad-source]]
+- [[4bycw2rdgf33gmn1z26knv8grxxh06w5-rustc-wrapper-1.89.0]]
+- [[4dq8np7c2mimniwl3if93g7ncz1cjr4r-gtk+3-3.24.49]]
+- [[4f9j67x7cgs2hzjgyyzm8q6z1w2vgy41-which-2.23]]
+- [[4gnw5v37dqr8ch4bv63m5v3ja9nmmdn4-source]]
+- [[4ilcr1jwdminmwgrg3dlv9c7ivrzh6hh-source]]
+- [[4jfs6fpbrmg65pg8h9w0114jmchv8n94-source]]
+- [[4l4zzllprv8kv7srw217sq1z88ad4lj5-npm-config-hook]]
+- [[4m7clj8rdm2mfdq5hh4kx8pkl7ipah7a-source]]
+- [[4snwchbd8incbpx8mc4akbkvsyfygsy2-source]]
+- [[557ys11d3fcr8ywgyxpy4d5y4jkjhk0b-ffmpeg-7.1.1]]
+- [[59830mhkfy8afx3rywy7sk2c4jxb0m96-source]]
+- [[5j83i0r1d5f9x2knhyzwpbavqwbw7v6l-source]]
+- [[5jnsk32kmr80r0gygfzjlnm3sng90075-pipewire-1.4.7]]
+- [[5walqvxmgw5br14qx0f3rfihqk9m6s9a-source]]
+- [[5zr5nb5dqy1iz3yh6bzi0yb7yw3fq16v-source]]
+- [[65bgqgs62fj16psym5l323fi62qn9iza-source]]
+- [[66ah8i0ffdrw2zl4dnfk1kvvrddjr3sk-source]]
+- [[692b836g8zcm5v09xj5m9ib3v34kxa7q-source]]
+- [[6sfgwmiajyfby1bvjm3icw5xq2achxha-libva-2.22.0]]
+- [[761d6f8hhrvq2qrbqc6ygxr3x34img28-libglvnd-1.7.0]]
+- [[778k2csi3cc3hcfa4rn5x94fprhrj7vd-libcap-2.76]]
+- [[797x9bvd42g8ah1c5kbdby89ih0my8y1-source]]
+- [[7d3nxz643alzwhy894069x415dagy703-source]]
+- [[7ngm3x6yy8z3dxvl9967qd0563kkcy57-libpulseaudio-17.0]]
+- [[7s36xnlvnj9jpknjgcy7fjdq884j1ngs-source]]
+- [[892ijwqv3p2cggvslg9wjx09pgy8i8ip-source]]
+- [[8f4dz87rkzinrp8k2xdb1gm37xpixnjy-flac-1.5.0]]
+- [[8fr4ghhaazz7gdfn1dh8bk8pwnk7a8iz-dri-pkgconfig-stub]]
+- [[8hr49b46wwmy7n1bhx13x7hz7d2kkfsy-source]]
+- [[8k5bw227lm94fhzx1gh6bxynjz5gh31h-source]]
+- [[8mg7bvdk4krabq574bfnbcwkqaxz2n0r-source]]
+- [[8s3q19qnw10siff9zphkxbk6mckrr1yf-source]]
+- [[8x2p4afi47bfnzpq7d8llqg17lw9fj2g-source]]
+- [[92ffs78gghjbglzng476d33211f9vnxv-libXScrnSaver-1.2.4]]
+- [[9ixkfl548j174jc0vf8vp088plz4jqkk-source]]
+- [[9kh06v2inmrkx6h3lvr30b90zrmvjars-source]]
+- [[9s8r0k2fs9h6w00x774lhxd7bz5kr1gy-source]]
+- [[9vsx2iyqzh282kbx8c0affbm93px4dhq-libpng-1.6.49]]
+- [[9xi5g5z8f48ybzbiqhhiwq3k46png3d4-source]]
+- [[9zshxf6kk537mzc627ynbj5lgp1qff15-util-linux-2.41.1]]
+- [[a370m0jjmlmb05svgyfaqv19r1nyiy77-source]]
+- [[a3x8lxsxw1jy24lr6kdrbd12b0z2a485-source]]
+- [[a824kgscr6vrkc6jfa144aanb34mbmvb-source]]
+- [[ac3nrp0a53vc00gqqxnnplsv49ymgqy8-source]]
+- [[agnkcpgsw63ima1rywjanh2pqz1zpl18-gperf-3.3]]
+- [[agp9a98x366s7mzhvgj6clwwzg79xi91-source]]
+- [[ahdsglh5021yi1ydnx7sspfj90ij2g5l-source]]
+- [[am9n2hqpfb87624a6c9pd05w505qgvky-source]]
+- [[apmma91q73zwchhs4sivl9bs3mn0jxr3-source]]
+- [[awxpgbsfj3bgxxjz1zprdyqcx49m3r4k-source]]
+- [[b33ny9r8c6v420f321nylimz245m56ni-gn-0-unstable-2025-07-29]]
+- [[b5b7a7q4a28pv883wrfpsbaxi6pbip7n-source]]
+- [[b6lan6ymi22sy8w981cx3x2nymcyvx7r-pciutils-3.14.0]]
+- [[b76vvkw99pzzix87hkahid2vhby4bh58-source]]
+- [[b7g7w8fpp6xqbq6z76rdyr1g5jww7f81-libffi-3.5.1]]
+- [[b7i8y4vlh5h7kih5zm7ahw19n1j368n8-source]]
+- [[bayqzshg9lr4nf2hhnz1wy574ajm4k9x-source]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[bpd3xgpvxal9pn81p9c4px2ldxfhjm20-source]]
+- [[br9vbr57ygigivhgnll3qcbi2y7p426q-source.tar.zstd]]
+- [[brkwzkjp6bxbqn4qbs169gs2n9g3rzv0-libevdev-1.13.4]]
+- [[canh3x3s9cd17wn1pd79a87124airj84-source]]
+- [[cfcqg82ayxx8hqp6pxbb9jj0jrw435lv-source]]
+- [[cgs9f318lrw61fy6xaksfmz63f0i0xwr-source]]
+- [[cldgc1g5k01xp6mxhb0nlw9nwisc3jfr-source]]
+- [[cnchd9b45craqckk864b50k85ia5r5hf-libwebp-1.6.0]]
+- [[cp82b0lpfmipqan85wav1ggfakjb8940-source]]
+- [[dd6c22q10g7gddl3p2lfv153dhhf6mzw-source]]
+- [[dwyi7q9mnb04sllbz2i8klqlvnkhwy1a-stdenv-linux]]
+- [[dzynf7h9bw2qvzwkzm5kmjbgqzpsxj00-systemd-257.8]]
+- [[f1305aqkwkvrpxy69rxbvs54ixmlm1dq-glibc-2.40-66]]
+- [[f636zkg7l4vq55l009ilgwjgrgz639aw-source]]
+- [[f7x8pf0qk106mhcr9di7rcyk4j7k7sj7-source]]
+- [[fb9c9cmhqp0r445q6cyr3jq89j2pgpgv-minizip-1.3.1]]
+- [[fdb208wp1fw54ng58d2if8bwbqzyz4dr-source]]
+- [[fmcl48pl1yd2dj0i667whqy578xlns7z-at-spi2-core-2.56.2]]
+- [[fr6cccjwcr55b8165sngx03pjrnkkr9m-source]]
+- [[fw66ypmp0810lbgl2jbfbknnxz4zq0i4-source]]
+- [[fy9wjrqf0pzd5x3rvy665v50ff747wfd-libusb-1.0.29]]
+- [[g1smgp5dhq2ii8np7vm7n5znki3ak1b1-curl-8.14.1]]
+- [[g3knzmfaqb0mlrszhy3kn86dzd3i6jfd-source]]
+- [[g5394nwgb67vcmixcpyhipq2yjyai088-source]]
+- [[g89gxfz2jj2fk43c1dgq1grff28bah94-source]]
+- [[ggsx15fm9jx0zmkv17r1kkgri7i79m2n-source]]
+- [[glca1gx472ps9qlivbdf7z5jdcdnsp9l-glib-2.84.4]]
+- [[gnxpxzfajq6f469akx81ws3c8b3c0v43-libevent-2.1.12]]
+- [[h07v51k5pkdidkv6nxwiivn3w97ndyfx-source]]
+- [[h5cp6qla52c05asjc8fwgm55dpp04d2y-source]]
+- [[hcyf24kf52p5ib5q0zvl1nxvhh7q5kfd-dbus-glib-0.114]]
+- [[hczbrhv60q426r41ibrra72mv9vyr1qy-source]]
+- [[hnbxarcx4fnwvs12s3vpcypxb7cyw5fi-source]]
+- [[i64fh03ivds4cnp6sfbpx8532sazidha-ninja-1.13.1]]
+- [[i71avzi2vzsx72a3bb9m69g71fbwwndc-source]]
+- [[if30dvb18877vhsf1yhq7bzsgw20xlby-alsa-lib-1.2.14]]
+- [[ihpm4hkcyygq9bf7n47ql07rd3qvvh4j-source]]
+- [[ihw09x40r9ksbpfvlcl5fpgvpdf8n3ja-source]]
+- [[ikc4w229xv0hxikbvks8gp94hlhwjr2r-source]]
+- [[ilx1snh4fiqx31wbamy8pywldff92i0k-llvmCcAndBintools]]
+- [[j0qmmkk1g4dvshnm4aq6dc6bnj9v56m8-source]]
+- [[jaq2dkha4f31zj8srkm3ych9chirdxn9-source]]
+- [[jrvaqhly658a99hda8wsm7zld2sna0wx-source]]
+- [[k2lm2qkl0haj7vph5sa2r97my0ah0q1b-libxslt-1.1.43]]
+- [[k48xwh4xw42nyxy25slm3y58cnjj9k49-source]]
+- [[k7jq52zx0vs4fds12c1cwwl1s97y65d9-source]]
+- [[k7lshn2yqd0b2a8y7bwqp34y03kvxz9b-source]]
+- [[kafy96ynn938vl1m104m8bn68vbqi2jl-source]]
+- [[kalcxgy3sd2hi32bdkn2gzxnd14w0512-source]]
+- [[kdrv0v3a0m5kjcvr2aajsxj2vdqj36v3-source]]
+- [[kggfs6nyyvmndpaib8x7v407sw9d5ay4-source]]
+- [[ki08hc6rlbjs61fa8fx0ihqp8iz29rx3-source]]
+- [[kn802ahkdiy2irj44d0wwv2iybndpryd-openjdk-headless-17.0.16+8]]
+- [[krkqj22wv9dnmhkxdb2fy60bq62b73xy-source]]
+- [[ksg8nvpbvmscgb11kf461rrk5a0aw8f8-source]]
+- [[l09q45vc32lrq1wpg9vhapf28br2bgmc-source]]
+- [[lf311i7x75ziqb6mchr2gy2cilpr7gxg-source]]
+- [[lh8fcfpk6xv9zhkxizw0b0gypmcd3q8l-source]]
+- [[lhw9cl3zbzmb2zj7fpi8dhxf930h9253-perl-5.40.0]]
+- [[lln953gdq4cin8k8iyfbpwdyqa5q6f94-source]]
+- [[llxzljj84bzac8adr71fn9mhsa5k06n8-source]]
+- [[lpn8grdkcgiqbbqxvra0hap1kw6asasf-source]]
+- [[lvdvlk7cwad5mna0wfpz8jllb30jdj1n-pkg-config-wrapper-0.29.2]]
+- [[lxqv7pas39yxwrlnj5g4vdcf3grvarmh-source]]
+- [[m0cd5i3j3pzzvdagl371snjxpgxvg72a-source]]
+- [[m2x8y2bh3afl8c1cqzva7407nl1zwhrv-clang-wrapper-20.1.8]]
+- [[m386d08apkwq70xz2jr4ykc1c19y6gp1-libxshmfence-1.3.3]]
+- [[m68l3csjpqzzysl6swnb9jx0v743mfda-source]]
+- [[m7cdqlcm81a1k6xp0jk4ccg048vgw2m0-source]]
+- [[m91cgxdxpmlrc864m5szzk3c31dwfijl-source]]
+- [[m98q3hgrw20cbr94g75jgi0fddqkrp02-source]]
+- [[mjjcqb2gmala35yg28rvybw38199dcn2-source]]
+- [[mllp23i3s4p5jijxllvnygpx512p53wq-source]]
+- [[mqwqv8lyg8nwikkbrip5h40pdl72rfww-nasm-2.16.03]]
+- [[mxlj90fcy7rs847xic5pz2s6zck13qn2-source]]
+- [[n1yn2qn3wz1h4frmrl4grzccn6jy54a2-source]]
+- [[n3d8dpqif7q48lkz96a2sa89qysdkl4p-source]]
+- [[n5r5y1wylj7rpz14j77s6szma9j2mfxh-source]]
+- [[n6mi47bxj7qz72jlw0p5cgrjrad3ncwz-libXtst-1.2.5]]
+- [[nbxnahp10p1k6kn5mgl3l135qz4zz0a1-source]]
+- [[nccxzd4a966aa3f35wa13a7g4m737m57-source]]
+- [[ndl6jqxw0hc4yr9d6slp9n8zpfkdc03b-source]]
+- [[nlpmfx8yjpxg73b8rlbc1hljs5m4gmqc-rust-bindgen-0.72.0]]
+- [[nph1p0ggqjldc4a46y3zm5gws3l7pxr3-source]]
+- [[nphgrgn3hy01v2ijs5hfp8kax1mqbx3l-source]]
+- [[p1gcvbaykdlx1wlz6yqdiyhm3c6hlf0n-chromium-138-rust-1.86-mismatched_lifetime_syntaxes.patch]]
+- [[p2b4g0clpwl6ddrr0ry6yq3pfchx8x6z-source]]
+- [[p34g2zzpwdr3kwb6ss7h8j1d1h8v7kwc-stdenv-linux]]
+- [[p8sldhqbqh6ybgp3bwzsq44pwbrkgvx1-source]]
+- [[pamhpqxk09ng2v8wfb61qm1a4i41v8k9-llvm-binutils-wrapper-20.1.8]]
+- [[pb2jv6x42drl1qasnh0z7w3dvnd4g0q3-nss-3.112.1]]
+- [[pz3fs1l71qhvmpg55by34lm8542s011n-source]]
+- [[q8vdli5v8ikyyrdrbakb8lcm1bjac3ff-source]]
+- [[qfwaqdv6fyw1knwwvxr9s2hsqwg4jfx5-source]]
+- [[qsidpixs89pihd5qjm02q93yilshiz96-libxkbcommon-1.11.0]]
+- [[qva56f1ybcih3izj98hyz5770yga59y1-source]]
+- [[qzl8kni5a4xh81ampjh16cj72gkw4j4b-expat-2.7.1]]
+- [[r59lxqm0ksqwj5fj0i3qgfbwcvqaiy1c-source]]
+- [[rbcn7428x5qxfa9ybxq7sdf2p35y1hn4-source]]
+- [[rl9bhmynqik6q9fn0kbqz5jaal3ljqxw-source]]
+- [[rqahqsjsngp2fb9j78y6qhyjp5kkr9gb-source]]
+- [[rs2vj7k4gpkn8b630pjqzn1480plzzc9-speech-dispatcher-0.12.1]]
+- [[s03113vgzz1kmhzl74nq55k2gzp9s1v5-snappy-1.2.2]]
+- [[s06j569dmncl53x6rjc57q1lmmna3kk2-source]]
+- [[s2yr49i6v0a50zz5y5qxyzzkdzc3y6hx-libXdamage-1.1.6]]
+- [[sancryczhcrhwpjgd7n27gp4gdv92b98-source]]
+- [[sflgdlwp7yc0h9xdpksz77a96l68qbkl-libepoxy-1.5.10]]
+- [[sg7l1myj5c4zkd4vybmhmjfd5m9srckp-source]]
+- [[snbfinsd48w01hi51bzzpdl7m5n1cwif-libdrm-2.4.125]]
+- [[swl3awch0ssc93gcn740s2kpk0ljrkx5-npm-deps]]
+- [[v28sdl3535sxb6a71z5faqdzbns9pv0h-bash-interactive-5.3p3]]
+- [[v5gvbl43skd64a7gy2dwl7h6c5vw4q28-source]]
+- [[vdbr422wxf0rv4m6dv84k1dvs8zlv6k0-source]]
+- [[vgnd3x0736b0nl6cz3xqijcyr7rdszbn-source]]
+- [[vhy36byqs8mivq4b8gdhr3bscx3ah10z-source]]
+- [[vzja73jxbrjp0c6hxzkkbizc1v48n0xn-libxcursor-1.2.3]]
+- [[wg9h7mqsbjjx0vjdvwbm1fvix586njx4-source]]
+- [[wnzrwrpjmgimdq9m4galpniq3lsxcspz-krb5-1.22.1]]
+- [[wrnw0m2sxil8lwpd11vpfh50ml2lzxfn-source]]
+- [[x3gs2k0p64cnp8gb612vydk7i9njwb5b-source]]
+- [[x9zzs5k9xn94zzwvjj1mj09zrag3qail-source]]
+- [[xrk8xs0c4blq8a2639sxrvzcw59d800m-source]]
+- [[xx2piw1akgnbrbzwxbz3nn3w0y6khnmp-source]]
+- [[y4lfwlviqzkdrk9973a02vpl0fk4h1vy-bzip2-1.0.8]]
+- [[yndsg7w2c4vc6s7y7a0mc0ivlq43jgc1-source]]
+- [[yqcg8nx5w0zhpx70pgf2zfn801pmxn0i-source]]
+- [[yrj310fq26wa4gznrkcrw2s31lj1z9ax-source]]
+- [[zb7bk9ib36ds527b4bchn866ia8wn6ma-source]]
+- [[zkm0vagji3v9677pyw1z2s1yjzgvn789-source]]
+- [[znwi644l0d60r699rkih9gp7pf0wqfbn-source]]
+- [[zp5p3kd0lrgn0z6h9an44c9swfm9vwx4-source]]
+- [[zrai359yx5lx8030q5nivvh0rz6279mc-source]]
+
+## 📁 Input Sources
+
+- `/nix/store/dfk8b20a6qak1ifyf2d4cc4n08pjnc0h-chromium-140-rust.patch`
+- `/nix/store/fjrcvjbm60cyssfsh24y1fjhb3m4af9g-no-build-timestamps.patch`
+- `/nix/store/k6r5z2davj2wjpx6mkdlzvj35p9508gm-chromium-126-llvm-17.patch`
+- `/nix/store/kysac7gkm7480yqa85v494kh4vycc97q-angle-wayland-include-protocol.patch`
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/p57bs1svsz91d2vm41knifi2j327zlxs-chromium-initial-prefs.patch`
+- `/nix/store/qn9vd010ylciqv44d6wahrmkshysqphl-cross-compile.patch`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+- `/nix/store/zjkdgalr5dfh9vms6yfjnfinck2sjh6z-chromium-136-nodejs-assert-minimal-version-instead-of-exact-match.patch`
+- `/nix/store/zw1ysr6ln28r5yyqmq0nrq0r18kpg2ap-gclient_args.gni`
+
+---
+*Generated on 2025-09-27 11:45:54 UTC*

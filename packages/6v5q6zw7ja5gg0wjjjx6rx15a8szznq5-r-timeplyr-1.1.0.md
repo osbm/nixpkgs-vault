@@ -1,0 +1,62 @@
+---
+aliases:
+  - rPackages.timeplyr
+tags:
+  - license/unknown
+  - outputs/out
+---
+
+# rPackages.timeplyr
+
+## 📋 Package Information
+
+- **Name**: `rPackages.timeplyr`
+- **Version**: `1.1.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Homepage**: [https://cran.r-project.org/web/packages/timeplyr/](https://cran.r-project.org/web/packages/timeplyr/)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/6v5q6zw7ja5gg0wjjjx6rx15a8szznq5-r-timeplyr-1.1.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/r-modules/generic-builder.nix:81`
+- **Outputs**:
+  - `out`:  `/nix/store/6v5q6zw7ja5gg0wjjjx6rx15a8szznq5-r-timeplyr-1.1.0`
+
+## 🔗 Dependencies
+
+- [[1prcppkymfy3kahczqjzrppjs9c00f7b-r-cppdoubles-0.4.0]]
+- [[1s1mx8hiqhw8laq9v61jm006nl7mfzv3-r-lifecycle-1.0.4]]
+- [[1z1nbbqmq2qb5wqqd1jfg9zc1jjd1jiw-r-scales-1.4.0]]
+- [[3f8n9gfa8d7ay5sixww3x88fg6vxvhfg-r-magrittr-2.0.3]]
+- [[3sisfv8m6ziv41s3h6jnwq12ppp62xd4-r-stringr-1.5.1]]
+- [[62pls6y0qy24y99bbfw8d1a23fg741mw-r-collapse-2.1.2]]
+- [[9k9ja7yk27jmqdld2xrl97xipiv3a83p-r-ggplot2-3.5.2]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[bl4n797k2hry8i7p81qa410db5140yvb-r-tzdb-0.5.0]]
+- [[c1i92cavgp8rpbz9k0ngaxns64kldiw8-r-fastplyr-0.9.0]]
+- [[d1j4b14wc4kkzyr8xm32s542xgzwx6cr-r-pillar-1.11.0]]
+- [[f0cxr25qb87n0z70z4kk40j6k4a38cy4-r-dplyr-1.1.4]]
+- [[iavc4z5r8qnjs7wb18n8jnp7pxqgglsx-r-lubridate-1.9.4]]
+- [[iwjm4qrnbb396aadkd95dfh0xiqxcbri-r-vctrs-0.6.5]]
+- [[j63d6wndh7nhsj80j19hbrfq7wfz79ms-r-rlang-1.1.6]]
+- [[kqv4s89mf6sf9z0505qndczyg827g9y1-R-4.5.1]]
+- [[ljy5x0kvfm2c3p7zi1ngkk5ri94x72bi-r-cheapr-1.3.2]]
+- [[lv8kp8yy7i4cwgz5m2z1nq0z19wfdcga-r-cpp11-0.5.2]]
+- [[m0h8vm7wnxqmzy77yph902p607lx7np5-gettext-0.25.1]]
+- [[mssp2q7ml8pidqarvsvvd1yhs3xak719-timeplyr_1.1.0.tar.gz]]
+- [[p1zd0wh0nsn83khgxwrv80xaij0bfh9p-r-data.table-1.17.8]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[pa4xc5smbldmrizmfd72jvl8bj4vg6dp-r-timechange-0.3.0]]
+- [[v2j9say6lvrfa4cxxc2y77hxvwds01mn-r-tidyselect-1.2.1]]
+- [[yrlkij9pfh4j4kn5vbn1xyh3nx0jrxyz-r-cli-3.6.5]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:22:40 UTC*

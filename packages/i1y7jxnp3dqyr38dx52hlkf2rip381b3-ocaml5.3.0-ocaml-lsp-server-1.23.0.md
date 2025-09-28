@@ -1,0 +1,70 @@
+---
+aliases:
+  - ocamlPackages.ocaml-lsp
+tags:
+  - license/unknown
+  - outputs/out
+---
+
+# ocamlPackages.ocaml-lsp
+
+## 📝 Description
+
+OCaml Language Server Protocol implementation
+
+## 📋 Package Information
+
+- **Name**: `ocamlPackages.ocaml-lsp`
+- **Version**: `1.23.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: OCaml Language Server Protocol implementation
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `x86_64-solaris`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/i1y7jxnp3dqyr38dx52hlkf2rip381b3-ocaml5.3.0-ocaml-lsp-server-1.23.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/ocaml-modules/ocaml-lsp/default.nix:86`
+- **Outputs**:
+  - `out`:  `/nix/store/i1y7jxnp3dqyr38dx52hlkf2rip381b3-ocaml5.3.0-ocaml-lsp-server-1.23.0`
+
+## 🔗 Dependencies
+
+- [[0bz3ijf058cjmp7hxpsm06vmg9a55y7i-ocaml5.3.0-omd-1.3.2]]
+- [[21w738cmn4lam7apjh30n52lkadlifxv-ocaml5.3.0-spawn-0.15.1]]
+- [[2jbjfm0s7c03a7mylffys7n228vs64rz-make-shell-wrapper-hook]]
+- [[3wz9aikcm5qkn9bfnbjsr69vw145chc0-ocaml5.3.0-camlp-streams-5.0.1]]
+- [[79xca2gg4qd8zpy3a9z5xvqyifwfhs9a-ocaml5.3.0-lsp-1.23.0]]
+- [[9c9gjn85bxmvywgqg986hymrphm2hd7v-ocaml5.3.0-merlin-lib-5.5-503]]
+- [[apbdckgdvy1fmhlmq0zqisi76ld55k6m-ocaml5.3.0-re-1.12.0]]
+- [[bhs7y9l9zmn62h59h12p5dddvjxh36y8-ocaml5.3.0-ocamlc-loc-3.20.2]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[cqirn8rhk3djhcm3i31dw0b5m3mj2qvb-ocaml5.3.0-dot-merlin-reader-5.5-503]]
+- [[dr81ni2gxpn6akpv5xcqasjbmsk08acf-cmdliner-1.3.0]]
+- [[fis35696sz33pz02if5yd6icq3dvbklp-ocaml5.3.0-pp-2.0.0]]
+- [[fy9f8qgqcxz8x6kb1h6hf0apaj3x7xly-ocaml5.3.0-fiber-3.7.0]]
+- [[fzqcyy9y3x18w8dd1lr5f3pby9kyawc4-ocaml5.3.0-chrome-trace-3.20.2]]
+- [[h5w312mas9sbfpj25m9izmn12q0wbs7a-ocaml5.3.0-dune-build-info-3.20.2]]
+- [[hvj99gxd587y6qpvmlvggb37jl1jkd6d-ocaml-5.3.0]]
+- [[kkxmr6ibn2fk4z28wr4f0r00d8zdy5h9-ocaml5.3.0-dune-rpc-3.20.2]]
+- [[n8fg89sy2hgirjmxpvl9psmvqb2bch52-lsp-1.23.0.tbz]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[pgfiipb6hpm800sfxw3qmg9gcr9qnx8p-ocaml5.3.0-stdune-3.20.2]]
+- [[pm6pkl6nrlmgg45lwydqivz20hpaq904-ocaml5.3.0-octavius-1.2.2]]
+- [[qqidg1njmwlhwxav5vfzb75jsqs4z8md-ocaml5.3.0-xdg-3.20.2]]
+- [[qz0c51ckl6xq5s1l891c5rqm5azj6aav-ocaml5.3.0-dyn-3.20.2]]
+- [[szs0hb5j0m822ifqhfg03380c6k3cncz-ocaml5.3.0-ocamlformat-rpc-lib-0.27.0]]
+- [[v7frpbpy8hkmji5gb4ak2mr2g4d3jm1d-dune-3.20.2]]
+- [[vhmsjg3cihclkd3j3bfjx5hxj14mzq6y-ocaml5.3.0-astring-0.8.5]]
+- [[wnysrvsw73ra22f21mn6vzsw7rg28sn1-ocaml5.3.0-ppx_yojson_conv_lib-0.17.0]]
+- [[x7414mggwcc3nasb0vjvky9kwm1mgywc-ocaml5.3.0-base-0.17.2]]
+- [[y4p2cj0lr29dsczxm3024pgp6f4mrjp0-ocaml5.3.0-findlib-1.9.8]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 11:45:50 UTC*

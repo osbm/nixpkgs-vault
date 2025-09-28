@@ -1,0 +1,71 @@
+---
+aliases:
+  - ubootOdroidC2
+tags:
+  - not-available
+  - license/unknown
+  - maintainers/dezgeg
+  - maintainers/lopsided98
+  - outputs/out
+---
+
+# ubootOdroidC2
+
+## 📝 Description
+
+Boot loader for embedded systems
+
+## 📋 Package Information
+
+- **Name**: `ubootOdroidC2`
+- **Version**: `2025.07`
+- **Available**: ❌ No
+- **Broken**: ✅ No
+- **Description**: Boot loader for embedded systems
+- **Homepage**: [https://www.denx.de/wiki/U-Boot/](https://www.denx.de/wiki/U-Boot/)
+- **License**: `unknown`
+- **Platforms**: `aarch64-linux`
+## 👥 Maintainers
+
+- @dezgeg
+- @lopsided98
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/5bm3l46f7f83r4yf1fpvdg6k4ya7hkb6-uboot-odroid-c2_defconfig-2025.07.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/misc/uboot/default.nix:152`
+- **Outputs**:
+  - `out`:  `/nix/store/5bm3l46f7f83r4yf1fpvdg6k4ya7hkb6-uboot-odroid-c2_defconfig-2025.07`
+
+## 🔗 Dependencies
+
+- [[0naxaa1qv8im32fmwrk12qiwfvwwkmsn-gnutls-3.8.10]]
+- [[0y20y5glzrd67xskzh9vjindzjl1jiiv-bison-3.8.2]]
+- [[2y97hhlh6kk73xb67449m8406vymdp5q-swig-4.3.1]]
+- [[30hrjgwy0rsirnnf061jgi18izzn3v30-u-boot-2025.07.tar.bz2]]
+- [[3x9b536jpi37ckghfmn3wprwwzzcgvaw-ncurses-6.5]]
+- [[3z6dcp2i69nn7h8kwl6snf651i7ds14v-util-linux-minimal-2.41.1]]
+- [[4f9j67x7cgs2hzjgyyzm8q6z1w2vgy41-which-2.23]]
+- [[505h5x4gwnvqjcbdis9xzvbfxf9f8v2g-meson-tools-0.1]]
+- [[7d5p0ip9nd3aj3r1a2pmhsxxizqqnis8-openssl-3.5.1]]
+- [[8yb65cbdkaw2xhir0fzvz0q633fvincv-arm-trusted-firmware-2.13.0]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[f1n13snkhjc3azllrgdsdr4zpblvl8fi-dtc-1.7.2]]
+- [[giy1p0jyl3x5drnq14an039y1kihrqxg-python3-3.13.7-env]]
+- [[i9kj1nhzkg91xsq8ny4z4hipl0b42kad-gcc-wrapper-14.3.0]]
+- [[kz2f7nz1sc66dvlq4khrhypz053nvw8w-source]]
+- [[lhw9cl3zbzmb2zj7fpi8dhxf930h9253-perl-5.40.0]]
+- [[llaipgsnpv28lqcjmdy3d5b16fwp1q74-arm-trusted-firmware-gxbb-2.13.0]]
+- [[m55bri93hkqys7fxczxzh6ysk81if284-bc-1.08.2]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[wy61x67y125m36dp7l7xhzqbi30mxg1d-flex-2.6.4]]
+- [[z695ql5xcnip86m164248xr6vkgf9vga-install-shell-files]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:16:40 UTC*

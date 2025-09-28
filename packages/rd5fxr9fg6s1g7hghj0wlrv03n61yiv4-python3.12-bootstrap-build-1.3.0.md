@@ -1,0 +1,67 @@
+---
+aliases:
+  - python312Packages.bootstrap.build
+tags:
+  - license/unknown
+  - maintainers/fabaff
+  - maintainers/mweinelt
+  - maintainers/natsukium
+  - maintainers/mweinelt
+  - maintainers/natsukium
+  - outputs/out
+---
+
+# python312Packages.bootstrap.build
+
+## 📝 Description
+
+build will invoke the PEP 517 hooks to build a distribution package. It
+is a simple build tool and does not perform any dependency management.
+
+
+## 📋 Package Information
+
+- **Name**: `python312Packages.bootstrap.build`
+- **Version**: `1.3.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Simple, correct PEP517 package builder
+- **Homepage**: [https://github.com/pypa/build](https://github.com/pypa/build)
+- **License**: `unknown`
+- **Platforms**: `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `x86_64-darwin`, `aarch64-darwin`, `i686-cygwin`, `x86_64-cygwin`, `aarch64-windows`, `x86_64-windows`, `i686-windows`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`
+## 👥 Maintainers
+
+- @fabaff
+- @mweinelt
+- @natsukium
+- @mweinelt
+- @natsukium
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/rd5fxr9fg6s1g7hghj0wlrv03n61yiv4-python3.12-bootstrap-build-1.3.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/python-modules/build/default.nix:99`
+- **Outputs**:
+  - `out`:  `/nix/store/rd5fxr9fg6s1g7hghj0wlrv03n61yiv4-python3.12-bootstrap-build-1.3.0`
+
+## 🔗 Dependencies
+
+- [[2jbjfm0s7c03a7mylffys7n228vs64rz-make-shell-wrapper-hook]]
+- [[ax2qa2vp79y9nzz7d5b5ksmyhkwisnzh-source]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[fz0k8m7chhichwdj1h1g54hjfh80g3nm-python3-3.12.11]]
+- [[g0ic2nshj6k92f0nhds4swqhgbfq56g4-python3.12-bootstrap-tomli-2.2.1]]
+- [[i8lxlhm3r0gkhvymqcpnni0qgxjga0b3-python3.12-bootstrap-flit-core-3.12.0]]
+- [[iam3abkp89098kc4gmcjf8y0z469k5zm-python3.12-bootstrap-pyproject-hooks-1.2.0]]
+- [[k1hfxqm5canq8jqb3l5hgrwzxw448qy7-python3.12-bootstrap-installer-0.7.0]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[sny0sb8z1rwir4mxkpyb6y3wiyk36k06-python3.12-bootstrap-packaging-25.0]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:01:11 UTC*

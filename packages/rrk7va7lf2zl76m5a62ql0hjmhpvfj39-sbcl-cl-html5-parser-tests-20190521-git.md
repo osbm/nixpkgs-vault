@@ -1,0 +1,60 @@
+---
+aliases:
+  - sbclPackages.cl-html5-parser-tests
+tags:
+  - license/unknown
+  - maintainers/7c6f434c
+  - maintainers/lukego
+  - maintainers/nagy
+  - maintainers/Uthar
+  - maintainers/hraban
+  - outputs/out
+---
+
+# sbclPackages.cl-html5-parser-tests
+
+## 📋 Package Information
+
+- **Name**: `sbclPackages.cl-html5-parser-tests`
+- **Version**: `20190521-git`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **License**: `unknown`
+## 👥 Maintainers
+
+- @7c6f434c
+- @lukego
+- @nagy
+- @Uthar
+- @hraban
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/rrk7va7lf2zl76m5a62ql0hjmhpvfj39-sbcl-cl-html5-parser-tests-20190521-git.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/lisp-modules/imported.nix:25186`
+- **Outputs**:
+  - `out`:  `/nix/store/rrk7va7lf2zl76m5a62ql0hjmhpvfj39-sbcl-cl-html5-parser-tests-20190521-git`
+
+## 🔗 Dependencies
+
+- [[21riwh5d3l4ssw0vpdm7msmhj32yfazi-asdf-3.3.6]]
+- [[9k2aia6x3ax4j023sll56l2f7kkblsi2-sbcl-json-streams-20171019-git]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[gd0f6mdz4r87k1c5k9zb350xk4p8ynvl-sbcl-cl-html5-parser-20190521-git]]
+- [[h8iqvx2vqi9bp6szbn7vgvw36y98s7h2-source]]
+- [[jgx9y4qdkj8zgk3d1fh83888qy9klvc6-sbcl-2.5.7]]
+- [[kv69qxhhx4znff9pj4vmxisqb79l67pz-sbcl-stefil-20181210-git]]
+- [[lw5dgvid5vrgi162wb8kvm3l4akadmkm-asdf-3.3.6]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[rgnc2b059wp61n0slq7ammf4hb9w9rdp-sbcl-split-sequence-v2.0.1]]
+- [[rhk3jcch767ly1x5nhd99p94323m10sb-builder.lisp]]
+
+## 📁 Input Sources
+
+- `/nix/store/8dlzdap2c80wd0df8nnjzbv7jzmsmb6j-setup-hook.sh`
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:30:07 UTC*

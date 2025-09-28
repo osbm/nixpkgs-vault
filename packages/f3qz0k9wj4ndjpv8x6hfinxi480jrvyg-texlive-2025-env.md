@@ -1,0 +1,237 @@
+---
+aliases:
+  - texliveMedium
+tags:
+  - license/unknown
+  - outputs/info
+  - outputs/man
+  - outputs/out
+---
+
+# texliveMedium
+
+## 📝 Description
+
+Contains the following packages and their transitive dependencies:
+ - scheme-medium
+
+## 📋 Package Information
+
+- **Name**: `texliveMedium`
+- **Version**: `2025-env`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: TeX Live environment
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/f3qz0k9wj4ndjpv8x6hfinxi480jrvyg-texlive-2025-env.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/tools/typesetting/tex/texlive/build-tex-env.nix:265`
+- **Outputs**:
+  - `info`:  `/nix/store/f3qz0k9wj4ndjpv8x6hfinxi480jrvyg-texlive-2025-env`
+  - `man`:  `/nix/store/f3qz0k9wj4ndjpv8x6hfinxi480jrvyg-texlive-2025-env`
+  - `out`:  `/nix/store/f3qz0k9wj4ndjpv8x6hfinxi480jrvyg-texlive-2025-env`
+
+## 🔗 Dependencies
+
+- [[02aspgki0c0yhi35r2r5anps9d1x45k4-tex4ebook-0.4b]]
+- [[06pqjh7lravb3w8qf9x917js3lj9abvz-mf2pt1-2.8]]
+- [[0absgy0qcsgxk9sjx4w5clyb3yrdhsqk-ps2eps-1.70]]
+- [[0f3kvfwyj0cwnw2jck3aq9cq03f32w2x-findhyph-3.4]]
+- [[0sqmd79wsp814b3mz6h85s1dxs5dq64h-tpic2pdftex-73908]]
+- [[0z8lv1jgmx9dikm594l1m164abxzf1sf-xpdfopen-0.86]]
+- [[0za7qx08cywi4hffbp3mnlzv9a1wc502-installfont-1.7]]
+- [[114x4p1qh6l0mv683sc5rw6j136l188b-builder.pl]]
+- [[15w3gvimiz5r59ipqz8qxgfxigzhqgzx-texdef-1.10]]
+- [[16jmcyda4i88w5sj8wajwjbiz97japg6-runtexshebang-0.5]]
+- [[1ibp4alqf3048sn0hnhcfxz2xdraw71j-dosepsbin-1.2]]
+- [[1kzpwy9g205jidyi52p9bk3hn8202plv-ctan-o-mat-1.2]]
+- [[1y9s1yn06c5qgycpqki3cjgnfa1jiw9c-pdfbook2-1.4]]
+- [[1yslp2n6fwxah4cfvc375j4b3jvw7l59-texlive-scripts-75669]]
+- [[21wawaap2dbd0zl2m6nfr4cpl0wmgg4p-attachfile2-2.12]]
+- [[237yvwsqynq55zj96p6wk638fsx4yxaz-accfonts-0.25]]
+- [[23fcbq12nvxh88alkpfblyki35zn76sn-luahbtex-73848]]
+- [[26l1g11i25r2x1iqx0c8zqgb7xhz4c23-texosquery-1.7]]
+- [[28fkbzbb335byayf7b4pdg8q6r8lwfxk-tex-3.141592653]]
+- [[2jbjfm0s7c03a7mylffys7n228vs64rz-make-shell-wrapper-hook]]
+- [[2vq82y3xfjyy79zywdffgqqsc44ca833-cweb-73848]]
+- [[354hvlcg6gn337x9wykaiximj5l4x1ix-pkfix-helper-1.6]]
+- [[39rqcvcnv850q6pq3czqp4cgdhg7p1by-xindy-2.5.1]]
+- [[3chmxxqx57ghvla5i4pdxc4p0csnxyy0-ghostscript-10.05.1]]
+- [[3j53f4iil7d0z5p153d03wbi45z17c6q-texlive-2025-latex-bin-fmt]]
+- [[3mcd8mfzp1v94ffympjy8040h1cyf5qj-detex-70015]]
+- [[3qmmpndhbnj9fscdkhwqhy1hqj9msfl2-texlive.infra-75590-tlpdb-75669]]
+- [[3w6mf217fq8bb7gdianvfgmmxk6a9crn-mflua-73848]]
+- [[453i2h8qkf8hpcds0i9qiis1z3dncj56-latex2man-1.29]]
+- [[477ryhxp6wra9bqj92ys218rl0h4rw3n-extractbb-1.1.0]]
+- [[47wyijgd54p9vxr7s311j58kswfrpcg1-luaotfload-3.29]]
+- [[4lykrm96bxajhbrv42nzm365n9yf9s1y-coreutils-9.7]]
+- [[4vcblmb6rilyi1nk4fnj687c32ahdihj-texlive-2025-env-texmfroot]]
+- [[5264gbk0qy1firybc0xa1nljjzznlbhg-texcount-3.1.1]]
+- [[52sfq9rc02cvqvdiqdhpkxskvkv0rg2b-pdflatexpicscale-0.50]]
+- [[53w0j70pziv7v4q9i91pmv4951qymlqi-pdftex-74113]]
+- [[5gr7a9f3yhw2afi0hyfrlk4qj1gzxhw2-chklref-3.1.2]]
+- [[65kda2gggjf9d9qflq9lg952rx6v2p8v-texlive-2025-luajittex-fmt]]
+- [[6689gsg8kpxm762hfww5v815d0v5qxbj-pdfcrop-1.42]]
+- [[6a0pxfwvs8c1lfg42hznb5dyqsapcs32-afm2pl-71515]]
+- [[6b5b6bvgzfp6v0dlzvj7rsh4dpx9vr1n-sqltex-3.0]]
+- [[6c4yqdhhf17nxajxzcyn5mbdarg1flfp-dvi2tty-6.0.0]]
+- [[6dg1vi55ynf4dmkmmcn945pwdz010s34-stdenv-linux]]
+- [[6mghzdjkgfcwx48l9jpbvbk81xjk8s2v-texloganalyser-0.11]]
+- [[72shknbccz2d72lb3lj4fqx0hqhw6z4z-upmendex-1.20]]
+- [[73l9kxqwrx2g0ksjimsv78n1drjr6k6z-ps2pk-66186]]
+- [[74gxgni6awd40q9g50gv91kmahjzyjzb-mkjobtexmf-0.8]]
+- [[75y9i1yxxhb0z9ca4dnf6q219iqx07pr-vlna-73908]]
+- [[7is23i4hchdrqh0icmxp47vfsmr1sl0p-xetex-73850]]
+- [[7kwz752ny59f01f8jfmb1cbxnjm7wbgn-texlogsieve-1.6.0]]
+- [[7l4sjqi5yy8jy7zyc2p3sxhk21yc1j14-match_parens-1.44]]
+- [[7n0cca51w0zva55r5c8km5vlb55gi6b4-latexmk-4.87]]
+- [[84l48wprzks9ffw4bp6aklfxk31wzq8c-pkfix-1.7]]
+- [[86b47h28q33qv2rviyc7c9y16dqggi4c-texlive-scripts-extra-71746]]
+- [[8a4v3kqihw67hp6sn5wv7qm6rir6j8k0-pfarrei-r37]]
+- [[8hh67cf1hs57b533bb01hdwdz6ha7l6r-dvidvi-65952]]
+- [[8pawzkk3srfj4xiw20d9i5x1v4h6rd2n-purifyeps-1.1]]
+- [[927hw0pgb031g0fbs7hiwqy5ikvmsk3b-patgen-2.4]]
+- [[96d8syg0jgpcdhwb5agys5bp3gmdz9sb-fontinst-1.933]]
+- [[9c8mqjpvxr1rz9v8d7w20vpqsxvrnrlf-lcdftypetools-70015]]
+- [[9gk6igh1f8n5xwz243hc4ikj427rjnxd-checklistings-1.0]]
+- [[9lg5dlk0qygqv4z5hvnlsc5ic58n6a4c-texfot-1.53]]
+- [[9s88m2j9s727id79krh5l5238sbdm23f-digestif-0.6]]
+- [[9z89vxb6gn6lq0ialypb3943byj7zfq4-bibtexu-3.72]]
+- [[a3pcq3x3jaf6zc6d9bkm6wa6ibln5y89-dviasm-71902]]
+- [[agywyx30a5vbhpjh4slgaqxisrnggm3z-fontware-73848]]
+- [[ak7v6n9vsz44yf2cyynl5fjjc5jxpjz4-latex-papersize-1.63]]
+- [[apj0frriahkwq60s99qa6rayl00lwa3x-spix-1.3.0]]
+- [[b9wx6kckgibpazrhzqignlqck0f00605-texlive-2025-csplain-fmt]]
+- [[baa02l90x2ap9l10c3fsx8521il46zfq-pythontex-0.18]]
+- [[bbs11xfqixv96b2f5rjq3swa2yx4g6b2-clojure-pamphlet-1.3]]
+- [[bc1d04fgm1l4pc4iga3ngbiwb6phmnli-synctex-66203]]
+- [[bd0c39fga999w6rmvbc2z7hxb8qwyl4x-cluttex-0.7.0]]
+- [[bdh23agi31fyrpammdq0qsd2r5aa3rhw-de-macro-1.4.1]]
+- [[bgr6bs7lfaabqhkglh315nlj0901amq7-show-pdf-tags-1.1]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[bkyiynpx9d7nyp3n1kkzxqspknmnjw69-lwarp-0.919]]
+- [[bnm4h5n38lcd13mm1pzxw4r23xmygjp0-ppmcheckpdf-2025A]]
+- [[c3x49gqkx3k469gcw5d9zh4971igbsmh-chktex-1.7.9]]
+- [[c535n57982a34jm5b7ws71iflxl7dkaa-texlive-2025-optex-fmt]]
+- [[cb24410hhfgdl5s0n286mjv86apln1c6-xindex-0.64]]
+- [[cd202swmkrxbnxdr1g6q6h4zqcshlmfs-latex-git-log-1.1.0]]
+- [[cflrzgbglppcagf2jfix9hgq25126m9z-gnugrep-3.12]]
+- [[cgy7ih5gyvxkrk78x8zq574xlj8ij729-bundledoc-3.5]]
+- [[cqsk9kw3190rqp3ivgc7j5sy0nx3sy4q-epstopdf-2.36]]
+- [[cr4g0apax339bg4m7ywb9ann7xd0cmxn-adhocfilelist-29349]]
+- [[cwqxdw37n9pfyzxyqs9jv0igkkykilda-asymptote-3.04]]
+- [[d8vfv1ib4cp7gsksy8srxadc0rlb0qia-a2ping-2.84p]]
+- [[db7kc7f58s78rxxa5vr49glxw6qzacly-dtl-0.6.1]]
+- [[dsbcfpn8vmw5w0ps9d6m038vd3dd37dn-light-latex-make-1.2.0]]
+- [[dsq4xsjnvlfxy2rf8h07552gjpyxvpv6-listings-ext-67]]
+- [[dsw50kwxpk7f61mjl69sbqr2m8jxx0jb-checkcites-2.8]]
+- [[f38kpqd5z616si7w6fd21qwnb5i70yib-tie-2.4]]
+- [[fhzsad6mx6pgdg8v7f0rvwd61vrq6c84-ketcindy-20191225.0]]
+- [[fjxp0gyih59x82x6z6g4y46ry4akvnyj-pdfjam-4.2]]
+- [[fkjs2qbdb180ai54h5z2355zsany12li-srcredact-1.0]]
+- [[fy9j9v979vknh32kr9h1k8qxrcxba2sv-dvipos-66186]]
+- [[fykkl7hhsiymng7f5ai3c80z4i2bcms8-texliveonfly-55777]]
+- [[g0agpznk1ify3mrqb2syb2svyb700wxz-psutils-p17]]
+- [[gwi960amkay0fnw09ax4pfi9ih9f2a0k-texdirflatten-1.3]]
+- [[gygzx5ijmf6y337xb3i2vx8nmp7qq0ip-metafont-2.71828182]]
+- [[hab6gl0klsy117lisizm62ip5dk4w4ay-gsftopk-1.19.2]]
+- [[havggiwdf1v3ssb3iy7zqadnalrbrazd-libfaketime-0.9.11]]
+- [[hk6f0ikzyw36fj1zfvd5lnr7p75wn4j2-texlive-2025-metafont-fmt]]
+- [[hpxk4iylrddn1kymisjngrzscbi6lwz7-dvipng-1.18]]
+- [[hrfmc30ypqk0hhqz8005mfyhj8k5lrbi-latexdiff-1.3.4]]
+- [[hz0a6s00pnmxyl29p4nlvwzflwhs3dl6-ltximg-2.1]]
+- [[i93jp0f977rr65cqrmng0lcd5pgy7yac-typeoutfileinfo-0.32]]
+- [[ib2waad0achd4cfpm7aprkqqxk6w0i6n-luatex-75423]]
+- [[ic4q47j1nmh4sby6zjz1p37szih7k3a7-texlive-2025-amstex-fmt]]
+- [[id3lsl4sln1c77p2jgl8fmli5ib7dxm7-sty2dtx-2.4]]
+- [[if033nxwia8xxndgrdbcpgh0c803w84l-texlive-2025-pdftex-fmt]]
+- [[iqzmdhq5phyq0m4qlk579swjyhfhjpip-easydtx-0.2.0]]
+- [[j26c06yqxvzfk8mcp1x26nvf1kqi1hhd-dviinfox-1.06]]
+- [[j4fvvvj97dflzh25dij7cwg7zzvivb8r-make4ht-0.4d]]
+- [[j5g2ff8wzgipwksrbdp964fpl4x4p01q-xdvi-62387]]
+- [[j9n7zcx2vybyzqf4s5lgpwg4k79habaj-ulqda-1.1]]
+- [[jav10ikapdwgsy61cjpzbyc73wxjrikr-latexpand-1.7.2]]
+- [[jb8ikfn6j3lxvlfss41r2qkq606irh0d-pdftosrc-73848]]
+- [[jlirli57kg0vprrix5akk734bi61l6hy-dvisvgm-3.2.2]]
+- [[jvh45k1bq98vnrqnshj6q3x17qlkh070-texlive-2025-env]]
+- [[kmx84rsyvfzpxs2pii1lp7ik0i0szpkj-texlive-2025-mptopdf-fmt]]
+- [[kv77pcvzf2bvk23jdak1j3c8brx9bvlb-expltools-75612]]
+- [[l0wwi06jpg21rh8c27v5sf1frmrpldg7-dvicopy-1.5]]
+- [[l5j710qzfx1yjy80pkkwswf7ic0phy92-fragmaster-1.6]]
+- [[lc36z8p6jf5analjh6l79yqw60f5dfy2-mptopdf-75495]]
+- [[ld1l1d2435in4sr533wqsbimfj5bbvdd-tlcockpit-1.2]]
+- [[lhw9cl3zbzmb2zj7fpi8dhxf930h9253-perl-5.40.0]]
+- [[lp6lfm831cb2b2b9g6b61wcjfpp8zp4f-latex2nemeth-1.1.3]]
+- [[lwhvlmmz2cd7k6qh7g884cnx88i553lm-dtxgen-1.08]]
+- [[m02v3ji7rnpbsif44a9dpd6z2slr72q3-luajittex-73848]]
+- [[mc0s58vcyl1k7bc3n7dyx9l6z8wb8g09-ttfutils-73908]]
+- [[ml92f56fjxcra456fbsqwm3hdwms98ky-lacheck-66186]]
+- [[mwb8vsd5lmlxbd1hsf13jfg8py8y6ssj-axodraw2-2.1.1c]]
+- [[mx67a90k8n7j3ip38yxnim2xckjvk016-mfware-73848]]
+- [[n611v1d8np1g83w1iqv842668bq7fgpd-makeindex-62517]]
+- [[n93z17krvkjkpvgkkkmrm9ggj3vr8n4i-luafindfont-0.15]]
+- [[nncdp6lk0qyv7gamnw5xlyj7bby06n4j-ctanify-1.9.1]]
+- [[p0jk4k5cckwscnxkfs85nq0nqkx84hxj-seetexk-57972]]
+- [[p1dlfm1qcgbvgd5pyina9agwpwnqfgm3-dvips-73850]]
+- [[pd95wr47vjb0888y88lzvz86z6ji5khm-t1utils-57972]]
+- [[pl9xxpx1z4l43av2gprgwhncw4qj310z-texaccents-1.0.1]]
+- [[pqjy8c46bjnywswaqjn77h8nhra510x4-git-latexdiff-1.6.0]]
+- [[pw3icgi7v3yfdqswf6x8ry1qynyd04xr-texlive-2025-xetex-fmt]]
+- [[pyqqh8w8q6phaxrqpvng72q6h5m9drg5-albatross-0.5.1]]
+- [[pz30adk6z86x5klkdiifpxnbsg1y34r2-texlive-2025-context-legacy-fmt]]
+- [[q331wl66bksvjp5qq0b3dhbcw3fx09x2-gawk-5.3.2]]
+- [[qg5vghd8655dmkhqzb4z3qg57nhm6ry6-metapost-73850]]
+- [[qjsvcbpwk4ci585cg0xrrzbamjnss1s8-thumbpdf-3.17]]
+- [[qmnmwwva09rz3cbik4h733b4qhv55kb0-pdftex-quiet-1.1.0]]
+- [[qs4l6kcny2vcs6qayn3k0ri8ciccs11i-texfindpkg-2024A]]
+- [[r5cwj924s914j38aqdib5v8l1smrj7pf-texlogfilter-1.4]]
+- [[racqn38kiibnvqhinfzf8x19naad700y-texlive-2025-mex-fmt]]
+- [[rdql3dcw256mvxwp7cvkzp4m5p8s9j6b-latexfileversion-0.3]]
+- [[rfqmg2zdbk5m5s35lksxa1m3h4naqaph-texdoctk-0.6.0]]
+- [[rhsl03j1g6q5pjh46p14d9x8f9k2sx4w-ctanbib-0.2d]]
+- [[rpikh12vmcdwcp6sm09815vzjzd68s2j-texlive-2025-env]]
+- [[rwd0hc76yhhaxnnym12klb4bv8iz3b0k-bibtex8-3.72]]
+- [[s0gpp6f3qkn2crmg84qc178kynvnjy5a-dviljk-66186]]
+- [[scyzgf74kihnrf4vj2pslc8s2vv20k50-dviout-util-66186]]
+- [[sjnp1szy441dm5fs8h914rgky5m41xgz-l3sys-query-70889]]
+- [[sklwynllirf45gdjzzdmv1q29p26h3gi-fonts.conf]]
+- [[skzrqxr6v9lwd0myfc59n5b9d619dhm7-texlive-2025-tex-fmt]]
+- [[smnyyzqjwp76wc14pc1x2fgikjvj33b4-tlshell-75412]]
+- [[srck0bl6pc9gkdpc97kmf4m5d9wqk547-texlive-2025-xelatex-dev-fmt]]
+- [[syzpa2yr1qa3n89plwn3rikqg7y53j3x-texlive-2025-luatex-fmt]]
+- [[v5yqs02iqz3vg1racj508k66yhjnzr5p-texlive-2025-env-texmfdist]]
+- [[vl5rn9y12qg866l28f8gfwjqwy5xa9ny-texlive-2025-luahbtex-fmt]]
+- [[w68p39dhfbp163zgd8i7q896dbjr5i55-optexcount-1.1]]
+- [[w99471i7ki61zk9dnq0vfi09jhdal6kc-latexindent-3.24.5]]
+- [[wfgm4pdi8assz7ss94d9sinvc81c1dql-texware-73848]]
+- [[whmvyjphw10d78zfrb04kqjlc0dy68z3-gnused-4.9]]
+- [[wjvb6vfw817gkia79pw1y88llhml886l-fontools-73362]]
+- [[wmiavrcl3rkwh0rwniggm3gs1r6x1vfl-context-legacy-75496]]
+- [[wykwmxkfjqa4xi2v7lxip1iz6pi017i4-kpathsea-75425]]
+- [[x3w6z2vk55zza5vsjmx8xr867bg0j7fx-texblend-0.1]]
+- [[xi942466fx5x39cw3bwp1bmsg9966xfk-eolang-0.18.3]]
+- [[xm519b722di61rc2x1jn4315rccvlwrl-ctanupload-1.2c]]
+- [[xww5q7g0drn3n1hrnv1arqirh64gl5zh-web-4.5]]
+- [[y721rr7p83y5h2fbg571h43h0a1c3aaj-ctie-1.1]]
+- [[y79987q5d5m7v0i23cs9znj6mly0apsm-context-2025-06-12_1421_B]]
+- [[ycxip08vac9ixxbwm34f4275hvzr18vj-texdiff-0.4]]
+- [[yh3sl9rzjvwdac1sh11brkjzccx8pnyg-ltxfileinfo-2.04]]
+- [[yvx93xp84nk899gc9m76p3m6rjgdmnfg-tex4ht-75646]]
+- [[yxqnfbqr2yqqmy7srzgiyawxl4zfhipv-arara-7.2.0]]
+- [[z1mfh6i9ilcp12g5qwr8hl1067y3wxq0-bibtex-0.99d]]
+- [[z9cxl1njjyq370mv68z01yg6iggpiibn-dvipdfmx-74096]]
+- [[zlvs4wb7wf0znwkp98nz4n8rf2bqasj5-pdfxup-2.12]]
+- [[zmjx3zg5lwv6alvdi9wmjknlv54f9wf9-texdoc-4.1.1-tlpdb-75669]]
+- [[zni1g94jpiwzxd56r2ak4lz1624d102y-texplate-1.0.6]]
+
+## 📁 Input Sources
+
+- `/nix/store/g5y46qxvzx7iybgqfndf4mg50mcf4a91-build-tex-env.sh`
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:08:48 UTC*

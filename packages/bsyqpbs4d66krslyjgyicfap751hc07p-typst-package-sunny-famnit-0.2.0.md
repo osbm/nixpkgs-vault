@@ -1,0 +1,49 @@
+---
+aliases:
+  - typstPackages.sunny-famnit
+tags:
+  - license/unknown
+  - maintainers/cherrypiejam
+  - outputs/out
+---
+
+# typstPackages.sunny-famnit
+
+## 📝 Description
+
+Thesis template for University of Primorska, FAMNIT
+
+## 📋 Package Information
+
+- **Name**: `typstPackages.sunny-famnit`
+- **Version**: `0.2.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Thesis template for University of Primorska, FAMNIT
+- **Homepage**: [https://github.com/Tiggax/famnit_typst_template](https://github.com/Tiggax/famnit_typst_template)
+- **License**: `unknown`
+## 👥 Maintainers
+
+- @cherrypiejam
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/bsyqpbs4d66krslyjgyicfap751hc07p-typst-package-sunny-famnit-0.2.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/by-name/ty/typst/typst-packages.nix:39`
+- **Outputs**:
+  - `out`:  `/nix/store/bsyqpbs4d66krslyjgyicfap751hc07p-typst-package-sunny-famnit-0.2.0`
+
+## 🔗 Dependencies
+
+- [[6dg1vi55ynf4dmkmmcn945pwdz010s34-stdenv-linux]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[icjkwvg6d9ipsycp01yx14lqvlv0nz5q-source]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:10:28 UTC*

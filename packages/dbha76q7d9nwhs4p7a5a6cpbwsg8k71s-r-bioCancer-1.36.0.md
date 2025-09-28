@@ -1,0 +1,69 @@
+---
+aliases:
+  - rPackages.bioCancer
+tags:
+  - license/unknown
+  - outputs/out
+---
+
+# rPackages.bioCancer
+
+## 📋 Package Information
+
+- **Name**: `rPackages.bioCancer`
+- **Version**: `1.36.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Homepage**: [https://bioconductor.org/packages/3.21/bioc/html/bioCancer.html](https://bioconductor.org/packages/3.21/bioc/html/bioCancer.html)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/dbha76q7d9nwhs4p7a5a6cpbwsg8k71s-r-bioCancer-1.36.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/r-modules/generic-builder.nix:81`
+- **Outputs**:
+  - `out`:  `/nix/store/dbha76q7d9nwhs4p7a5a6cpbwsg8k71s-r-bioCancer-1.36.0`
+
+## 🔗 Dependencies
+
+- [[1gjf3ssfjpwpp5h94a23n3kzicfypm16-r-htmlwidgets-1.6.4]]
+- [[1ilwzfs1cyxqnaq7f4zgl3vr2n0bx7jr-r-shinythemes-1.2.0]]
+- [[28k5arhwyjhjxpsy7vmgs7jigmrc48bi-r-ReactomePA-1.52.0]]
+- [[8m6r0d5wxdkqvnbdhvajfaa4s7bxqydl-r-reactome.db-1.92.0]]
+- [[ad5balb9a5x93mlbn8fdag33lxk93ybv-r-DiagrammeR-1.0.11]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[clbm9yxg7lfvraqp9v8jxy7dzgdnkyyj-r-DOSE-4.2.0]]
+- [[cxg1yr56by2jgfmhagrhijyr9v3vw7m0-r-import-1.3.2]]
+- [[d09dg11xfs2m8lmwqfxr3pcgr6nbwr4f-r-org.Bt.eg.db-3.21.0]]
+- [[da022h02vgc575linccmpz21szabbpvy-r-plyr-1.8.9]]
+- [[f0cxr25qb87n0z70z4kk40j6k4a38cy4-r-dplyr-1.1.4]]
+- [[fdjdjr5zkmwd6w1r106dd890kh58i9mb-r-XML-3.99-0.18]]
+- [[fgq0kch1mfp59gmnlam4f92qwbpbqym7-r-tibble-3.3.0]]
+- [[hm3z9zk5sy05faa8bcizbzayxrhx9ihh-r-AlgDesign-1.2.1.2]]
+- [[ihgr1nf70jcdn46qah7bpbql6rzp563j-r-R.oo-1.27.1]]
+- [[irc48669pqpvy0d4p2mgfb3s0mh935qc-r-clusterProfiler-4.16.0]]
+- [[jjrkwr73rv1hhccxab9hzw9h6dsf96xa-r-DT-0.33]]
+- [[jxjqpa1dd18h2bzc0x5l0k1hwiknpib4-r-R.methodsS3-1.8.2]]
+- [[ki2yxy672017pym915i17fl4h53yja48-r-tidyr-1.3.1]]
+- [[kqv4s89mf6sf9z0505qndczyg827g9y1-R-4.5.1]]
+- [[m0h8vm7wnxqmzy77yph902p607lx7np5-gettext-0.25.1]]
+- [[mr1m6g6kq97r4vdyad9ilfgx3nmx28vs-r-cBioPortalData-2.20.0]]
+- [[nrh9zi1iziwf63b6kksirpmk3d2zfyp2-r-radiant.data-1.6.7]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[qlk5gqzkmbjsa1g5l91k46ymxfvqbwi5-r-AnnotationDbi-1.70.0]]
+- [[s12alqyisrc055hg1133s48zz8ibzcax-r-geNetClassifier-1.48.0]]
+- [[s5l0fc44vmfmwr1j8fq5agjl1q5vj193-bioCancer_1.36.0.tar.gz]]
+- [[v58v02l74q35q60w5vzjsvmh0a266g95-r-shiny-1.11.1]]
+- [[vmd35ccwg2ry38n7gzaddzjfwzrxyj6l-r-org.Hs.eg.db-3.21.0]]
+- [[x6j96x6ansbaxmqlg2f9ma8dq4k2dcky-r-Biobase-2.68.0]]
+- [[ygy3nbypp7vj0bnkj5axapnx41b1yd89-r-GO.db-3.21.0]]
+- [[zgy62h1m6x8zh9yn7azklwxsl20h9hsb-r-visNetwork-2.1.2]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:03:19 UTC*

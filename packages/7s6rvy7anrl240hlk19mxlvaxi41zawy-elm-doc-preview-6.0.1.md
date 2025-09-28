@@ -1,0 +1,215 @@
+---
+aliases:
+  - elmPackages.elm-doc-preview
+tags:
+  - license/unknown
+  - outputs/out
+---
+
+# elmPackages.elm-doc-preview
+
+## 📝 Description
+
+Elm offline documentation previewer with hot reloading.
+
+## 📋 Package Information
+
+- **Name**: `elmPackages.elm-doc-preview`
+- **Version**: `6.0.1`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Elm offline documentation previewer with hot reloading.
+- **Homepage**: [https://github.com/dmy/elm-doc-preview#readme](https://github.com/dmy/elm-doc-preview#readme)
+- **License**: `unknown`
+- **Platforms**: `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/7s6rvy7anrl240hlk19mxlvaxi41zawy-elm-doc-preview-6.0.1.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/compilers/elm/packages/node/node-packages.nix:14510`
+- **Outputs**:
+  - `out`:  `/nix/store/7s6rvy7anrl240hlk19mxlvaxi41zawy-elm-doc-preview-6.0.1`
+
+## 🔗 Dependencies
+
+- [[00f7d13c5fas160i7mryinq1drsljr8z-picomatch-2.3.1.tgz]]
+- [[02q727l6in0b37imk5wzfyl9gk0a80v2-braces-3.0.3.tgz]]
+- [[065w9p027lvp6q1c88ba3mdfbhi7x6mb-math-intrinsics-1.1.0.tgz]]
+- [[0apvlx8qbsckjhz7llfvhwbdfdqg55dn-strip-json-comments-2.0.1.tgz]]
+- [[0hppmbl0fmxzkvrmsm47j5lbf3448z0c-glob-11.0.2.tgz]]
+- [[0qd57j9icpah4166j84gdcyg18y869jq-string-width-5.1.2.tgz]]
+- [[0skx9qpavglpslnhbzyl31pyxxvrk531-setprototypeof-1.2.0.tgz]]
+- [[15c8zvz3anb1324gz1jz57h3f7r8qnsm-chalk-5.4.1.tgz]]
+- [[19b39rd97154ayn3rskpjlgl9a4968mg-ansi-styles-4.3.0.tgz]]
+- [[22q267yw66rrcn78nqs2qf9syiaa2mzm-elm-doc-preview-6.0.1.tgz]]
+- [[237hznkmvnm4k6xcaknsiv1pv7mj8fi3-latest-version-9.0.0.tgz]]
+- [[257k0vnqp1xjgyrpc5as1r0nl7s4yv71-python3-3.13.7]]
+- [[2a2fwxd4fjs14v41v5kr480r7rcn1kml-package-json-10.0.1.tgz]]
+- [[2c6pvyhmm2bl4qkwq7ppq35p2yr236v7-encodeurl-1.0.2.tgz]]
+- [[2h2kl8qm9b00gkscy5rkyac5w67f9489-string-width-4.2.3.tgz]]
+- [[2mqg4y2qz8kyk9xy96z1b80h3km40nch-nodejs-22.19.0]]
+- [[2p7krlccdiadr26qqj41v0glwiq4v6fp-ws-7.5.10.tgz]]
+- [[3d7cl29rf8qm5hv96g4pn9111fb0x9sn-serve-index-1.9.1.tgz]]
+- [[3dag3wc55q2nsxpccysdq0jwqkvminc0-ansi-regex-5.0.1.tgz]]
+- [[3dl59fdzbnrw4sgdnv4i53kh6xqx6grl-has-symbols-1.1.0.tgz]]
+- [[3gqzvw1gh8qwg6ffjcxrjlxjfra10vzz-on-finished-2.4.1.tgz]]
+- [[3nj99qsb9998c2pgp3vsmma7wv3v17ah-pinpointDependencies.js]]
+- [[3vy102ylkkaxaiqiqb4cj26rpshvpq28-ipaddr.js-1.9.1.tgz]]
+- [[3vzs5v1qdk5q12wj7svcayndihskja8f-unpipe-1.0.0.tgz]]
+- [[43mwamb1s5svjzklyi3b3wqvqsh4ri03-parseurl-1.3.3.tgz]]
+- [[4iqx3jx64n0arpcli6ywq6m7rqhmpzma-bundle-name-4.1.0.tgz]]
+- [[4rp9cgaz2d0f5ccl7lzjy23xx5rlhb16-deep-extend-0.6.0.tgz]]
+- [[4xa2g17hrz0r5z4f2r14ll7y71f6j096-is-extglob-2.1.1.tgz]]
+- [[5dg35m3vxzxlrjr8vhhak58s5523gkmb-fill-range-7.1.1.tgz]]
+- [[5fw4sgq31yh050pgxfq25wy6d1g8vfyb-mime-1.6.0.tgz]]
+- [[5jq904891iphfjbiwqqr7qcj2152l670-readdirp-3.6.0.tgz]]
+- [[5n4f56sb9sbhlq10slkin3w8l7477g6n-cookie-signature-1.0.6.tgz]]
+- [[5qv0gzwpgbw80a9f78f0bja2xc9hcfpx-serve-static-1.16.2.tgz]]
+- [[68bgan3hc65570c2hlak81kx73ch32qf-es-object-atoms-1.1.1.tgz]]
+- [[6cz5d07c63r96mppn6ny70zqfg1af35k-mime-db-1.52.0.tgz]]
+- [[6l7548wwskfb7aszf9ndpbxa2r9qn964-side-channel-weakmap-1.0.2.tgz]]
+- [[7bcp7w582fsn4ag7yynbanpm5s6hsviw-tarWrapper]]
+- [[7v3k59xg2wfwmmnd50dfl3iaaws4lhbr-node-gyp-build-4.8.4]]
+- [[86lry3hxlanm8jh5npbpqii1px50wsvs-minimatch-10.0.2.tgz]]
+- [[87vnkycpf14knb6dwh13s4j9c17pilyn-semver-7.7.2.tgz]]
+- [[8hfb704xy4hpwfg8hbhhyjy9yl2kvanw-negotiator-0.6.3.tgz]]
+- [[8l4h2s7532r616h24adyjag9q8yc50kz-inherits-2.0.4.tgz]]
+- [[8x1k6bxzyyicqki0bwr2j3xik660ga0x-strip-ansi-6.0.1.tgz]]
+- [[8z21hazv7z7bls6ripp0g8bhqmv7c4cw-package-json-from-dist-1.0.1.tgz]]
+- [[923lrl5qg7kax3xa2wcg6rksrys70gn4-glob-parent-5.1.2.tgz]]
+- [[9kjpbdpzfmfhr07awxvl6x85bf9r24q8-lru-cache-11.1.0.tgz]]
+- [[9s7y08qcql13lpn9hnfjvxmhq49jnqk1-path-key-3.1.1.tgz]]
+- [[9zplmbz9cm7hla4ccmym7i773bi8yrrb-side-channel-list-1.0.0.tgz]]
+- [[9zshxf6kk537mzc627ynbj5lgp1qff15-util-linux-2.41.1]]
+- [[a39nz323fxygq9r01in4vh3a7p6nknh1-safe-buffer-5.2.1.tgz]]
+- [[acd3j21w4cm0kdcv3ymq3lfrxaj10vrv-depd-2.0.0.tgz]]
+- [[asdwqdcivzmdj5gkmq2p6ilfkwz99zjg-node-gyp-build-4.8.4.tgz]]
+- [[bdi7vqbpvhgnwyngvlydfdmqcnq8r0g8-config.env-replace-1.1.0.tgz]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[bliy12r4j0f8jf8lrw45041lfvwfhpa4-node-sources]]
+- [[bsnvsvvaja8q91c3abi5xvk8zzgr9sdp-is-inside-container-1.0.0.tgz]]
+- [[bx9z9ck6m3ys04vslpgnxd3wvf90smay-tmp-0.2.3.tgz]]
+- [[byl0yfxvyvdn9r7k5xv3a24fvizzd6br-get-proto-1.0.1.tgz]]
+- [[c0kjk9g3q47x4xc243xmbf6piwzs15rl-range-parser-1.2.1.tgz]]
+- [[c1vs1di7rka4233bki4dvcm7h81nlq4n-batch-0.6.1.tgz]]
+- [[c410212g3lvlrcd03xmn7j3gwnhq903f-gopd-1.2.0.tgz]]
+- [[c5yks1iag9sziyfdcdhlv2hs81hbhj6q-ini-1.3.8.tgz]]
+- [[cdsmawgipjpgjxnn7hqaz6y01p71l36x-ee-first-1.1.1.tgz]]
+- [[cqzn94pwcsa9hal8gywwl5y5jlad0j3y-binary-extensions-2.3.0.tgz]]
+- [[cs23hk02wd77csjjiv1n84s17v1fddbg-is-fullwidth-code-point-3.0.0.tgz]]
+- [[d35rhzmw7344jbiwgd978i3vfx03rl00-wrap-ansi-7.0.0.tgz]]
+- [[ds0wg9az0p807006i34pdzhijawkn1ki-brace-expansion-4.0.1.tgz]]
+- [[f0y0w45jx9a6a73dx9599ig3m4angh6m-methods-1.1.2.tgz]]
+- [[f5792zx8zbbs5saa11dzwp5arj8vvrc2-iconv-lite-0.4.24.tgz]]
+- [[fd3kzjpb0zqpi9gkg9acf751cajj79as-statuses-1.5.0.tgz]]
+- [[ffykb0sp6hppslj9hq4sz3sp27mq57y8-fresh-0.5.2.tgz]]
+- [[fwgqb1m41rkgycklb02r52ndylfg1gi7-network.ca-file-1.0.2.tgz]]
+- [[g7k9nq3mj8r4racmdinspfp89qa5b88h-minipass-7.1.2.tgz]]
+- [[gdivn44f72gbiawm46fi83jv8z5mrk94-emoji-regex-9.2.2.tgz]]
+- [[gfkis4bgv9idkkp2rx2amx0jyfz3xpp5-commander-12.1.0.tgz]]
+- [[gi72cb1hbyb0n5q58b26m124k28a37r1-anymatch-3.1.3.tgz]]
+- [[gjpga86bi6bfxlvgbw01068i96xq3cdp-ansi-styles-6.2.1.tgz]]
+- [[gld0jk5zjcnh18xdbrly7a4fppkp88z7-cliui-8.0.2.tgz]]
+- [[gmpw3khfd1j9brncfim91gr2b40i6gwk-is-docker-3.0.0.tgz]]
+- [[gpigxc2arz61a9g166nbk8p2lwb4szgs-registry-auth-token-5.1.0.tgz]]
+- [[h82wm7f5624mh6c76yk6phxic3b0pwzs-jackspeak-4.1.1.tgz]]
+- [[hhdc6qdgyqz0109b1n6x9jxxpr7mfw7g-minimist-1.2.8.tgz]]
+- [[hkxjj1hah50a3wjl8lxcmm07czwh5yss-registry-url-6.0.1.tgz]]
+- [[hqshqp25y5ia9as7lk5afpcimajb4s4k-accepts-1.3.8.tgz]]
+- [[hv0frd067s6xjk2ba3z7krf961jc3y4l-ws-8.18.2.tgz]]
+- [[hwybkn5ysa92yyk2j7vhimf1c64rxa9p-shebang-regex-3.0.0.tgz]]
+- [[i7sjj5c4179x8rab5bj7mw89w0jnza77-path-to-regexp-0.1.12.tgz]]
+- [[i8f8kqwy7p3kv23pb62476ycglii4gvs-utils-merge-1.0.1.tgz]]
+- [[i98rbiwk7fw0f0b4z3w5c5i3wxgl1fni-bytes-3.1.2.tgz]]
+- [[icmbm4b0078qxdxaccrb2vvfndc8v6m2-es-define-property-1.0.1.tgz]]
+- [[icphbsrxm9p1ikb3gdrzw2kl8j17v5l7-dunder-proto-1.0.1.tgz]]
+- [[imbq74bj7wpll46ahx9i1gzfbsjcllbc-is-binary-path-2.1.0.tgz]]
+- [[iphgz9yy88f9rskbn5mzb0m5chmcbqar-eastasianwidth-0.2.0.tgz]]
+- [[ix2nyiqpl67674nr4ahar85fpqcm9d2h-balanced-match-3.0.1.tgz]]
+- [[j1v1k78n07plskkarn8d6qzlh0dmc7gl-linkbins.js]]
+- [[jvazyyq49kmbhyrndkfxblhwldhqa3vl-is-number-7.0.0.tgz]]
+- [[jxqnpzlqscyrj5jaykfs0bk30b49gfb3-get-intrinsic-1.3.0.tgz]]
+- [[k6zqsn44wn1jyyl438rpqs7gvvqbizhm-debug-2.6.9.tgz]]
+- [[kacyawwv8kbvb3695jh67myr6sn9rmbb-wrap-ansi-8.1.0.tgz]]
+- [[kd31l13s8z4k1ds2ccklp44mb9ayad80-is-glob-4.0.3.tgz]]
+- [[kji7vip0722cffhw3h2pc0vk0cx1g6w0-mime-types-2.1.35.tgz]]
+- [[kprqpkyrp9gw4cddp2sglj1mw0ka9hk9-finalhandler-1.3.1.tgz]]
+- [[kyp0d5va6znls6c5lzfhq20hqckadxy4-function-bind-1.1.2.tgz]]
+- [[l0wc94l37vf32xz1mdcgmg3lw56q27sg-setprototypeof-1.1.0.tgz]]
+- [[lafflanq7z186dz7c6xx9m6dp84ihbcr-cookie-0.7.1.tgz]]
+- [[ln2hqjgzy6bn6963acw1pcq5n3fw3vlz-default-browser-id-5.0.0.tgz]]
+- [[ls6fdns45n1fwnms6ksn6pq67gh2cwb1-es-errors-1.3.0.tgz]]
+- [[lv4p7n5g6wa2jmz81icf5pchmzx8vsfm-type-is-1.6.18.tgz]]
+- [[lx31f1ji3m2jwm9kbbw89qdjajnfm89n-utf-8-validate-5.0.10.tgz]]
+- [[lzlcnpph39jn4bh25bamfb0nk5yiddmd-content-disposition-0.5.4.tgz]]
+- [[mfb18dzx8g2fvyl7gvmwbxiwfw1sk1hx-statuses-2.0.1.tgz]]
+- [[mjqwhpf559v5r4y4h0r0pd2wg4xaj9yg-destroy-1.2.0.tgz]]
+- [[mvs4fg1l1l425jlv6ksxy7hjba780r1q-vary-1.1.2.tgz]]
+- [[n203rix5szfzp0q16x3y9ri72wffwvwr-isexe-2.0.0.tgz]]
+- [[n7cfx2m2jxlwwcwji7ywcvrdx7kcwbn4-escape-html-1.0.3.tgz]]
+- [[ng9n1wznm25rskvmjj8rl0bhqjwkiqc1-raw-body-2.5.2.tgz]]
+- [[ngxdf8qicva7ay3i75zxh7lvn6r5kn79-which-2.0.2.tgz]]
+- [[ni45mkg45arll9p7qy9dk1wq7qq0ag67-object-inspect-1.13.4.tgz]]
+- [[nm4kwfdc8dsq0v1marz9a4bycc41mx9b-normalize-path-3.0.0.tgz]]
+- [[nn40acyfz9drjv1kl65fsnra7ca1am5y-emoji-regex-8.0.0.tgz]]
+- [[nnyvhdq5ab0vq9flhnb9qqgmq4m0jb17-express-4.21.2.tgz]]
+- [[p3sxk0qf561p98a89vzhrb0i4zb8bj3m-side-channel-1.1.0.tgz]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[pcmka6376cch094xk42dcp6p72p40msv-safer-buffer-2.1.2.tgz]]
+- [[pf72m5sg34fc1il8jlxs60vjd9bvivfj-http-errors-1.6.3.tgz]]
+- [[ph7axids763rpk4lk4n1f3iahrj59fbl-content-type-1.0.5.tgz]]
+- [[pjrkmiw2chgdy9ppajx8cswr85glsm1a-color-convert-2.0.1.tgz]]
+- [[q06rkxgy2sdbdxslzmml8jqcv8syrbsx-is-wsl-3.1.0.tgz]]
+- [[q0bzqr3ckjp12ykr7n2n0spm8iqks2vk-default-browser-5.2.1.tgz]]
+- [[q1xy820g0zpkm2kz8ydhs6jrg78f7ay2-inherits-2.0.3.tgz]]
+- [[qamys0klm083741k8fsdflv3llrfz0li-proxy-addr-2.0.7.tgz]]
+- [[qf9h2g820kqkz1i4mfz4miq42cprdjy4-chokidar-3.6.0.tgz]]
+- [[qs516r7k80hkwzrziqk4hrw1famy3s8y-ms-2.0.0.tgz]]
+- [[r4sa2lwjr76b27mqhhc9d5spqfwil8qp-color-name-1.1.4.tgz]]
+- [[r4sdbwqyk6c2h0cqhrgypbgazm04aijq-media-typer-0.3.0.tgz]]
+- [[r85kqxaw1wlsl2v77wq9z0y2rlx0yv8n-ansi-regex-6.1.0.tgz]]
+- [[rc9cmcws8fba7dxvq11axj06ddliwm3h-run-applescript-7.0.0.tgz]]
+- [[rifdxxw6rs29xaaw3wm8p97zqg57zcyw-depd-1.1.2.tgz]]
+- [[rnz3b4dxxm13r268ng5qjxaa52vd8fvg-rc-1.2.8.tgz]]
+- [[s59dc6kc6f07af9d9lb6kf1i7mkl2bp8-to-regex-range-5.0.1.tgz]]
+- [[sihs642a0k3ilp98jypn8czw4vy73yn3-call-bind-apply-helpers-1.0.2.tgz]]
+- [[slfyddmq4lb7mjf6ysd7c9vi5s5sj8ar-body-parser-1.20.3.tgz]]
+- [[snwkwlqfbg7218v8hmgpd4pgbmnmwskd-signal-exit-4.1.0.tgz]]
+- [[spyin78zvpr949b52cp8ha53s0dvp42l-shebang-command-2.0.0.tgz]]
+- [[szv38kdhaf16ik5hhzr1y50dzas7sr54-toidentifier-1.0.1.tgz]]
+- [[v3ds1mdphxvy65b01yg7wsdwqrpbds85-graceful-fs-4.2.10.tgz]]
+- [[vhm59nyiq7yya8bn8nv7bra9afbjj9yr-qs-6.13.0.tgz]]
+- [[w8j23jaran6clla9z0r64g83a6cgx120-reconstructpackagelock.js]]
+- [[wb9mcf5fs1j4cjms56ci512wwmhv16rw-http-errors-2.0.0.tgz]]
+- [[wgqdhl9m84wsc6dzmi6521bv6qw26ldl-bufferutil-4.0.9.tgz]]
+- [[wimlbhinzcrg1pxpjlq3a291ww4b1mq1-merge-descriptors-1.0.3.tgz]]
+- [[wkdl80ihw0v0hwvwj72vbr61p7cvsm1g-ky-1.8.1.tgz]]
+- [[wxg78d5syhxqcaklrvzb8sk724xy6m32-config-chain-1.1.13.tgz]]
+- [[x2lmb5cd0f4523s04dasbzzyqxxwwdv6-etag-1.8.1.tgz]]
+- [[x3npayzszhh1inj2109wjkbrlq0l2vfd-forwarded-0.2.0.tgz]]
+- [[x4fq1lx69ybs62p00vsg7qsnw2sa4dss-proto-list-1.2.4.tgz]]
+- [[x7yy5vsrimq9w1kpqgj4pj79rjy0s5vk-encodeurl-2.0.0.tgz]]
+- [[xxjl2zn2skr0lir32s6rnpla38ighd00-array-flatten-1.1.1.tgz]]
+- [[y599rzy1mpv6xfvpnz445zj02nz81h1p-open-10.1.2.tgz]]
+- [[y7ia9dvnvy0ziid8hlaxiwvgnipj8rp9-foreground-child-3.3.1.tgz]]
+- [[y7mazp4dfmm3h9qzpfb171k7h11l4bwv-side-channel-map-1.0.1.tgz]]
+- [[ya1qj7gzawzq6jghx0pyyhynm0jz97na-strip-ansi-7.1.0.tgz]]
+- [[yi8alg06ri7cdwnyi1vhyk3nyzjmmrib-send-0.19.0.tgz]]
+- [[ys42jsqr22955lvpgdhfz41b3d63pmyf-path-scurry-2.0.0.tgz]]
+- [[ysxgqq67f9xrn14sfil6ky3z140w1w7j-cross-spawn-7.0.6.tgz]]
+- [[yx5jbxdykl2dpgr34r9j1ncdkc1nwknv-install-package]]
+- [[yz2pcxf8i2ilha9dqarjd196lmfizgfd-call-bound-1.0.4.tgz]]
+- [[z439znj48gr8khj34y7ll3b344l0bln2-define-lazy-prop-3.0.0.tgz]]
+- [[z8jryrf0asnhgp0q8rsksyd1nyzrfjxc-addintegrityfields.js]]
+- [[z8xx7cmdiscmkhiczr4a89qkwl5zp1qm-npm-conf-2.3.1.tgz]]
+- [[zfs6csqlicl2dr3bfp2ps221118al4k9-ms-2.1.3.tgz]]
+- [[zr1wdjpz6q1wfpsacy5d7cl0kq4dg0v8-express-ws-5.0.2.tgz]]
+- [[zyk10yxy4x8aj8sc6vinn13dflckw0fv-hasown-2.0.2.tgz]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:00:27 UTC*

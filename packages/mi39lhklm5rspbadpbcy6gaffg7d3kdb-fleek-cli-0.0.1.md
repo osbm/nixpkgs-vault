@@ -1,0 +1,217 @@
+---
+aliases:
+  - nodePackages_latest.fleek-cli
+tags:
+  - license/unknown
+  - outputs/out
+---
+
+# nodePackages_latest.fleek-cli
+
+## 📝 Description
+
+Fleek command line utilities
+
+## 📋 Package Information
+
+- **Name**: `nodePackages_latest.fleek-cli`
+- **Version**: `0.0.1`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Fleek command line utilities
+- **Homepage**: [https://github.com/fleekhq/fleek-cli#readme](https://github.com/fleekhq/fleek-cli#readme)
+- **License**: `unknown`
+- **Platforms**: `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/mi39lhklm5rspbadpbcy6gaffg7d3kdb-fleek-cli-0.0.1.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/node-packages/node-packages.nix:52860`
+- **Outputs**:
+  - `out`:  `/nix/store/mi39lhklm5rspbadpbcy6gaffg7d3kdb-fleek-cli-0.0.1`
+
+## 🔗 Dependencies
+
+- [[02m1y6yzhhmrpvccsccpr8c6993zadbc-ecc-jsbn-0.1.2.tgz]]
+- [[0aiwdcga0xm7dpqyq1hhdjyn795vlpv5-mute-stream-0.0.8.tgz]]
+- [[0jn4z7x6z90xpfjjjk9b692fqg3h5blq-delayed-stream-1.0.0.tgz]]
+- [[0q6sd2c6y2i6ys8125imx4m4w7ikhp3w-y18n-4.0.3.tgz]]
+- [[1084y4h41nhgdclamkzyrzsp1ly26xdk-p-limit-2.3.0.tgz]]
+- [[19b39rd97154ayn3rskpjlgl9a4968mg-ansi-styles-4.3.0.tgz]]
+- [[1sbpgxi1bmzqzwvbcf9h6z4pyp0cd1lg-restore-cursor-3.1.0.tgz]]
+- [[208a0zhvcknp4pgk210bg9cag176bs0d-decamelize-1.2.0.tgz]]
+- [[257k0vnqp1xjgyrpc5as1r0nl7s4yv71-python3-3.13.7]]
+- [[283n9dz2kxl9xdjrkmc68j7x33mgyr0l-underscore-1.4.4.tgz]]
+- [[2h2kl8qm9b00gkscy5rkyac5w67f9489-string-width-4.2.3.tgz]]
+- [[2kayl28schmbg4x3xqinf9w0i9zzrmdp-tslib-1.14.1.tgz]]
+- [[2q13jmyd22rkvb8n3x7ax1bs664c6943-jsbn-0.1.1.tgz]]
+- [[2rjkkb70dfwakyxbaa432j5kfjpdpg0w-require-directory-2.1.1.tgz]]
+- [[37a69sxlp04hii31wfqj2804v15i7p00-colors-1.4.0.tgz]]
+- [[37brycjmazc69dafa5cvp9bng6kfwkxa-qs-6.5.3.tgz]]
+- [[3cqrd15z22zqqlvy8bmr06rh4mwdbfxs-atob-2.1.4.tgz]]
+- [[3dag3wc55q2nsxpccysdq0jwqkvminc0-ansi-regex-5.0.1.tgz]]
+- [[3jnf0vkf7vcigp7ffn61s3p36hn7zjif-lie-3.1.1.tgz]]
+- [[3nj99qsb9998c2pgp3vsmma7wv3v17ah-pinpointDependencies.js]]
+- [[3qzg013s3y11a3gpnvzm2i89xxasy1m6-ajv-6.12.6.tgz]]
+- [[4dpzhnx9fjcjpiljifmhka6aknmdbxzd-nedb-1.8.0.tgz]]
+- [[4gagkxr7virsqbx16lnz0vksqvhx49kz-base-1.1.9.tgz]]
+- [[4l874naw8lghlnysidz3axx1gi84vcsi-request-promise-4.2.6.tgz]]
+- [[4ql66szlm0y3a1nzlxbac89qhf2l7hcd-os-tmpdir-1.0.2.tgz]]
+- [[4qr3q771lwid2kkvp5zp79rcif4na058-immediate-3.0.6.tgz]]
+- [[4yavazs4cwyh8r0ipnr25qgacf2s9fw4-js-yaml-3.14.1.tgz]]
+- [[58798frqfc1wn876xp1s51q8h4chb84s-untildify-4.0.0.tgz]]
+- [[5j97hlhw2swz4qwk2hhpsb6fd81232ba-webidl-conversions-3.0.1.tgz]]
+- [[5vwf73149zc47a1w5xyhi30kn8pp8cxi-p-locate-4.1.0.tgz]]
+- [[61z9w82m703vv0nvpg2vklhcxjp480q2-localforage-1.10.0.tgz]]
+- [[6c8vw6414y49mnwjmyvaynhbrdxdn6zw-uuid-3.4.0.tgz]]
+- [[6cz5d07c63r96mppn6ny70zqfg1af35k-mime-db-1.52.0.tgz]]
+- [[6iarg74g6gv1hbcgdzf9hl9xzr7188my-run-async-2.4.1.tgz]]
+- [[6k7kipaq7624prgx65nmcb0rcad6y7p8-cli-cursor-3.1.0.tgz]]
+- [[6lf3khhyn3ccgbr0ka6lahg2l9z9kqd2-assert-plus-1.0.0.tgz]]
+- [[6m5xz5x9fc5l5yv5sg6x4h7av6iaha4d-is-typedarray-1.0.0.tgz]]
+- [[6vdjypckqqilr0zil2ijvnd21sfy88h2-fast-json-stable-stringify-2.1.0.tgz]]
+- [[6xi0hsq0g7zlz40vpjw29pcwkmpbfsmv-iconv-lite-0.6.3.tgz]]
+- [[6zvxhsrfm5hzp7pcy0iwq1fj3vdjqp8s-util-8.1.0.tgz]]
+- [[7bcp7w582fsn4ag7yynbanpm5s6hsviw-tarWrapper]]
+- [[7lqmjza7xl0c98ncbhdscal48gjwx8n8-bn.js-4.11.6.tgz]]
+- [[82ggbspzls31ifz1i2bjfkcm717xw9gz-verror-1.10.0.tgz]]
+- [[84gnwvk5wnflsvr0x1aprka4iqlx70l1-tunnel-agent-0.6.0.tgz]]
+- [[8d44xf17wfnspdkdx1p7fr12727mw9f5-jsprim-1.4.2.tgz]]
+- [[8n78zqqq8n6bfh5yphw6fzwlwh6a649n-json-schema-traverse-0.4.1.tgz]]
+- [[8x1k6bxzyyicqki0bwr2j3xik660ga0x-strip-ansi-6.0.1.tgz]]
+- [[917wrf4i9rnwjsj5ivynnii1r99819r7-path-exists-4.0.0.tgz]]
+- [[9iwxrn5434m51s1pd8g25vcnax725lbh-json-stringify-safe-5.0.1.tgz]]
+- [[9j9dn3swsf1wmqms1ra2b0278gmrfa9f-combined-stream-1.0.8.tgz]]
+- [[9ssyh5ls1nci8wzfv98wg2lkgzbv7wb5-tough-cookie-2.5.0.tgz]]
+- [[9vyjp541b4q5nsvnwpqxxymvq346bds1-jsonfile-6.1.0.tgz]]
+- [[9zshxf6kk537mzc627ynbj5lgp1qff15-util-linux-2.41.1]]
+- [[a39nz323fxygq9r01in4vh3a7p6nknh1-safe-buffer-5.2.1.tgz]]
+- [[a5glnsffn2kkaylz5n677z99l0ah43cx-inquirer-7.3.3.tgz]]
+- [[a6gqggxsqb68dqlym2dl2hmzj4ipxl4j-node-22.13.10.tgz]]
+- [[a99sa1dhmh0kfh6w1hsyrp659ip3fqzj-escape-string-regexp-1.0.5.tgz]]
+- [[apcbpsjvv4w4glmfvbbjpa3aib4i9sgv-core-util-is-1.0.2.tgz]]
+- [[b0m5y6gav9np4wxsyw8dkmsq5m9qhnrr-ethereum-cryptography-2.2.1.tgz]]
+- [[b4n7gkw212bimwc7bx15mhhhfqnssb71-sprintf-js-1.0.3.tgz]]
+- [[b4p9gad2fvs0657jl01am5pddp1flsdg-external-editor-3.1.0.tgz]]
+- [[b52srcnxz2z09ab0qr6vx5zbh8nil117-rxjs-6.6.7.tgz]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[bqx5rgiacxvxm0s7n07pib2qm04cxi88-fleek-cli-0.0.1.tgz]]
+- [[c18d85s54xqs3zbvh0x8k1mw8h2in5dk-request-2.88.2.tgz]]
+- [[c1afdr0cmk1hyw41sf4qmmi25i6cb1jp-wrap-ansi-6.2.0.tgz]]
+- [[cdwpk37rjl0j3m4g7drs068h1kkcb8lw-isstream-0.1.2.tgz]]
+- [[cflkyinrcilydipxv6shs44h7va2wymp-forever-agent-0.6.1.tgz]]
+- [[cjdbagmvzx50j14a96s5nvwnb6l68kz5-is-docker-2.2.1.tgz]]
+- [[cqj3ibc2ipq7c262y9l39srfsfvwgy73-dotenv-8.6.0.tgz]]
+- [[cs23hk02wd77csjjiv1n84s17v1fddbg-is-fullwidth-code-point-3.0.0.tgz]]
+- [[cs6531v4db1my9rm165rvhgah0l87b5y-utf8-3.0.0.tgz]]
+- [[cv3w2wda32gpk2n3zp16b7w7dh88xqip-reflect-metadata-0.1.14.tgz]]
+- [[cyk7gnf21ydblfi2jxk2nh2d9005nm41-through-0.0.33.tgz]]
+- [[d48dl1iww83a7ninhmjcaynmvqcw8sck-caseless-0.12.0.tgz]]
+- [[dab6mf3mnj8mlc8hjhlagjp9gazy3zgp-atob-2.1.2.tgz]]
+- [[dhm1y7mpxbd47cjbqb1sfw3k13k8xvd7-aws-sign2-0.7.0.tgz]]
+- [[diq4cxcd2y822xcvi9il2w3382j12hh9-cliui-6.0.0.tgz]]
+- [[dkdnipa6jm4nba4fgaxbmqdccp0jj5np-inquirer-6.5.0.tgz]]
+- [[dz03vnmvc9a8a4kvib5bc4z9587kb22y-graceful-fs-4.2.11.tgz]]
+- [[dzgwh7i2mz7ghw14v3nx4mva3bmrxya2-yargs-15.4.1.tgz]]
+- [[f5792zx8zbbs5saa11dzwp5arj8vvrc2-iconv-lite-0.4.24.tgz]]
+- [[f66rdvabg0nyafwb7f57lrwmmxdph40r-har-validator-5.1.5.tgz]]
+- [[f90fkz2hac8m3vij2dhiv2w4nhh650zy-asynckit-0.4.0.tgz]]
+- [[fj4dm7k1qzrcqgqlrdvylk1z3d4yc7ld-stealthy-require-1.1.1.tgz]]
+- [[flj4s29impaqn8gzrc0hj9r7jcc14lix-chalk-4.1.2.tgz]]
+- [[frw2ps178hsrx1ywpijkkzk22qbfvsx9-sshpk-1.18.0.tgz]]
+- [[fy9rqgc9z6hyaqsahqkz39wlqmsg8gyz-querystring-0.2.1.tgz]]
+- [[g5z3ijs6dkqcz33sw8b15qa5i91zadh1-mimic-fn-2.1.0.tgz]]
+- [[gwabi9bpz8wd8yxbz6vks4vf1bdlvg7v-dashdash-1.14.1.tgz]]
+- [[gxf15pqdrdqswkb09pisn4iq8x0vf909-which-module-2.0.1.tgz]]
+- [[h3yqp6ch1b8px2s42z49ss1nhcgki76b-getpass-0.1.7.tgz]]
+- [[h8izmr8lfpfdy3h19v8l334xpbv2p039-extsprintf-1.3.0.tgz]]
+- [[hhdc6qdgyqz0109b1n6x9jxxpr7mfw7g-minimist-1.2.8.tgz]]
+- [[hnzi45kczkkzgz6c5xpr46cas31z3zk4-undici-types-6.20.0.tgz]]
+- [[hw0zac293rrcg4bwz713436h7xidyk27-jwt-decode-2.2.0.tgz]]
+- [[hxzdqda6a4fp02c0w2b3hd8mkxcrm3xc-asn1-0.2.6.tgz]]
+- [[i5vd7z8xvzvrd6c0v0yid97ayxkvfmg1-hashes-1.4.0.tgz]]
+- [[ix29smyas9dsda607ml5477jv8xiig72-node-fetch-2.7.0.tgz]]
+- [[j1v1k78n07plskkarn8d6qzlh0dmc7gl-linkbins.js]]
+- [[jlhycw3db82hcn9hah9mj4ly6lf0yksy-locate-path-5.0.0.tgz]]
+- [[jp9iml243jz01kyqaafsqnd0ny5cd0i7-get-caller-file-2.0.5.tgz]]
+- [[jy8hiyq110llydipq9p46i88fcrb2i0x-tmp-0.0.33.tgz]]
+- [[kgjnif4iamqggzy0h560k1wwnp2kk33w-bip32-1.4.0.tgz]]
+- [[kji7vip0722cffhw3h2pc0vk0cx1g6w0-mime-types-2.1.35.tgz]]
+- [[kjp8p2kla0x8h5bfqfna8dyq8gf7wzs4-encoding-0.1.13.tgz]]
+- [[lal6jwjzmv81ccaysfw4wjs7qs35r10z-ethjs-unit-0.1.6.tgz]]
+- [[lqvadr1davggsg3879i9b1fxl0cv82ha-argparse-1.0.10.tgz]]
+- [[lyny8h05lkg2d72x7rywwfq3cgqdrsa2-performance-now-2.1.0.tgz]]
+- [[lzl2dbm6cdj9pa4p1mc18df6l2mrll9a-set-blocking-2.0.0.tgz]]
+- [[m2xb7irlrd8rzf1hfqhpx1541va6pxnz-is-hex-prefixed-1.0.0.tgz]]
+- [[md39n0d66bv71gp7gw1l9g6m44b2im97-open-7.4.2.tgz]]
+- [[mgf0vm2cxcrv89svx1aqwvwiggf5l74f-require-main-filename-2.0.0.tgz]]
+- [[mh6x0p5af5yi9n1nfzprjki3hplksqyd-punycode-2.3.1.tgz]]
+- [[mln4firlcqqzayar2qivdccf6k7hr8zm-tr46-0.0.3.tgz]]
+- [[mr7ip6n9rxz23ckr39yfv74xhc758xnc-at-least-node-1.0.0.tgz]]
+- [[myja74kgxxkar5hp6r68jjwz05ccs95h-strip-hex-prefix-1.0.0.tgz]]
+- [[n27li5mn3s9kiwn4bm3jcjqb4va5pgpn-fast-deep-equal-3.1.3.tgz]]
+- [[n2yjvhqq60ffny13iv90f90wf6hanifz-randombytes-2.1.0.tgz]]
+- [[n681g9n09603q8lvwxiydkpxdjx7bq99-camelcase-5.3.1.tgz]]
+- [[nchz1wydklshzl9xk0gm0776qa83a6vd-through-2.3.8.tgz]]
+- [[nn40acyfz9drjv1kl65fsnra7ca1am5y-emoji-regex-8.0.0.tgz]]
+- [[nz00a9zp4fspavynn9x687mv806rcdf2-extend-3.0.2.tgz]]
+- [[p283snlybha65fmx3hznkqqjia4lj7hs-mkdirp-0.5.6.tgz]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[pcmka6376cch094xk42dcp6p72p40msv-safer-buffer-2.1.2.tgz]]
+- [[pjrkmiw2chgdy9ppajx8cswr85glsm1a-color-convert-2.0.1.tgz]]
+- [[pll1psz5chxbv9nkwd00z9gcyic9sm93-inversify-5.1.1.tgz]]
+- [[pm6w0kyqr4ngi4fsh6k1bvpwpz4m6i16-is-wsl-2.2.0.tgz]]
+- [[pv17hjkrynb17f9h9x4lija35jn0n1df-micro-ftch-0.3.1.tgz]]
+- [[q19hp21qv265zzpr4fn54jjr9kn5vjn2-uri-js-4.4.1.tgz]]
+- [[q866x1yfwxzifyihahf9n0a9q1pnp601-nodejs-24.8.0]]
+- [[qr4zag2a52z0cbpbwcmglfy02knvr5k1-signal-exit-3.0.7.tgz]]
+- [[r4sa2lwjr76b27mqhhc9d5spqfwil8qp-color-name-1.1.4.tgz]]
+- [[r56asj3vh25kn2hh2975vrgfykw7rn1d-rlp-4.0.1.tgz]]
+- [[rb2vq2s5hc3cnrlnhqnhg5r1c6bs3cyp-async-0.2.10.tgz]]
+- [[rc3755vhgsiyz290bwh34ccq6xsx9rgl-aws4-1.13.2.tgz]]
+- [[rnszcxhfcihxdjp1k5gkbxnhbz3abqcg-whatwg-url-5.0.0.tgz]]
+- [[s00vz3d9vb6l8zdx8b7kr8a6l3qss4m0-bluebird-3.7.2.tgz]]
+- [[s0q9g42f5wglzrjy99qh652s3d3w3zwh-cli-width-3.0.0.tgz]]
+- [[s1f9rvz9m3wba686w22cmm527rw5m777-bcrypt-pbkdf-1.0.2.tgz]]
+- [[sai9bp6dxh43m6wadgzb0z664g3wi7k4-har-schema-2.0.0.tgz]]
+- [[skbf06vv5bk0qn2qh20444pbl2796sy1-onetime-5.1.2.tgz]]
+- [[sl97fci6xvxdzrhj6qljay9dhjgzav71-figures-3.2.0.tgz]]
+- [[sm7v51drp94i2w7wps9vd3h418iv8ssa-has-flag-4.0.0.tgz]]
+- [[syv1kv4zsk1f24gjkj51rabb4r3d3spw-type-fest-0.21.3.tgz]]
+- [[v1j2y2pzl0limgfww9gbxgzqv8xmzrj8-node-sources]]
+- [[vldl6lm1qjjr1s1xv7szpwm7zlgrwq77-ethereum-bloom-filters-1.2.0.tgz]]
+- [[vwm15m577n06j4ahnlfg5vf254gwk2qf-supports-color-7.2.0.tgz]]
+- [[w4nsdgbsbsfhaicizlx1m20x74jjs799-form-data-2.3.3.tgz]]
+- [[w8j23jaran6clla9z0r64g83a6cgx120-reconstructpackagelock.js]]
+- [[wld409c0l2qy6ph6kbfdirdyzppxn5n9-oauth-sign-0.9.0.tgz]]
+- [[wrj3krw88vdqj4ivnaa32yx34a7rijbh-command-exists-1.2.9.tgz]]
+- [[wrypwf8j33hg5b7izi88cx59pc75276k-curves-1.4.2.tgz]]
+- [[wws503jz9vjgv8mj4wsnixh2j2xmcls5-fs-extra-9.1.0.tgz]]
+- [[x0wrfh0jx42x39hv88hpmhpk35h8yh2c-lodash-4.17.21.tgz]]
+- [[x1kkmyyc38c9aaklhnvg41ndkkkj8nrz-request-promise-core-1.1.4.tgz]]
+- [[x345bzlqwplawb5ch9c2hwmnq2h0ngx5-esprima-4.0.1.tgz]]
+- [[xh4qn09saaj6d6z9wq1lndn5ad1ayzly-psl-1.15.0.tgz]]
+- [[xn29x4n6bjb789z4mz7hi43s80yl7dz4-p-try-2.2.0.tgz]]
+- [[xnkynqls6a0g9n226nn31vg4c9c36v87-bip39-1.3.0.tgz]]
+- [[xpzlwzj5w0mnxrga1b1wbz4q2czmsckq-universalify-2.0.1.tgz]]
+- [[y057nihac4xpwjyzlg1cxyb3143l792r-yargs-parser-18.1.3.tgz]]
+- [[y3m9lg5ikb8kcbvidwqxawgih7020w87-ansi-escapes-4.3.2.tgz]]
+- [[ybwq2kwwkw94r2ljpl45z1w342cl6cb1-number-to-bn-1.7.0.tgz]]
+- [[yhn753vfr3ynz9cmr2ykrvamdn12sri6-json-schema-0.4.0.tgz]]
+- [[ykn4d1dfhf03ckwg270vk083y2sbggg1-binary-search-tree-0.2.5.tgz]]
+- [[ymyf7f0v1cplxxj18w3jb2p1xc7cr4l2-tweetnacl-0.14.5.tgz]]
+- [[yx5jbxdykl2dpgr34r9j1ncdkc1nwknv-install-package]]
+- [[z4j8rfn72j9qyhgk3di3xjnyjpc30dzp-find-up-4.1.0.tgz]]
+- [[z8jryrf0asnhgp0q8rsksyd1nyzrfjxc-addintegrityfields.js]]
+- [[z9r1bbpk7imvpgnp30zaxcxw686xcasn-http-signature-1.2.0.tgz]]
+- [[zmch8886s8vgab4g31vkxp8l8szn4dvn-web3-utils-1.10.4.tgz]]
+- [[zmza9cs37ny3l3577z7x4jksnbjrc02d-chardet-0.7.0.tgz]]
+- [[zssw6wgwfx23dr3wbxjy2195ljzcxzj1-bn.js-5.2.1.tgz]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:27:35 UTC*

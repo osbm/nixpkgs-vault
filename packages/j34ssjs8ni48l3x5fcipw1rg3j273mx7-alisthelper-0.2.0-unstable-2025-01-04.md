@@ -1,0 +1,222 @@
+---
+aliases:
+  - alisthelper
+tags:
+  - license/unknown
+  - outputs/debug
+  - outputs/out
+  - outputs/pubcache
+---
+
+# alisthelper
+
+## 📝 Description
+
+Designed to simplify the use of the desktop version of alist
+
+## 📋 Package Information
+
+- **Name**: `alisthelper`
+- **Version**: `0.2.0-unstable-2025-01-04`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Designed to simplify the use of the desktop version of alist
+- **Homepage**: [https://github.com/Xmarmalade/alisthelper](https://github.com/Xmarmalade/alisthelper)
+- **License**: `unknown`
+- **Platforms**: `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/j34ssjs8ni48l3x5fcipw1rg3j273mx7-alisthelper-0.2.0-unstable-2025-01-04.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/by-name/al/alisthelper/package.nix:70`
+- **Outputs**:
+  - `debug`:  `/nix/store/j34ssjs8ni48l3x5fcipw1rg3j273mx7-alisthelper-0.2.0-unstable-2025-01-04`
+  - `out`:  `/nix/store/j34ssjs8ni48l3x5fcipw1rg3j273mx7-alisthelper-0.2.0-unstable-2025-01-04`
+  - `pubcache`:  `/nix/store/j34ssjs8ni48l3x5fcipw1rg3j273mx7-alisthelper-0.2.0-unstable-2025-01-04`
+
+## 🔗 Dependencies
+
+- [[02nm6wpkssbkipdlhbyc8asnhq3rsnb6-pub-window_manager-0.4.3]]
+- [[0g8m7nhv67h9ixmga3syvxdy45irhvrp-pub-build-2.4.2]]
+- [[1385msgp37kkkmks2v2h79fb8ag118vy-pub-custom_lint_visitor-1.0.0+6.11.0]]
+- [[1lxwjsnhr5c4cwzs3bjqg9533p4jnqsc-pub-sprintf-7.0.0]]
+- [[1y6x7w9jfq5j17bck8b3cj0qzssjziiv-pub-fixnum-1.1.1]]
+- [[22067a6y3jqcmwj75pd2v2a9ccizajd0-jq-1.8.1]]
+- [[2a8hljqk9p8xcsi08fh5995r82dfags9-dart-install-hook]]
+- [[2cw49dairw1k3k72fy9aba9i9qvziy8i-pub-xml-6.5.0]]
+- [[2d1s9rpm4n46jw0k70cxj79787qg4gy3-pub-screen_retriever-0.2.0]]
+- [[2f5pyhh173spbnbmaxcbbgkv8y79nfcq-pub-freezed_annotation-2.4.4]]
+- [[2gfdgcs1ss0x3knlfaqgxmj4sfxd4ib3-pub-riverpod_analyzer_utils-0.5.8]]
+- [[2jbjfm0s7c03a7mylffys7n228vs64rz-make-shell-wrapper-hook]]
+- [[37kads0n8i36ry2asp115ymv4k4vlkiy-xdg_directories-1.1.0]]
+- [[39r1bgg0v1pym0l2h9qxl9vpicjci7nj-pub-yaml-3.1.3]]
+- [[3fyim6c9lyk04q48l98b9p8z61bqngva-pub-leak_tracker_testing-3.0.1]]
+- [[3g6axgbs4af6vfwc15ywb5h0xks4yp0n-pub-path_provider_foundation-2.4.1]]
+- [[3qyxhn0rvahw7l74zqp9nz9yagbd1ya3-pub-pubspec_parse-1.4.0]]
+- [[470awcc7i9qjfj1wa1yhp2z7gq9rvn7d-pub-source_helper-1.3.5]]
+- [[474kivdzi525za8vzpgr0ils1k0qf8r3-wrap-gapps-hook]]
+- [[4940k4258wlk4zp11nfmx90283wk23ml-pub-launch_at_startup-0.3.1]]
+- [[4961p0mj7ikz9wrw2mc6kxs7pnb6a2xm-pub-freezed-2.5.7]]
+- [[4c5slgq0dnw7xiz52fiygk7xd9fgdz5r-pub-stack_trace-1.12.0]]
+- [[4gim5141br0cbzn7d0vvi3ba5f8acsmb-pub-path_provider_windows-2.3.0]]
+- [[4isrypa7k9q3gjw1rd3mlgwai7sr8k6s-pub-meta-1.15.0]]
+- [[4qd699bx9ga5g85gwh76r1b18rswjj4k-pub-timing-1.0.2]]
+- [[4yi1mr2ab3gm8d3v4lsih7jwwzc3yqfr-pub-http_parser-4.1.1]]
+- [[4zv2y3w12nm7jsghff4agb24blblfvhp-pub-file_selector-1.0.3]]
+- [[5asix0zq1i1gmhpz0l194ljwaq9qnrym-pub-shared_preferences_web-2.4.2]]
+- [[5va3gvawwn2q6wr9pyy2swq4cbgnvvic-pub-fake_async-1.3.1]]
+- [[5vpjih39ky691ky2yg234r995qhhg97l-pub-dio-5.7.0]]
+- [[5wfbg1bnlwzn8sk691bkb88qhwzl6zwf-pub-slang_build_runner-3.32.0]]
+- [[5wjm1i8j6zf4r6323lxyjw451akcdgh6-pub-url_launcher-6.3.1]]
+- [[603jh2phjwda9aw49lkna8grkpazmmz0-pub-json_serializable-6.9.0]]
+- [[63hja2x6zz6dw9dxv5fvj0wmwksh2sbq-pub-cross_file-0.3.4+2]]
+- [[6brmxs0p8gfd2cjgczzpchjlnq53768p-pub-macros-0.1.3-main.0]]
+- [[6dz2753dgysp0gp3gk38v8i1nv26c8xv-pub-web-1.1.0]]
+- [[6iasmdh3j9l81lahz8bm9nk1q7gfpnh0-pub-hotreloader-4.2.0]]
+- [[6m5hpxn47mh7nrfp92w8hfiv2lj3khn3-pub-path_provider_linux-2.2.1]]
+- [[72vlnch31gkmav644v1yx3mc0kx1hy8x-pub-material_color_utilities-0.11.1]]
+- [[734n0qn4c604a715lyyr7af73hl976n5-pub-file_selector_android-0.5.1+12]]
+- [[76z25iqgq7jlp5gx28y3nzabh33x5hx1-pub-screen_retriever_platform_interface-0.2.0]]
+- [[78m1n0a4aaxpy5wpr3cmyzv05brmc6xf-pub-menu_base-0.1.1]]
+- [[7sxa0sn33vpf9dp8lzg48grqfgadz5d3-pub-shared_preferences_foundation-2.5.4]]
+- [[8f84javzg23prgxyr9gkksrz1jqvqnav-pub-js-0.7.1]]
+- [[8frrjj35b6zd4sfhiw6a6anygqv7l012-flutter-sdk-flutter_test]]
+- [[8g4c4zc0ninb71gwyqvbwf14q7z0wx08-pub-intl-0.19.0]]
+- [[8skmry29qj2nyvqv1wh92gixi8kjr5pl-pub-pool-1.5.1]]
+- [[8vwpk7mfrgkkhfxjvjr0dhz825jxlc79-pub-convert-3.1.2]]
+- [[8x3b8vy5qd6aqcx28yj35mw77jnwddnp-pub-shared_preferences-2.3.4]]
+- [[8zgbkc09pr6vfki9lphhbif32px7dba8-pub-platform-3.1.6]]
+- [[92snim27ayga59c2jiwdp8rij1hasby8-pub-checked_yaml-2.0.3]]
+- [[92x1sw1bpxd4q8anq0r8vz5gn5h4cras-libayatana-appindicator-0.5.92]]
+- [[97i43ng47p9258wmkj812vrnpd6mm2qb-flutter-sdk-sky_engine]]
+- [[9pq9s19h4ql1ms11gqsk4h8akagxxzd5-pub-code_builder-4.10.1]]
+- [[9wdi0shlpa4glx7p7hb4mpmxy40fs591-pub-analyzer_plugin-0.11.3]]
+- [[a0zpihvxfbn5jc4fzmbxp6phdf9f2d8z-pub-web_socket_channel-3.0.1]]
+- [[a7xn3pdkxhky9i5qsqs4rkzgbps7pnii-pub-petitparser-6.0.2]]
+- [[aabwpysyylh8rmfqx66wkxvvmcmvw6p7-pub-vm_service-14.3.0]]
+- [[abfhylk89qfa7y4yd8iz1bdlwanr59h1-pub-path_provider_platform_interface-2.1.2]]
+- [[aj64b2jw4nyzalr11sbkn8b0fnilnqja-pub-json2yaml-3.0.1]]
+- [[ayxs5sjzxg5h3z3wm06w8lqk5m3594hg-pub-leak_tracker-10.0.7]]
+- [[b1qcs9v5hs5izqz58k7nilkadf7i8hnq-pub-plugin_platform_interface-2.1.8]]
+- [[b7y727cmv52wi1cyr8r4nabkvvd5pfnv-pub-flutter_lints-5.0.0]]
+- [[bdnrx5f86jrqmvh3vvnza90y9a1h4088-pub-ci-0.1.0]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[bsl4rzq2brscb782xvwkpdsdylrnqx2i-pub-slang_flutter-3.32.0]]
+- [[cjfh60vg1kw29mfr7ah5xajkv5fp5gx2-pub-build_resolvers-2.4.3]]
+- [[cn4wy3vymav6vpw24jv1a0rsnrzbk71m-pub-path_provider_android-2.2.15]]
+- [[cpbhl72zbvq2rkva1lhgyi8z6vnik3wv-pub-custom_lint-0.7.0]]
+- [[cw7mzqi2xa3zlr2dd782j6pc6ga1pfkw-pub-url_launcher_android-6.3.14]]
+- [[dqgpglnxva68pshig0w8mzg85c1v7y4x-pub-custom_lint_builder-0.7.0]]
+- [[flch959gwyz3p5vhs9pg2w96qjfy4pn7-pub-url_launcher_ios-6.3.2]]
+- [[fnfd9nc10bw033qxmdy4dr5vcb3xw4rw-pub-boolean_selector-2.1.1]]
+- [[fq23lcwc1p6ww77gxriaa7n57wva6mag-copy-desktop-items-hook]]
+- [[g96588png00r2959874ad7420yv4yx5x-pub-rxdart-0.28.0]]
+- [[gfbd2q5if9jr8j8cjc8fjv1c7adnn7y3-pub-path-1.9.0]]
+- [[gfw0lpmfdph5ayfpvs0hb93d4hz17rm3-pub-logger-2.5.0]]
+- [[glca1gx472ps9qlivbdf7z5jdcdnsp9l-glib-2.84.4]]
+- [[gnndzd7a6sv0m3ck6d9ckwsqg7w4yxvx-pub-flutter_launcher_icons-0.14.2]]
+- [[grijclgr4sk9qq0gfifkmf40ppswv9pj-pub-_fe_analyzer_shared-76.0.0]]
+- [[gvkry0xh9ay7l1bm4p1wrc0mkn82hvnq-pub-state_notifier-1.0.0]]
+- [[gxif74jdnggrpz6l9m28fy884jxkf8bm-pub-watcher-1.1.1]]
+- [[h2w7lin1hjc7zq4fsfsmvjmzksa8i2jc-flutter-wrapped-3.27.4-sdk-links]]
+- [[hcxf8bbvy4kav4nn1i4m8a9v7zx9bnzh-pub-screen_retriever_windows-0.2.0]]
+- [[hfykfaz5lgz6a7bwail12ix6pblxyic5-pub-file_selector_linux-0.9.3+2]]
+- [[hkbb6drmm0lb5rryzs4dl53n5zxg2qi7-pub-file_selector_ios-0.5.3+1]]
+- [[hpf4brqybriw6ylmpwlm5xn06mja9096-pub-screen_retriever_linux-0.2.0]]
+- [[hv0wq4i22i818xagzp55z5vlyhapb4mg-pub-http_multi_server-3.2.2]]
+- [[hwh15c45wmv1l0qw4nsqjd27lkrfq2ld-pub-mime-2.0.0]]
+- [[hxx9iasb6324qkbj8w8bl95r46nlh6cb-dart-sdk-_macros]]
+- [[i1qrgqm87iz4zlazfhcw2frzn88k9vj2-pub-string_scanner-1.3.0]]
+- [[i7j7izq8pxi91yq018p1r4a2bh7rb4x0-pub-shortid-0.1.2]]
+- [[icvym54gv531wykx5fz80n23n8ib576i-pub-built_value-8.9.3]]
+- [[igdap3fsa69s0m893jybsa3xscw695hl-pub-csv-6.0.0]]
+- [[ilcgc9cam8p8n01czy9yfd1vbk6hs5km-pub-graphs-2.3.2]]
+- [[ir84c70h0wddsakcwsq80j35m96yzlg7-pub-vector_math-2.1.4]]
+- [[iy9dmcbx4cqd31p85kxvgvrbszqbrxkp-pub-url_launcher_web-2.3.3]]
+- [[j19n15l4pjaap1nfm7v1hvxq1xc0q9gv-pub-typed_data-1.4.0]]
+- [[j42qksal3kns40w3xli72jigzjxry86i-pub-build_daemon-4.0.3]]
+- [[j7bzc2mgq19bw1hfynl8nz700wmh2frm-pub-build_config-1.1.2]]
+- [[jg5irygynz14zp42w21c41p0qdpzshfi-pub-shelf-1.4.2]]
+- [[k97ykfz0clwa2ixq03px8j16ypfkfl14-dart-fixup-hook]]
+- [[ka4fp02f9mscx50w4gs0zd5r4daz90pn-flutter-sdk-flutter_localizations]]
+- [[kdacbqmhsz7ivsngnchi6c8dz7gzv4z8-pub-source_span-1.10.0]]
+- [[kdb116krrkvv5s9bdgmii2zbaxcilljs-pub-crypto-3.0.6]]
+- [[khq75vmrs3lfaqvd9gfbn0mgqgln7634-pub-slang-3.32.0]]
+- [[kpy1r97j5xgyf30g0hwxgh0kh9l07yc7-pub-file-7.0.1]]
+- [[kvfd3183lddb6afrsn5rkyhdxnrvx18w-pub-ffi-2.1.3]]
+- [[ln3q0nz7jff2jzgwsjggr350p6wm8zwg-pub-matcher-0.12.16+1]]
+- [[lr53lhfkl5bw4g59k5npbhln2srw7vbn-pub-file_selector_platform_interface-2.6.2]]
+- [[lvdvlk7cwad5mna0wfpz8jllb30jdj1n-pkg-config-wrapper-0.29.2]]
+- [[mlmyazm5x46gw15nc57z6dq4q5qw0k0g-pub-file_selector_macos-0.9.4+2]]
+- [[mxinhgpzc4z1351k7r2xxm0lgylwxj67-pub-package_config-2.1.1]]
+- [[mzd61z1xgy7dzw6angq8ykhi6n91srdb-pub-source_gen-1.5.0]]
+- [[nhcyvrpyxl5zp7b8wh5ind1b8y7f6i45-pub-custom_lint_core-0.7.0]]
+- [[nx7rfvwkwqmplsfq4lx7dj2qxqkqbsdc-pub-leak_tracker_flutter_testing-3.0.8]]
+- [[nxm34rj0ccyralq7var1dn2rg70pb3mc-pub-frontend_server_client-4.0.0]]
+- [[p45aiwqh9lv3bmv89ajjf49d7292ak35-pub-shared_preferences_windows-2.4.1]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[pdr9jv52c72xpbn5w0vwzp2xjj09bknd-pub-shared_preferences_platform_interface-2.4.1]]
+- [[pj9wlxksp2q5jsasz13zcwx07wln7j87-pub-archive-3.6.1]]
+- [[q50qh1mf1sihdh7xy5kscpypch6igavg-pub-characters-1.3.0]]
+- [[q9gwjqz8idjqlrz5pxk8gg4wfgw5l7lx-pub-build_runner_core-8.0.0]]
+- [[qi93h6y6mkwddbr7kcaikblixcv6qz6p-pub-args-2.6.0]]
+- [[qmlx2japknmpxcvaplzz09a6y2zky9h7-pub-tray_manager-0.3.1]]
+- [[qqb7b02im5g0idc47zicvwz7ymy1njqn-pub-build_runner-2.4.14]]
+- [[qsklsrrnqmqah08lqypnbdnq2gcjw2yv-pub-stream_transform-2.1.1]]
+- [[qwrb4m7wkkwxzbv6bwgn0qkp4aklql1w-pub-fast_gbk-1.0.0]]
+- [[qzrdx328gi2y7pp0zv83bsi00vlqq6w9-dart-config-hook]]
+- [[r6vvdssd9whiyd1wsy6jv0qrh8adk817-pub-lints-5.1.1]]
+- [[r8w7b0p61rm2mxf5yv24kfn707szkq50-pub-http-1.2.2]]
+- [[r91wm4fv3px6skwj1f12cdwcrvhimsh4-pub-shelf_web_socket-2.0.1]]
+- [[rgcxg6smyh0gkidjiwla7nsp75g2pl5k-pub-analyzer-6.11.0]]
+- [[rpd5ng15shq66gfr32fmq8ndbw9dxgzn-pub-clock-1.1.1]]
+- [[s17kw0f88sc4rjr4333n7k38mb0wzrbd-pub-async-2.11.0]]
+- [[s5cj4b5qdjssicmj1dhq5z61y6xi8bam-source]]
+- [[sflaqvx7x6gk8igl1vk4prpd6q32q0x6-pub-collection-1.19.0]]
+- [[sgchg5v3bf716b0wjsjidpwhygahm5k2-pub-file_selector_web-0.9.4+2]]
+- [[siqfwrsppvhwkjx3zcxhz8s5rac1szy3-pub-test_api-0.7.3]]
+- [[slbc9h6wbmzxh5zkx394hls5x593vkaj-alisthelper.desktop]]
+- [[slbv3x67wsfqn84pndmgq2sciwywzg8h-pub-url_launcher_windows-3.1.3]]
+- [[svw3xxyifs19xl9zwr4cbk0dqiys4dcr-dart-with-certs]]
+- [[vbb70ngj8pxgh3rglkw1qc7197i4v4jm-pub-screen_retriever_macos-0.2.0]]
+- [[vd3c6yasiddqzbpir69hssjjhaaldqy5-pub-logging-1.3.0]]
+- [[vfwqgsrf7c7nhkmv7dhsk9hxk3jh6kmx-pub-package_info_plus-8.1.2]]
+- [[vlg7q0fmcpapz6ysfvalrczf9c70hz2b-pub-dart_style-2.3.7]]
+- [[vy0525v1hz4gc7l0vh8d5b9zlbvznchb-pub-riverpod-2.6.1]]
+- [[w1zxvg96y1hcgs5wnyslx918c7ii0wb0-pub-pub_semver-2.1.5]]
+- [[w45g8q9w2k9q2k984g6kg1skzpa196y9-pub-shared_preferences_linux-2.4.1]]
+- [[w58qi0dxfcxsq450x6l8q3cxv2k4s47s-dart-build-hook]]
+- [[w7i0yij837cyy6qw4hqjr5chah4139qg-pub-image-4.3.0]]
+- [[wah7n9ag59wdmrpxhmqplkx564776anf-pub-package_info_plus_platform_interface-3.0.2]]
+- [[wci5s0njna9bp5fvc70ivs9bczq6pmr5-pub-url_launcher_platform_interface-2.3.2]]
+- [[wg8pqjxp9jsdrckhsjm498lcwnjqnid4-pub-cli_util-0.4.2]]
+- [[whbgzv7xs94lj1hf97m950dkwp84snv2-pub-riverpod_lint-2.6.3]]
+- [[x0wd0l91sddhxrx85j284d506kkxxggf-pub-uuid-4.5.1]]
+- [[x1k40kkdzhh0lpqgd6bfgdrdym9f80ni-pub-dio_web_adapter-2.0.0]]
+- [[x647vxklc8pd7ap4vqrkhaqrl1n5jlhj-pub-term_glyph-1.2.1]]
+- [[x87zp5vqlfcz2zvryrx0zvxv62pj3m72-pub-url_launcher_macos-3.2.2]]
+- [[xdjld505q614v154ncdisjidih6hfzlb-pub-file_selector_windows-0.9.3+3]]
+- [[xl354ywdpbd6vvk4n6byx58b7bgqikia-pub-win32-5.9.0]]
+- [[xpynca8ic8k3qcvwi11g8ibflh0zyyqz-pub-glob-2.1.2]]
+- [[xr5ln9x8nc68a3nk2bira0j6yj557jsp-pub-shared_preferences_android-2.4.0]]
+- [[y0l332mhdz98by141hxx2fiz4qjwnykb-pub-path_provider-2.1.5]]
+- [[y41yvq8vp54ny36c31bdxsik6gw6m76j-pub-built_collection-5.1.1]]
+- [[yc6ijavvcsxy68sfpfgpl74q6d8hiq10-pub-web_socket-0.1.6]]
+- [[yddipcyj8vssp3kq09y79lah7cmj9ii8-pub-json_annotation-4.9.0]]
+- [[yr8k3l1965pq0fcjrnx0z4p16cvfdk3z-pub-stream_channel-2.1.2]]
+- [[ywfydf4l75dsqz886l2k9280nk7hynvl-flutter-sdk-flutter]]
+- [[yyd2vz4iv55nm952zla7bs4n3hm5p3rq-pub-io-1.0.5]]
+- [[yywwznfk25ji2zsvl5py5znh2sy5b2fb-pub-url_launcher_linux-3.2.1]]
+- [[z91637xp0qyjfngc0z93h2jqgna3y2mq-pub-win32_registry-1.1.5]]
+- [[zlrnz0lsgq3s4p8nfbk6l48qhzskdzvk-flutter-sdk-flutter_web_plugins]]
+- [[zr1rkb9jvp7vzsis156aamf997dyj8yv-pub-flutter_riverpod-2.6.1]]
+- [[zrq3ca393xm9wjk5223r4lf2bsqngpjh-python3.13-yq-3.4.3]]
+- [[zxy22bf8yd5fjz501lvy3shvzcd2hgna-alisthelper-0.2.0-unstable-2025-01-04-package-config-with-root.json]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 11:53:59 UTC*

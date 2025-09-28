@@ -1,0 +1,55 @@
+---
+aliases:
+  - luajitPackages.luafilesystem
+tags:
+  - license/unknown
+  - maintainers/flosse
+  - outputs/out
+---
+
+# luajitPackages.luafilesystem
+
+## 📝 Description
+
+File System Library for the Lua Programming Language
+
+## 📋 Package Information
+
+- **Name**: `luajitPackages.luafilesystem`
+- **Version**: `1.8.0-1`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: File System Library for the Lua Programming Language
+- **Homepage**: [https://github.com/keplerproject/luafilesystem](https://github.com/keplerproject/luafilesystem)
+- **License**: `unknown`
+- **Platforms**: `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `x86_64-darwin`, `aarch64-darwin`
+## 👥 Maintainers
+
+- @flosse
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/asyslh7qyba1q1k23wq83n9mdkg7wwbw-luajit2.1-luafilesystem-1.8.0-1.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/lua-modules/generated-packages.nix:2713`
+- **Outputs**:
+  - `out`:  `/nix/store/asyslh7qyba1q1k23wq83n9mdkg7wwbw-luajit2.1-luafilesystem-1.8.0-1`
+
+## 🔗 Dependencies
+
+- [[9z86shfsipnvhncpr3njx8nmqs3ac33v-luafilesystem-1.8.0-1.rockspec]]
+- [[bh2d86m050mwif2d7ifiw8n5bpv2yhcj-luafilesystem-luarocks-config.lua]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[bya8qs2138a0dndg8yq4gjn4vm85p3jg-luarocks_bootstrap-3.12.2]]
+- [[f8cy03ybcfqydagg2g6qiz46ddgcdwwq-wrap-lua-hook]]
+- [[kyr7wd900bfw0w0fspcb26gg9cyh7aqd-source]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[q1vkgklakdylvgjy1mw1f2k7c0r1h3pi-luajit-2.1.1741730670]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:03:38 UTC*

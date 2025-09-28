@@ -1,0 +1,53 @@
+---
+aliases:
+  - pantheon.file-roller-contract
+tags:
+  - license/unknown
+  - maintainers/davidak
+  - maintainers/bobby285271
+  - outputs/out
+---
+
+# pantheon.file-roller-contract
+
+## 📝 Description
+
+Contractor extension for File Roller
+
+## 📋 Package Information
+
+- **Name**: `pantheon.file-roller-contract`
+- **Version**: `0-unstable-2021-02-22`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Contractor extension for File Roller
+- **Homepage**: [https://github.com/elementary/file-roller-contract](https://github.com/elementary/file-roller-contract)
+- **License**: `unknown`
+- **Platforms**: `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`
+## 👥 Maintainers
+
+- @davidak
+- @bobby285271
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/ci4zvwia85b2rxlgd31ja2gb1rj6awsj-file-roller-contract-0-unstable-2021-02-22.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/desktops/pantheon/desktop/file-roller-contract/default.nix:47`
+- **Outputs**:
+  - `out`:  `/nix/store/ci4zvwia85b2rxlgd31ja2gb1rj6awsj-file-roller-contract-0-unstable-2021-02-22`
+
+## 🔗 Dependencies
+
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[l56xas22wl3xxhxzx8w456x8xyga6fky-exec-path.patch]]
+- [[n434s1cc94sq3vgcj3zp2q9y1f6lvdnl-source]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:08:44 UTC*

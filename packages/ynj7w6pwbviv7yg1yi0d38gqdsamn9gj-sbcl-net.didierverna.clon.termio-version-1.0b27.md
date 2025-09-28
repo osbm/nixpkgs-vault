@@ -1,0 +1,58 @@
+---
+aliases:
+  - sbclPackages.net_dot_didierverna_dot_clon_dot_termio
+tags:
+  - license/unknown
+  - maintainers/7c6f434c
+  - maintainers/lukego
+  - maintainers/nagy
+  - maintainers/Uthar
+  - maintainers/hraban
+  - outputs/out
+---
+
+# sbclPackages.net_dot_didierverna_dot_clon_dot_termio
+
+## 📋 Package Information
+
+- **Name**: `sbclPackages.net_dot_didierverna_dot_clon_dot_termio`
+- **Version**: `1.0b27`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **License**: `unknown`
+## 👥 Maintainers
+
+- @7c6f434c
+- @lukego
+- @nagy
+- @Uthar
+- @hraban
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/ynj7w6pwbviv7yg1yi0d38gqdsamn9gj-sbcl-net.didierverna.clon.termio-version-1.0b27.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/lisp-modules/imported.nix:77029`
+- **Outputs**:
+  - `out`:  `/nix/store/ynj7w6pwbviv7yg1yi0d38gqdsamn9gj-sbcl-net.didierverna.clon.termio-version-1.0b27`
+
+## 🔗 Dependencies
+
+- [[21riwh5d3l4ssw0vpdm7msmhj32yfazi-asdf-3.3.6]]
+- [[4wbcwfd6xxxr1lzsw26p1kygf0bjxfgf-sbcl-net.didierverna.clon.core-version-1.0b27]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[jgx9y4qdkj8zgk3d1fh83888qy9klvc6-sbcl-2.5.7]]
+- [[lw5dgvid5vrgi162wb8kvm3l4akadmkm-asdf-3.3.6]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[rhk3jcch767ly1x5nhd99p94323m10sb-builder.lisp]]
+- [[sqfhrampfsszyfnqy7ny71rlz9v4ghrx-source]]
+- [[xihwfcl68g220bl6nkcrg56xws093qr7-sbcl-net.didierverna.clon.setup-version-1.0b27]]
+
+## 📁 Input Sources
+
+- `/nix/store/8dlzdap2c80wd0df8nnjzbv7jzmsmb6j-setup-hook.sh`
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:19:20 UTC*

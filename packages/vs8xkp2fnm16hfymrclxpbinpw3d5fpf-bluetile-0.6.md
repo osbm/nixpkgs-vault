@@ -1,0 +1,215 @@
+---
+aliases:
+  - haskellPackages.bluetile
+tags:
+  - license/unknown
+  - outputs/data
+  - outputs/doc
+  - outputs/out
+---
+
+# haskellPackages.bluetile
+
+## 📝 Description
+
+full-featured tiling for the GNOME desktop environment
+
+## 📋 Package Information
+
+- **Name**: `haskellPackages.bluetile`
+- **Version**: `0.6`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: full-featured tiling for the GNOME desktop environment
+- **Homepage**: [https://hackage.haskell.org/package/bluetile](https://hackage.haskell.org/package/bluetile)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/vs8xkp2fnm16hfymrclxpbinpw3d5fpf-bluetile-0.6.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/haskell-modules/hackage-packages.nix:112163`
+- **Outputs**:
+  - `data`:  `/nix/store/vs8xkp2fnm16hfymrclxpbinpw3d5fpf-bluetile-0.6`
+  - `doc`:  `/nix/store/vs8xkp2fnm16hfymrclxpbinpw3d5fpf-bluetile-0.6`
+  - `out`:  `/nix/store/vs8xkp2fnm16hfymrclxpbinpw3d5fpf-bluetile-0.6`
+
+## 🔗 Dependencies
+
+- [[023q70mrqbp6gh0d7fhppm3glxzvcwhl-libsysprof-capture-48.0]]
+- [[04sxd1ncbv87d14flich8a6g06jbyw6c-docbook-xsl-nons-1.79.2]]
+- [[09czc2lmk3acnqc529fmhll3myrn5gb0-p11-kit-0.25.5]]
+- [[0hif3pkvpwx3hcg1w6sn9v0w23vlvjzi-mpdecimal-4.0.1]]
+- [[0impmnj87ikwl3l6f63bqa2lnbfr89z7-regex-compat-0.95.2.2]]
+- [[0naxaa1qv8im32fmwrk12qiwfvwwkmsn-gnutls-3.8.10]]
+- [[0vksqqpjr9cbz18vw0fkb9kibrkbb2kv-libaio-0.3.113]]
+- [[1j90z3lj3fn4fahaishwg9blnrjw181g-zlib-1.3.1]]
+- [[1jgyc8pm0h5lnk0imm0bs3fhshis2hr2-cups-2.4.12]]
+- [[1l1lk431imzsf7jhqxqkf5kcj4p4da8p-libtiff-4.7.0]]
+- [[1lyd4v0q4jrjaw3sjmdkf221w108k3bj-tpm2-tss-4.1.3]]
+- [[1pa1d473qy04yg2yrx7zv7vhqkhrqjmj-libargon2-20190702]]
+- [[257k0vnqp1xjgyrpc5as1r0nl7s4yv71-python3-3.13.7]]
+- [[27h4jxxp4gg2r420bb8zqx36qyxc5kkm-acl-2.3.2]]
+- [[28phnmnqgzmkqlby0znahvp3bgx6d6vv-dbus-1.14.10]]
+- [[2bbbf4kb612sdcxn5cwyx6b4ip23j0qw-fribidi-1.0.16]]
+- [[2fbx94cnniix1a6h9b265icc5syn829m-libxfixes-6.0.1]]
+- [[2fp7i90frk8w33xd1fjsg41zkmqrly2s-X11-xft-0.3.4]]
+- [[2i7iy6qz2bz5x0zrx6dhqfq5jkz5mnvv-libwebp-1.6.0]]
+- [[2sgql247rkyqmnad6gl3pwmq6gsy13wz-libjpeg-turbo-3.1.1]]
+- [[3aflm58fw2kw8nkcnns7h4lgmrdf5hp8-xorgproto-2024.1]]
+- [[3alcyn8pyj0qplmf8gcgw1pzlws575xa-libgcrypt-1.11.1]]
+- [[3h2pqwsp2izzlynp9gjar39hm70nnz89-libxml2-2.14.5]]
+- [[3kgj31l4fhkbp0s74bzl7zvrr1v6aymc-libxcrypt-4.4.38]]
+- [[3nkkq001fqlhssnr54i3n5ji4i620c4j-libthai-0.1.29]]
+- [[3x5v3iw5jfsv2l6d08czxdzwwpdln5dq-libpwquality-1.4.5]]
+- [[3x9b536jpi37ckghfmn3wprwwzzcgvaw-ncurses-6.5]]
+- [[3z6dcp2i69nn7h8kwl6snf651i7ds14v-util-linux-minimal-2.41.1]]
+- [[3zc6j1j1qgis43ig9m9gl11iqf058s76-systemd-minimal-libs-257.8]]
+- [[4hshpk1b29y40ir9dc3k1l26fwv7s7zm-libdaemon-0.14]]
+- [[4lykrm96bxajhbrv42nzm365n9yf9s1y-coreutils-9.7]]
+- [[52xd402c60g0rd9dmxavhs6b0svl4lhx-c-ares-1.34.5]]
+- [[55skdvm9nvfv299nmajgpznd8x6mns9s-glibc-locales-2.40-66]]
+- [[5a7x5wjxi28zdlp9lk5fwacqc31ay31k-audit-4.1.1-unstable-2025-08-01]]
+- [[5fnl19ibazlhzcrmxg56s11v29rw1cqc-gmp-with-cxx-6.3.0]]
+- [[5pk1c33sk3d4zpbn4s0ng1ja4xww1bl4-freetype-2.13.3]]
+- [[5q13i7fxgggsrgd666cr07a14l57zc6n-attr-2.5.2]]
+- [[5rwg0dlg4lq9809ajkv47f38agvgvjbn-qrencode-4.1.1]]
+- [[629fvw2crss9xny88yp4mq2jly9d3fys-libcap-2.76]]
+- [[68zgjm8ri5fnq6m41hffd3vjk301s43h-glade-0.13.1]]
+- [[6f2psfx7f4xqqwq4cr5gs6mz7m3p9x3m-sqlite-3.50.2]]
+- [[6nq29vxzimg6ylivlb767b3pc915kmxy-libdeflate-1.24]]
+- [[778k2csi3cc3hcfa4rn5x94fprhrj7vd-libcap-2.76]]
+- [[7cjqi4a352nadlpmj0j7s0q60a7018bs-libfido2-1.16.0]]
+- [[7d5p0ip9nd3aj3r1a2pmhsxxizqqnis8-openssl-3.5.1]]
+- [[7ia3wflscqfim7w6vka9n5pwzzv5fdk1-lerc-4.0.0]]
+- [[7n47z3wca0sg1hlv5r7xcspmf6xhx8g0-random-1.2.1.3]]
+- [[8bk0s9hp267kv3khm8zkx9xmn0l74zls-lvm2-2.03.33]]
+- [[8fprw65xdpxhpfvbis3n521ds798vwxp-fontconfig-2.16.2]]
+- [[8np1czscddzfmi7vmm44smvpjxshlidi-gtk+-2.24.33]]
+- [[8qnbzfzx02j770il3g1smvq4rxp4jnb9-libpaper-1.1.29]]
+- [[8rgz3781yw1gmfkj3lg2z5pn1y5k855h-lz4-1.10.0]]
+- [[8yvfwjb13s0sxmzph2wzydbqfqyn33gv-cmocka-1.1.7]]
+- [[96vv66p4biczw55qf9jhwqn7awwn861h-elfutils-0.193]]
+- [[a11zhx32xg78ffjgam489wrkd6k1fc87-libxrender-0.9.12]]
+- [[aij3bxpfdp189pq4fx7p5cbqicnmmlcw-python3.13-pygments-2.19.2]]
+- [[ajjl874grisxsnd58mv6l0f0hs816xr4-keyutils-1.6.3]]
+- [[ap65r3906858k58jisl8qphg092ywhkp-zstd-1.5.7]]
+- [[asabv7p1bly5ilbbwjwsmv4wx75iwfmg-libtasn1-4.20.0]]
+- [[b7g7w8fpp6xqbq6z76rdyr1g5jww7f81-libffi-3.5.1]]
+- [[b7yyqflbca0d11xpis7ninr855lswb6g-libtpms-0.10.1]]
+- [[bfrhypf8s25npqqk6h8hi5qyr3apb3vr-gdk-pixbuf-2.42.12]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[blvqx16743m15pf34dx3gz0594bp7xxz-libev-4.33]]
+- [[c0xq4jfvgj5f7qnd63z8669g1nw2qqfk-gdbm-1.25]]
+- [[c4bw4p92lkx8hgx1fwv9bi6rxaqw3844-xtrans-1.6.0]]
+- [[ckbhs63bdk6smr2p59vfqvm5spd4d06x-python3.13-lxml-6.0.0]]
+- [[d99f4z55b6p4hx1wfl4r6d6i0zi5bh7m-libxext-1.3.6]]
+- [[dfbfn3xdmp098gdnxyxvf1fr8xvllr9h-die-hook]]
+- [[dfry6408h6w6wlsb8467jim481gx21id-bluez-headers-5.83]]
+- [[dkssw3csslvbv7cb9mrmfccns92l65c5-pango-1.56.3]]
+- [[ds3p1sk5y62cngcgfx0x3mri5kss4564-libsystemtap-5.3]]
+- [[dzbflnx51h460iv9b70crbgrnxia7m6w-graphite2-1.3.14]]
+- [[dzynf7h9bw2qvzwkzm5kmjbgqzpsxj00-systemd-257.8]]
+- [[f4a11v0j10hrng3f92y6wmv7flhpq2cs-libsepol-3.8.1]]
+- [[fgsn5jjqr306y6xzqzk6f9lz0g6zi3qa-nghttp2-1.66.0]]
+- [[fmcl48pl1yd2dj0i667whqy578xlns7z-at-spi2-core-2.56.2]]
+- [[fy9wjrqf0pzd5x3rvy665v50ff747wfd-libusb-1.0.29]]
+- [[g1smgp5dhq2ii8np7vm7n5znki3ak1b1-curl-8.14.1]]
+- [[g8z840a0f8v6dj59hlc1v5l3p1142h88-cracklib-2.10.3]]
+- [[g973l181l69ljshq42hyxbv63bh47vsf-tcl-package-hook]]
+- [[g9s1cin7si472p8slxcyd0k9wn1my2za-db-4.8.30]]
+- [[gjqh7zcy7ks7sx6hb2ngyi29dg77i8gq-libxdmcp-1.1.5]]
+- [[glca1gx472ps9qlivbdf7z5jdcdnsp9l-glib-2.84.4]]
+- [[gnxpxzfajq6f469akx81ws3c8b3c0v43-libevent-2.1.12]]
+- [[gy9bk0wfd8f2mzzwj5rqbp00adqbl7ph-remove-references-to]]
+- [[h52lzzip82l66c7bv23g7xckp89y5kgr-linux-headers-6.16]]
+- [[hldpdrxz067hmpbvd6jc00ssvf2y02z1-libsm-1.2.6]]
+- [[hndrmxpjpwd90cwf0glmm7s8hmh86ws9-libcbor-0.12.0]]
+- [[hqzsglqy38c278wglkm52jw1jiz2yf71-utf8-string-1.0.2]]
+- [[i1xgs6cdax445491kdkrl9dwkjrk3qjb-haskell-generic-builder-test-wrapper.sh]]
+- [[ikbyn6hpmn1bxp0jrqn5xjxssdjflq2j-libssh2-1.11.1]]
+- [[ilky15hn83zp9cxkh8bq41ph6nn2j61n-brotli-1.1.0]]
+- [[imwa73v5mnia95zg7pyx9v0y2vsy3yp7-libXft-2.3.9]]
+- [[iw7i7rklrzsglv5l2p8am46y9xa92s8r-xz-5.8.1]]
+- [[izjrwizjx9aif73k8wmnxbnwl8p11jfh-pcre2-10.44]]
+- [[jck0dxj37g3s35g1b1rmfpk5xas10ydj-json-c-0.18]]
+- [[jrpjbaj5dm8dnfcyvh4akyhfmq0cxbm9-linux-pam-1.7.1]]
+- [[jvk6w0wmh9f50wh0xr7mb7faz9ipbmzv-libseccomp-2.6.0]]
+- [[k2lm2qkl0haj7vph5sa2r97my0ah0q1b-libxslt-1.1.43]]
+- [[kgdq9f42qlk24s461xvbqi12gcl3krry-libxcb-1.17.0]]
+- [[l1ya8rcgk405jscx6136q18v70r0lamx-ghc-9.8.4]]
+- [[l66is72yl6ygl5cvzzady2jkzhafw5yj-giflib-5.2.2]]
+- [[ldd4j97x2kbkkgfbcnwb4nks2sipw70j-cryptsetup-2.8.1]]
+- [[lhw9cl3zbzmb2zj7fpi8dhxf930h9253-perl-5.40.0]]
+- [[li9izjgls3p576wmy48549fpz5amc9dm-libunistring-1.3]]
+- [[lm04lhx8p32b422wdq0xxq05ziamvhr0-xmonad-0.18.0]]
+- [[lm7x9kv0zsy40ln4pkk7xgdv6ph0i738-systemd-minimal-257.8]]
+- [[lvdvlk7cwad5mna0wfpz8jllb30jdj1n-pkg-config-wrapper-0.29.2]]
+- [[lw9n65hjs29677xgdhsfjwvmg900lyb9-unbound-1.23.1]]
+- [[lx74nhkyxrd35xdvnfrx9g875fy5iq6b-expect-5.45.4]]
+- [[m0h8vm7wnxqmzy77yph902p607lx7np5-gettext-0.25.1]]
+- [[mhj2iw889jzcq7hnx57rpsz608bmcpkv-libgpg-error-1.55]]
+- [[mzg1vkyzabv01ja719b3zj9hzwkzhyk2-libpng-apng-1.6.49]]
+- [[n6mi47bxj7qz72jlw0p5cgrjrad3ncwz-libXtst-1.2.5]]
+- [[nbs4s89xwvhfw78i1k44qn1w084264dy-libarchive-3.8.1]]
+- [[ncwfwpdzk937skayjxm8fivvfaw0f0fl-libXcomposite-0.4.6]]
+- [[nfccfj86560vhr037if3bdxdm390apj6-lzo-2.10]]
+- [[nimxv9jqla9w3ipfx3q544037a64g9hi-pixman-0.46.2]]
+- [[nnabhvz7y8qi9f4q0jqqffqh358pbbjz-docbook-xml-4.3]]
+- [[nncd4f9vl1alqwmiff6a138ppbsgbp5l-libx11-1.8.12]]
+- [[nxxwbr9r6d0lmdinjlwnxcx15sh4sdh2-libpthread-stubs-0.5]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[p7vh0rxmwc51dr5d88mlsnsdd6211wy9-libcap-ng-0.8.5]]
+- [[pasdgphxm21zciq62qw7bb0vwfdifmvn-glibc-iconv-2.40]]
+- [[pg5k3nk2hj6mq23nbhbl1n5ms9a8n8af-kexec-tools-2.0.31]]
+- [[pl5g9hwgxcwbzmn2dirzw70z0rzlc7m5-gtk-doc-1.34.0]]
+- [[pn03b9dijjmykv1k5sfjm4h990h4k25f-make-binary-wrapper-hook]]
+- [[pp99kqhfn7z3a58pjkv4kiyrs62k0bj4-readline-8.3p1]]
+- [[pzb6cxwarak8i9ksaad06zjpi8xc0z87-find-xml-catalogs-hook]]
+- [[q47lq4zkxkjhilb64lplfg9pv932n506-libxau-1.0.12]]
+- [[q6r8nhgmx37s1vk3580hn9q1illlh9n2-getopt-1.1.6]]
+- [[qmg0h7ddbh8r5iissdh538jgwx5xi189-kmod-31]]
+- [[qqmk5l3fq2k4wz8pk2jll640n8c9i508-libice-1.1.2]]
+- [[qzl8kni5a4xh81ampjh16cj72gkw4j4b-expat-2.7.1]]
+- [[r3kdaqapfllvdn7kd07qsz4nhqydfmvk-libbpf-1.6.2]]
+- [[r48wqvwdssqgvdmiak53raw5a193spbm-pcsclite-2.3.0]]
+- [[r9z4bs4rdsv0376d5994cyjf7sdrrrip-tcl-8.6.16]]
+- [[rix57vp0a7vjpp3dypqmw3zk7ijmk8l0-xcb-proto-1.17.0]]
+- [[rvsgycjzldbgg1l9f6bxrdncx02va128-libxrandr-1.5.4]]
+- [[sp2vq01660i7gmsgddk4x9di14gwny4m-gnum4-1.4.20]]
+- [[ssvbflwbsw4h8abcqpyr7svd8vp486rq-libpsl-0.21.5]]
+- [[v28sdl3535sxb6a71z5faqdzbns9pv0h-bash-interactive-5.3p3]]
+- [[v4dbfbxcdcywcfqmns3lfklh26b35s48-dejagnu-1.6.3]]
+- [[vdlaa8srlqmnaqsyhklmkz0i0fyyszl1-X11-1.10.3]]
+- [[vg0fvkssl3inzs170dlp4c1mn9ky9mm1-libidn2-2.3.8]]
+- [[vi2q33mvg3pg52mj1w5ar2gfk6zp7mvn-ConfigFile-1.1.4]]
+- [[vl1spy4bmycdq79cg5lb043d5c00r9z5-bluetile-0.6.tar.gz]]
+- [[vqqhx3h86pvinkvng94zfxgvcz4rgk76-tzdata-2025b]]
+- [[vv6azl8q2vy1m15dvmylqh2qq3vbz5q7-popt-1.19]]
+- [[vww2w4bppjkr8spz5gcq5hkr98pf85zs-cairo-1.18.4]]
+- [[vzja73jxbrjp0c6hxzkkbizc1v48n0xn-libxcursor-1.2.3]]
+- [[w330p370yzw3c5icrdm7n0jspcicv7qv-libselinux-3.8.1]]
+- [[wdsywa1x3n3s43zcsa0l29bnn5f37s88-libedit-20250104-3.1]]
+- [[wfx91klw4ibpspcz59hl5f5lkwj5ga31-libdatrie-2019-12-20]]
+- [[wnzrwrpjmgimdq9m4galpniq3lsxcspz-krb5-1.22.1]]
+- [[wwqharqfqnwvymvlci1g61zmlbfhj5n3-uthash-2.3.0]]
+- [[wz03pwsb7pmfvz3qymc88bz7c5wxs0fq-avahi-0.8]]
+- [[x40mn3pl4dfj4qifx27b2z976j7h8r7q-publicsuffix-list-0-unstable-2025-07-22]]
+- [[xsh1xzh45dh4z7s7aj6vvm8b267p3n6v-libXi-1.8.2]]
+- [[xzi8vwhqjkk3897fdmi6ib81iy93yw9y-harfbuzz-11.2.1]]
+- [[y4lfwlviqzkdrk9973a02vpl0fk4h1vy-bzip2-1.0.8]]
+- [[ylw29jpaama2xqrbyfzpgnmwjxc6mynj-libapparmor-4.1.1]]
+- [[yncb97l4w24iiwxqrv5y8ydqx8vp19sm-libmicrohttpd-1.0.2]]
+- [[ynxy9x9sqvvkd4fyijc2zydwpdxg7i0y-gtk-0.15.10]]
+- [[ys5n9m6s4jkrs6lmgbb2qzxdpw3j062z-xmonad-contrib-0.18.1]]
+- [[z5mbb6mvbc8p89rfcwgx27xfmkzzrv4b-libXinerama-1.1.5]]
+- [[zcqnvxxzciz32hjngdfybshixmx2lc8m-nettle-3.10.2]]
+
+## 📁 Input Sources
+
+- `/nix/store/4mdp8nhyfddh7bllbi7xszz7k9955n79-Setup.hs`
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:05:03 UTC*

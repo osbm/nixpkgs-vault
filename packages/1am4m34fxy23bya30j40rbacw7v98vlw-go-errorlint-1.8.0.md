@@ -1,0 +1,54 @@
+---
+aliases:
+  - go-errorlint
+tags:
+  - license/unknown
+  - maintainers/meain
+  - maintainers/polyfloyd
+  - outputs/out
+---
+
+# go-errorlint
+
+## 📝 Description
+
+Source code linter that can be used to find code that will cause problems with Go's error wrapping scheme
+
+## 📋 Package Information
+
+- **Name**: `go-errorlint`
+- **Version**: `1.8.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Source code linter that can be used to find code that will cause problems with Go's error wrapping scheme
+- **Homepage**: [https://github.com/polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint)
+- **License**: `unknown`
+- **Platforms**: `x86_64-darwin`, `aarch64-darwin`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `wasm64-wasi`, `wasm32-wasi`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`
+## 👥 Maintainers
+
+- @meain
+- @polyfloyd
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/1am4m34fxy23bya30j40rbacw7v98vlw-go-errorlint-1.8.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/by-name/go/go-errorlint/package.nix:28`
+- **Outputs**:
+  - `out`:  `/nix/store/1am4m34fxy23bya30j40rbacw7v98vlw-go-errorlint-1.8.0`
+
+## 🔗 Dependencies
+
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[jj3mb539piascx0q8009z3hk41w5d9kw-go-errorlint-1.8.0-go-modules]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[pxn4bbdbwd25r02kvp7a1jp3fjykrb65-go-1.25.0]]
+- [[rii1sgij9m1k1f7c07d8z9siy3mgfp4d-source]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 11:48:38 UTC*

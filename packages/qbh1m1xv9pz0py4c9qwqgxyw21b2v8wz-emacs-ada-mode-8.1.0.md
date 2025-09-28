@@ -1,0 +1,57 @@
+---
+aliases:
+  - emacsPackages.ada-mode
+tags:
+  - license/unknown
+  - maintainers/sternenseemann
+  - outputs/out
+---
+
+# emacsPackages.ada-mode
+
+## 📋 Package Information
+
+- **Name**: `emacsPackages.ada-mode`
+- **Version**: `8.1.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Homepage**: [https://elpa.gnu.org/packages/ada-mode.html](https://elpa.gnu.org/packages/ada-mode.html)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+## 👥 Maintainers
+
+- @sternenseemann
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/qbh1m1xv9pz0py4c9qwqgxyw21b2v8wz-emacs-ada-mode-8.1.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/applications/editors/emacs/elisp-packages/elpa-generated.nix:101`
+- **Outputs**:
+  - `out`:  `/nix/store/qbh1m1xv9pz0py4c9qwqgxyw21b2v8wz-emacs-ada-mode-8.1.0`
+
+## 🔗 Dependencies
+
+- [[0vlnxlyvsj0sc1l7vm7xn0cj0r0i4h6k-gprbuild-25.0.0]]
+- [[7q3z3baqjjc2423czrqy7xmxcv3y420c-emacs-wisi-4.3.2]]
+- [[b4pa5k4if2jl33f1ynicjwz2nihy4z3c-texinfo-7.2]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[dj4071dniqn7lsyg67yyxx1rjqp3zk6v-emacs-30.2]]
+- [[hvz9si7kbv35wbn5660nh68h3iy5m69b-wisi-4.3.2.tar]]
+- [[ixx9yxbr5m9dpfmppai52mgw663v388i-dos2unix-7.5.2]]
+- [[jiw2mq2bhfa2f430gi6bfy58wkfhgkyq-gnat-wrapper-13.4.0]]
+- [[l13bvw6pba2n5hyham58mdx823p2frm6-emacs-uniquify-files-1.0.4]]
+- [[llcbd15zdzzm49c9fv4c1pzb3amikcx5-emacs-gnat-compiler-1.0.3]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[wan5514dvfgi8nysslrq2a6d8kdx7x3b-gnatcoll-xref-25.0.0]]
+- [[y12pyln8j63547xag1ird6hmplvwcgnp-ada-mode-8.1.0.tar]]
+- [[yg4g4ds435d8ahdws9h2vv87acnr2s6k-re2c-4.3]]
+
+## 📁 Input Sources
+
+- `/nix/store/3dqdl3w07k2amg65q61q15qm6wanmfac-elpa2nix.el`
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:02:46 UTC*

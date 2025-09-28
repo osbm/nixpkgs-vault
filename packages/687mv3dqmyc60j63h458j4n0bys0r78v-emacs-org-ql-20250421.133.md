@@ -1,0 +1,57 @@
+---
+aliases:
+  - emacsPackages.org-ql
+tags:
+  - license/unknown
+  - outputs/out
+---
+
+# emacsPackages.org-ql
+
+## 📋 Package Information
+
+- **Name**: `emacsPackages.org-ql`
+- **Version**: `20250421.133`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Homepage**: [https://github.com/alphapapa/org-ql](https://github.com/alphapapa/org-ql)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/687mv3dqmyc60j63h458j4n0bys0r78v-emacs-org-ql-20250421.133.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/applications/editors/emacs/elisp-packages/libgenerated.nix:139`
+- **Outputs**:
+  - `out`:  `/nix/store/687mv3dqmyc60j63h458j4n0bys0r78v-emacs-org-ql-20250421.133`
+
+## 🔗 Dependencies
+
+- [[32b7pl86bvrjnrx0abxzs5hwnvld83r5-emacs-s-20220902.1511]]
+- [[3r6q7d3hksmv2qh824f7lry86049yrfa-emacs-ts-20220822.2313]]
+- [[60nj2k6q3qvy6rmnp29wk3gp41rnzszs-emacs-dash-20250312.1307]]
+- [[anih15jrkq88k6d52b5689ylgqlql32f-emacs-transient-20250816.1830]]
+- [[b4pa5k4if2jl33f1ynicjwz2nihy4z3c-texinfo-7.2]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[cphd5bkglynrndk2c256wkv3civv9lwd-emacs-f-20241003.1131]]
+- [[dj4071dniqn7lsyg67yyxx1rjqp3zk6v-emacs-30.2]]
+- [[fscz12m3939bskimfinbi6h3ijd3kya9-package-build]]
+- [[hi71vi0wzc6facr3xm0jzb80882xvffn-emacs-compat-30.1.0.1]]
+- [[l1i1nz6n3b6fdxbjrc53hjm4hpwaxp6l-emacs-peg-1.0.1]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[q9z62qj515gyvjb7wbpafkchcbsy9084-emacs-org-super-agenda-20250421.130]]
+- [[r9m4nasaqi6si3apjbsfbw3y46z7490i-emacs-ov-20230522.1117]]
+- [[rj46sq0dd2b5y5clsv8g9n1gw82kdfb4-source]]
+- [[v6a22izp8s8g5xpzixda6s27cjkhvk4p-emacs-map-3.3.1]]
+- [[vfpfskqczzkkq2npfb5a2rsaykwqh1dk-org-ql-recipe]]
+- [[xzbv4v69s0q67g350bv613sjz0hx8my5-emacs-org-9.7.34]]
+
+## 📁 Input Sources
+
+- `/nix/store/3dqdl3w07k2amg65q61q15qm6wanmfac-elpa2nix.el`
+- `/nix/store/8j3sn6zk4rqbrjsfhvp50h93s940jzrs-melpa2nix.el`
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 11:50:36 UTC*

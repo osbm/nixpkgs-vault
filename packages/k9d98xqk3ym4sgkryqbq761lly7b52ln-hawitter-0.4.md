@@ -1,0 +1,69 @@
+---
+aliases:
+  - haskellPackages.hawitter
+tags:
+  - license/unknown
+  - outputs/data
+  - outputs/doc
+  - outputs/out
+---
+
+# haskellPackages.hawitter
+
+## 📝 Description
+
+A twitter client for GTK+. Beta version.
+
+## 📋 Package Information
+
+- **Name**: `haskellPackages.hawitter`
+- **Version**: `0.4`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: A twitter client for GTK+. Beta version.
+- **Homepage**: [https://hackage.haskell.org/package/hawitter](https://hackage.haskell.org/package/hawitter)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `aarch64-genode`, `i686-genode`, `x86_64-genode`, `x86_64-solaris`, `javascript-ghcjs`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `mmix-mmixware`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `aarch64_be-none`, `aarch64-none`, `arm-none`, `armv6l-none`, `avr-none`, `i686-none`, `microblaze-none`, `microblazeel-none`, `mips-none`, `mips64-none`, `msp430-none`, `or1k-none`, `m68k-none`, `powerpc-none`, `powerpcle-none`, `riscv32-none`, `riscv64-none`, `rx-none`, `s390-none`, `s390x-none`, `vc4-none`, `x86_64-none`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`, `wasm64-wasi`, `wasm32-wasi`, `aarch64-windows`, `x86_64-windows`, `i686-windows`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/k9d98xqk3ym4sgkryqbq761lly7b52ln-hawitter-0.4.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/development/haskell-modules/hackage-packages.nix:314333`
+- **Outputs**:
+  - `data`:  `/nix/store/k9d98xqk3ym4sgkryqbq761lly7b52ln-hawitter-0.4`
+  - `doc`:  `/nix/store/k9d98xqk3ym4sgkryqbq761lly7b52ln-hawitter-0.4`
+  - `out`:  `/nix/store/k9d98xqk3ym4sgkryqbq761lly7b52ln-hawitter-0.4`
+
+## 🔗 Dependencies
+
+- [[4lykrm96bxajhbrv42nzm365n9yf9s1y-coreutils-9.7]]
+- [[55skdvm9nvfv299nmajgpznd8x6mns9s-glibc-locales-2.40-66]]
+- [[68zgjm8ri5fnq6m41hffd3vjk301s43h-glade-0.13.1]]
+- [[6g508zaiwjxgs3ksg2zzalkxxw9d8v40-regex-base-0.94.0.3]]
+- [[a2lbqyc6g5cfnqn2lcmgpa89i73mbmv6-hoauth-0.3.5]]
+- [[ayll9kkkn87crh5hlwd2jlpcbpd2w733-old-locale-1.0.0.7]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[cnprmbv14r5si6yjgb2hsj0s4vyzrlp6-hawitter-0.4.tar.gz]]
+- [[fhjakw5yi0jfzkqmmixrk5bysvx0f1wy-regex-tdfa-1.3.2.4]]
+- [[gp2972pa72brxmyy7xvqfv93bgvmr3rj-base64-string-0.2]]
+- [[gy9bk0wfd8f2mzzwj5rqbp00adqbl7ph-remove-references-to]]
+- [[hqzsglqy38c278wglkm52jw1jiz2yf71-utf8-string-1.0.2]]
+- [[i1xgs6cdax445491kdkrl9dwkjrk3qjb-haskell-generic-builder-test-wrapper.sh]]
+- [[ick327mx10f7bx152bdka30gpkxhbpf5-json-0.11]]
+- [[kkjq2jy6g7vffr8lasc8c7xpw7nl38pc-HTTP-4000.4.1]]
+- [[l1ya8rcgk405jscx6136q18v70r0lamx-ghc-9.8.4]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+- [[pwqwqmhzcb42vma2yh9qqbh909c1l7sa-gconf-0.13.1.0]]
+- [[qkl6gcgh2j67yy10q2gb6kbq8gnjwmda-clock-0.8.4]]
+- [[v3ypk995pg4cs26qah9dm0j85cp5262m-network-3.2.7.0]]
+- [[ynxy9x9sqvvkd4fyijc2zydwpdxg7i0y-gtk-0.15.10]]
+- [[yq5hrbrg9m3nvs69nx9psh7d8q3kq45y-SHA-1.6.4.4]]
+
+## 📁 Input Sources
+
+- `/nix/store/4mdp8nhyfddh7bllbi7xszz7k9955n79-Setup.hs`
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:07:10 UTC*

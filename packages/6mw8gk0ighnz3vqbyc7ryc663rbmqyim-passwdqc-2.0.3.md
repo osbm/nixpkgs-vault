@@ -1,0 +1,51 @@
+---
+aliases:
+  - passwdqc
+tags:
+  - license/unknown
+  - outputs/man
+  - outputs/out
+---
+
+# passwdqc
+
+## 📝 Description
+
+Passphrase strength checking and enforcement
+
+## 📋 Package Information
+
+- **Name**: `passwdqc`
+- **Version**: `2.0.3`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: Passphrase strength checking and enforcement
+- **Homepage**: [https://www.openwall.com/passwdqc/](https://www.openwall.com/passwdqc/)
+- **License**: `unknown`
+- **Platforms**: `i686-cygwin`, `x86_64-cygwin`, `x86_64-darwin`, `aarch64-darwin`, `i686-freebsd`, `x86_64-freebsd`, `aarch64-freebsd`, `x86_64-solaris`, `aarch64-linux`, `armv5tel-linux`, `armv6l-linux`, `armv7a-linux`, `armv7l-linux`, `i686-linux`, `loongarch64-linux`, `m68k-linux`, `microblaze-linux`, `microblazeel-linux`, `mips-linux`, `mips64-linux`, `mips64el-linux`, `mipsel-linux`, `powerpc-linux`, `powerpc64-linux`, `powerpc64le-linux`, `riscv32-linux`, `riscv64-linux`, `s390-linux`, `s390x-linux`, `x86_64-linux`, `aarch64-netbsd`, `armv6l-netbsd`, `armv7a-netbsd`, `armv7l-netbsd`, `i686-netbsd`, `m68k-netbsd`, `mipsel-netbsd`, `powerpc-netbsd`, `riscv32-netbsd`, `riscv64-netbsd`, `x86_64-netbsd`, `i686-openbsd`, `x86_64-openbsd`, `x86_64-redox`
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/6mw8gk0ighnz3vqbyc7ryc663rbmqyim-passwdqc-2.0.3.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/by-name/pa/passwdqc/package.nix:65`
+- **Outputs**:
+  - `man`:  `/nix/store/6mw8gk0ighnz3vqbyc7ryc663rbmqyim-passwdqc-2.0.3`
+  - `out`:  `/nix/store/6mw8gk0ighnz3vqbyc7ryc663rbmqyim-passwdqc-2.0.3`
+
+## 🔗 Dependencies
+
+- [[3fkrj504y393yq2df1337035l6nv18l0-source]]
+- [[3kgj31l4fhkbp0s74bzl7zvrr1v6aymc-libxcrypt-4.4.38]]
+- [[3niw8gzxsg8mvv4dcbc7c2qh5da16812-0001-fix-solaris-macos-builds.patch]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+- [[jrpjbaj5dm8dnfcyvh4akyhfmq0cxbm9-linux-pam-1.7.1]]
+- [[lvdvlk7cwad5mna0wfpz8jllb30jdj1n-pkg-config-wrapper-0.29.2]]
+- [[p76r0cwlf6k97ibprrpfd8xw0r8wc3nx-stdenv-linux]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 12:08:20 UTC*

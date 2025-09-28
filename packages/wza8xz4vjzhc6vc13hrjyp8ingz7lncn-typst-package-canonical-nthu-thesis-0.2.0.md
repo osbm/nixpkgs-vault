@@ -1,0 +1,49 @@
+---
+aliases:
+  - typstPackages.canonical-nthu-thesis
+tags:
+  - license/unknown
+  - maintainers/cherrypiejam
+  - outputs/out
+---
+
+# typstPackages.canonical-nthu-thesis
+
+## 📝 Description
+
+A template for master theses and doctoral dissertations for NTHU (National Tsing Hua University
+
+## 📋 Package Information
+
+- **Name**: `typstPackages.canonical-nthu-thesis`
+- **Version**: `0.2.0`
+- **Available**: ✅ Yes
+- **Broken**: ✅ No
+- **Description**: A template for master theses and doctoral dissertations for NTHU (National Tsing Hua University
+- **Homepage**: [https://codeberg.org/kotatsuyaki/canonical-nthu-thesis](https://codeberg.org/kotatsuyaki/canonical-nthu-thesis)
+- **License**: `unknown`
+## 👥 Maintainers
+
+- @cherrypiejam
+
+
+## 🔧 Build Information
+
+- **Derivation Path**: `/nix/store/wza8xz4vjzhc6vc13hrjyp8ingz7lncn-typst-package-canonical-nthu-thesis-0.2.0.drv`
+- **Source Position**: `/nix/store/ns30sqxb36k8jrds8z18rv96bpnwc60d-source/pkgs/by-name/ty/typst/typst-packages.nix:39`
+- **Outputs**:
+  - `out`:  `/nix/store/wza8xz4vjzhc6vc13hrjyp8ingz7lncn-typst-package-canonical-nthu-thesis-0.2.0`
+
+## 🔗 Dependencies
+
+- [[62bx29nfr8rvm9860ah9xdbl6813c6lx-source]]
+- [[6dg1vi55ynf4dmkmmcn945pwdz010s34-stdenv-linux]]
+- [[bjsb6wdjykafnkixq156qdvmxhsm2bai-bash-5.3p3]]
+
+## 📁 Input Sources
+
+- `/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh`
+- `/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh`
+
+---
+*Generated on 2025-09-27 13:00:50 UTC*
